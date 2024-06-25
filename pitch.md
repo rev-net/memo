@@ -58,7 +58,7 @@ The next step is to take the now fully-featured Juicebox language and shape it f
 
 ## RRG
 
-We will continue to leverage the open internet to make experimental progress, but we'd also like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the traditional world. We want to create a real world studio production environment, a setting to build  web tools (like [app.rev.eth.sucks](app.rev.eth.sucks) that make revnets accessible to browse and participate in, and to onboard revnet builders and users from.
+We will continue to leverage the open internet to make experimental progress, but we'd also like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the traditional world while giving revnets access to traditional capital. We want to create a real world studio production environment, and a traditional legal setting to build web tools (like [app.rev.eth.sucks](app.rev.eth.sucks) that make revnets accessible to browse, participate, and invest in.
 
 ### Mission
 
