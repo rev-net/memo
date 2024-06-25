@@ -24,7 +24,17 @@
 
 ## Thesis
 
-Dominant organizational and financial models have always suited the technologies of their respective eras. In this era of internet-native businesses and AI, corporate-stock models of organization have become anachronistic when used as the sole means of expressing a network's ambitions.
+Major technological breakthroughs force entrepreneurs, capital providers, and regulators to create and use new financial structures. The designs of these structures are informed by the contours of the technological developments they correspond to – it isn't a coincidence that joint-stock companies were the defining structure for the mercantile era, that limited liability corporations defined the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
+
+This decade has seen major developments within a handful of technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players have tried to address this by combining standard for-profit companies with experimental structures, leading to mixed results.[^2]
+
+Smart contracts offer a path forward by:
+
+- Expanding the design space for financial structures, making it possible to express financial relationships which would be impractical to encode and manage through contractual agreements.
+- Providing clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce in practice).
+- Making it impossible to *not* be transparent, minimizing information asymmetry and simplifying diligence for all participants.
+
+But these positive qualities are diminished when each project uniquely implements its own structure – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
 
 We want to double down on a vision of how wealth will be most productively created and distributed in our future characterised by digital networks, artificial intelligence, and cryptographic identities.
 
@@ -32,7 +42,7 @@ We want to double down on a vision of how wealth will be most productively creat
 
 Smart contracts allow us to program financial relationships. They make it possible to articulate exchanges between the producer and consumer, investor and entrepreneur, artist and fan, and participants in a system more generally. They are a recent feature of our world, and they can be leveraged in arbitrarily colorful ways.
 
-Jango has spent the past 3 years helping sculp smart contracts to progress a specialized language for articulating these financial relationship experiments, and the past 2 years refining that language in production as Juicebox, which has facilitated $177,115,741 in ETH payments to 1,182 projects as it has tended towards increased reliability for public use. He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
+Jango has spent the past 3 years helping sculpt smart contracts to progress a specialized language for articulating these financial relationship experiments, and the past 2 years refining that language in production as Juicebox, which has facilitated $177,115,741 in ETH payments to 1,182 projects as it has tended towards increased reliability for public use. He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
 
 ## Problem
 
@@ -61,7 +71,7 @@ We’re selling 10% of the company Revnet Research Group at a $20m valuation in 
 We will use a SAFE, and deploy a Revnet Research Group project on Juicebox with an allowlist for the funding and operation of this project. Only investors we've agreed to work with and who agree to the SAFE's legal bindings we'll draft together will have access, though the data will be public.
 
 ### Structure 
-RRG Incorporated in the USA as a Deleware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
+RRG Incorporated in the USA as a Delaware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
 
 Everyone gets to participate according to the same known rules from the start. 
 
@@ -82,7 +92,7 @@ The Juicebox community is about to deploy the first handful of revnets alongside
 
 ### Bottom line
  
-RRG accumulates $REV and other promising revnet-based tokens, and adds value to them in two ways: by making web tools (like app.rev.eth.sucks) that make revnets accessible to see andparticipate in, and by onboarding internet projects who would benefit.
+RRG accumulates $REV and other promising revnet-based tokens, and adds value to them in two ways: by making web tools (like app.rev.eth.sucks) that make revnets accessible to see and participate in, and by onboarding internet projects who would benefit.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from a revnet. RRG will receive a subset of new issuance as fees and other contributions come in (see specs below).
 
@@ -148,11 +158,11 @@ _Vest more $REV for pre-net work._
 
 ## Legal
 
-Each revnet’s rules are defined upfront, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no manegerial effort attached to an expectation of profit.
+Each revnet’s rules are defined upfront, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no managerial effort attached to an expectation of profit.
 
 The time is now to learn from the legal outcomes of the past few years and bet big on deterministic mechanisms where no entity can change or control the rules once deployed, that benefits from facilitating fully auditable public data only.
 
-RRG has it's own manegerial efforts and thus is selling structured access to a C-Corp via a SAFE, but engages with the $REV economy only as a token holder.
+RRG has it's own managerial efforts and thus is selling structured access to a C-Corp via a SAFE, but engages with the $REV economy only as a token holder.
 
 ## Examples of revnets
 
@@ -166,4 +176,8 @@ RRG has it's own manegerial efforts and thus is selling structured access to a C
 - *[$SPHINX]():* Supports the building of the open source Sphinx multichain devops platform that Juicebox uses to manage deploys. (soon)
 
 Learn more and reach us from RRG at [rev.eth.sucks](rev.eth.sucks).
+
+
+[^1]: Other recent examples: the gig economy, DAOs, and remote work.
+[^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. [OpenAI](https://openai.com/our-structure/) is governed by a non-profit board with a for-profit subsidiary, with the subsidiary being "legally bound to pursue the Nonprofit’s mission". The non-profit board exercised its power by firing CEO Sam Altman, leading to a company-wide revolt, his reinstatement, and a significant board restructuring.
 
