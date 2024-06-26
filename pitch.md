@@ -158,7 +158,7 @@ _Vest more $REV for pre-net work._
 
 Each revnet’s rules are defined upfront, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no managerial effort attached to an expectation of profit.
 
-The time is now to learn from the legal outcomes of the past few years and bet big on deterministic mechanisms where no entity can change or control the rules once deployed, that benefits from facilitating fully auditable public data only.
+The time is now to learn from the legal outcomes of the past few years and bet big on deterministic mechanisms where no entity can change or control the rules once deployed, which also benefit from facilitating fully auditable public data only.
 
 RRG has it's own managerial efforts and thus is selling structured access to a C-Corp via a SAFE, but engages with the $REV economy only as a token holder.
 
