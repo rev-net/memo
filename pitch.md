@@ -1,4 +1,4 @@
-## Table of Contents
+## Contents
 1. [Thesis](#thesis)
 2. [Context](#context)
 3. [Problem](#problem)
