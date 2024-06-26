@@ -113,7 +113,7 @@ Each revnet is make up of a $TOKEN, and defined in stages. Each stage specifies 
 
 - **Duration:** How long does the stage last? A revnet’s last stage lasts forever.
 
-- **Starting price:** How much does it cost to buy a $TOKEN at the start of the stage? The value stays within the revnet and can only be accessed by $TOKEN holders who cash out.
+- **Starting price:** How much does it cost to buy a $TOKEN at the start of the stage? The paid value stays within the revnet and can only be accessed by $TOKEN holders who cash out.
 
 - **Price increase:** How frequently does the price of $TOKEN increase within the stage?
 
