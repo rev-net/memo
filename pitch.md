@@ -68,12 +68,10 @@ Tokenize fundraises and revenues to align incentives while reducing risks of gro
 We’re selling 10% of the company Revnet Research Group at a $20m valuation in August 2024.
 
 ### Fundraising operations
-We will use a SAFE, and deploy a Revnet Research Group project on Juicebox with an allowlist for the funding and operation of this project. Only investors we've agreed to work with and who agree to the SAFE's legal bindings we'll draft together will have access, though the data will be public.
+We will use a SAFE.
 
 ### Structure 
-RRG Incorporated in the USA as a Delaware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
-
-Everyone gets to participate according to the same known rules from the start. 
+RRG is Incorporated in the USA as a Delaware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
 
 ### Onchain management 
 A multisig at rrg.rev.eth, 3/6 from:
