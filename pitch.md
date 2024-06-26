@@ -88,7 +88,7 @@ A multisig at rrg.rev.eth, 3/6 from:
 Managed by Jango with help from Filip, Aeolian, KMac, and others from the Juicebox community.
 
 ### Ideal partners
-The Juicebox community is about to deploy the first handful of revnets alongside Juicebox V4 ($NANA, $REV, $BANNY, $NANCE, $SUCKS, $DEFIFA, $CROPTOP, $SPHINX). They are currently on testnets. We're fundraising as RRG to fund the growth work of extending these revnets to more people, and inviting new revnets to emerge. We're looking for partners that can help with this goal.
+The Juicebox community is about to deploy the first handful of revnets alongside Juicebox V4 ($NANA, $REV, $BANNY, $NANCE, $SUCKS, $DEFIFA, $CROPTOP, $SPHINX). They are currently on testnets. We're fundraising as RRG to fund the growth work of extending these revnets to more people, and inviting new revnets to emerge. We're looking for partners that believe in the mission, beleive in the team, and can help make this launch chapter successful.
 
 ### Bottom line
  
