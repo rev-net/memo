@@ -65,7 +65,7 @@ We will continue to leverage the open internet to make experimental progress, bu
 Tokenize fundraises and revenues to align incentives while reducing risks of growing openly accounted for organizations.
 
 ### Pitch to investors
-We’re selling 10% of the company Revnet Research Group at a $20m valuation in August 2024.
+We’re selling 10% of the company Revnet Research Group at a $50m valuation in August 2024.
 
 ### Fundraising operations
 We will use a SAFE.
