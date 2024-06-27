@@ -1,11 +1,12 @@
 ## Contents
-1. [Thesis](#thesis)
-2. [Context](#context)
-3. [Problem](#problem)
-4. [Big bet](#big-bet)
+1. [Overview](#overview)
+2. [Thesis](#thesis) 
+3. [Context](#context)
+4. [Problem](#problem)
+5. [Big bet](#big-bet)
     - [Revnets](#revnets)
     - [Networked treasuries](#networked-treasuries)
-5. [RRG](#rrg)
+6. [RRG](#rrg)
     - [Pitch to investors](#pitch-to-investors)
     - [Fundraising operations](#fundraising-operations)
     - [Structure](#structure)
@@ -14,16 +15,16 @@
     - [Timing](#timing)
     - [Bottom line](#bottom-line)
     - [Roadmap](#roadmap)
-6. [$REV](#rev)
+7. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-7. [Legal](#legal)
-8. [Investor FAQ](#investor-faq)
-9. [Examples of revnets](#examples-of-revnets)
+8. [Legal](#legal)
+9. [Investor FAQ](#investor-faq)
+10. [Examples of revnets](#examples-of-revnets)
 
-## Thesis
+## Overview
 
 Major technological breakthroughs force entrepreneurs, capital providers, and regulators to create and use new financial structures. The designs of these structures are informed by the contours of the technological developments they correspond to – it isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) defined the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
 
@@ -46,11 +47,11 @@ The need for a reliable and productive structure to point raised funds and oncha
 - Trust is maximized. Investors, builders, community, and customers know each revnet's rules will be enforced.
 - Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
+## Thesis
+
 We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities, we're after partners to help propel this thesis forward.
 
 ## Context
-
-<!--TODO: Make this shorter-->
 
 Juicebox was launched by [Jango](https://jango.eth.sucks) and Peri in July 2021 as an experimental financial model which used smart contracts to allow (TODO...) . As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects, 
 
