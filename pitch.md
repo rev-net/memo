@@ -170,11 +170,19 @@ _The price of issuing new $REV is doubled every 77 days, forever._
 
 ### $REV stage 3
 _Vest more $REV for pre-net work._
-- **Duration:** Forever.
+- **Duration:** 7070 days. (~20 years)
 - **Initial price:** Where stage 2 left off.
 - **Price increase:** Continue doubling every 77 days.
 - **Split:** No change. 38% of issuance and buybacks operated by rrg.rev.eth, 19% routed to rrg.rev.eth, 19% to dao.jbx.eth.
 - **Automint:** 128_000 $REV to rrg.rev.eth for pre-net work, split 35_000 to dao.jbx.eth, 20_000 to breadfruit, 20_000 to filipv, 20_000 to codalabs, 10_000 to openesquire, 5_000 to kmac, 5_000 to 0xBa5ed, 5_000 to nowonder, 5_000 to peel, 1_000 to drgorilla, 1_000 to juicecast, 1_000 to peacenode, 1_000 to LJ.
+- **Cash out tax:** No change. Medium-high (0.6).
+
+### $REV stage 4
+_End issuance and splits._
+- **Duration:** Forever.
+- **Initial price:** 0. No more issuance.
+- **Price increase:** None, since there's no more issuance.
+- **Split:** None.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ## Legal
