@@ -25,29 +25,40 @@
 
 ## Thesis
 
-Major technological breakthroughs force entrepreneurs, capital providers, and regulators to create and use new financial structures. The designs of these structures are informed by the contours of the technological developments they correspond to – it isn't a coincidence that joint-stock companies were the defining structure for the mercantile era, that limited liability corporations defined the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
+Major technological breakthroughs force entrepreneurs, capital providers, and regulators to create and use new financial structures. The designs of these structures are informed by the contours of the technological developments they correspond to – it isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) defined the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
 
-This decade has seen major developments within a handful of technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players have tried to address this by combining standard for-profit companies with experimental structures, leading to mixed results.[^2]
+This decade has seen major developments within a handful of technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, Maker, and Compound have tried to address this by combining standard for-profit companies with experimental structures (often DAOs), often leading to mixed results and dysfunctional governance.[^2]
 
-Smart contracts offer a path forward by:
+When these experimental structures fail, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) offer a path forward by:
 
-- Expanding the design space for financial structures, making it possible to express financial relationships which would be impractical to encode and manage through contractual agreements.
+- Expanding the design space for financial structures, making it possible to express relationships which would be impractical to manage with contractual agreements. This includes designs with better incentive alignment – when ownership and access are always directly proportional to contribution, incentive alignment is a given.
 - Providing clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce in practice).
 - Making it impossible to *not* be transparent, minimizing information asymmetry and simplifying diligence for all participants.
 
-But these positive qualities are diminished when each project uniquely implements its own structure – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
+But these positive qualities can be diminished when each project implements its own financial structure uniquely – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
 
-We want to double down on a vision of how wealth will be most productively created and distributed in our future characterised by digital networks, artificial intelligence, and cryptographic identities.
+In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded by smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
+
+This motivation led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
+
+- Governance takeovers, one of the most common failure modes for DAOs, are impossible. In fact, there's no governance burden at all.
+- There isn't ongoing management burden either – revnets operate autonomously, according to their pre-configured rules.
+- Trust is maximized. Participants know the revnet's rules will be enforced, and as long as they're generally familiar with revnets, they can understand the behavior of any revnet they support.
+- Transparency and diligence are simple. You only need to read 10 numbers on a website to understand a network's behavior.
+
+We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities.
 
 ## Context
 
-Smart contracts allow us to program financial relationships. They make it possible to articulate exchanges between the producer and consumer, investor and entrepreneur, artist and fan, and participants in a system more generally. They are a recent feature of our world, and they can be leveraged in arbitrarily colorful ways.
+<!--TODO: Make this shorter-->
 
-Jango has spent the past 3 years helping sculpt smart contracts to progress a specialized language for articulating these financial relationship experiments, and the past 2 years refining that language in production as Juicebox, which has facilitated $177,115,741 in ETH payments to 1,182 projects as it has tended towards increased reliability for public use. He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
+Juicebox was launched by [Jango](https://jango.eth.sucks) and Peri in July 2021 as an experimental financial model which used smart contracts to allow (TODO...) . As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects, 
+
+[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money). He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
 
 ## Problem
 
-Over this time, we've seen compelling consumer crypto offerings emerge, but few have struck onchain sustainability. Many organizations ironically continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain forms haven't been well demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
+Over the last few years, we've seen compelling consumer crypto offerings emerge, but few have struck onchain sustainability. Many organizations ironically continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain forms haven't been well demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
 
 ## Big bet
 
@@ -75,16 +86,27 @@ We will use a SAFE.
 RRG is Incorporated in the USA as a Delaware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
 
 ### Onchain management 
-A multisig at rrg.rev.eth, 3/6 from:
-- breadfruit (jango)
-- filipv
-- codalabs (aeolian)
-- kmac
-- juiceboxDAO
-- openesquire (rob)
+Onchain, RRG is managed by a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
+- `breadfruit.eth` (jango)
+- `filipv.eth`
+- `codalabs.eth` (aeolian)
+- `kmac.eth`
+- `dao.jbx.eth` (JuiceboxDAO)
+- `openesquire.eth` (Robert Leonhard)
 
-### Offchain management 
-Managed by Jango with help from Filip, Aeolian, KMac, and others from the Juicebox community.
+### Offchain management
+
+Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and other members from the Juicebox community:
+
+[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money). As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
+
+[Filip](https://filip.world) has been working on Juicebox since November 2021, contributing to documentation, services, and frontend development, as well as working directly with many of the largest Juicebox projects.
+
+[Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian has created a number of essential tools within the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
+
+[KMac](https://kmacb.eth.limo)
+
+Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
 ### Ideal partners
 The Juicebox community is about to deploy the first handful of revnets alongside Juicebox V4 ($NANA, $REV, $BANNY, $NANCE, $SUCKS, $DEFIFA, $CROPTOP, $SPHINX). They are currently on testnets. We're fundraising as RRG to fund the growth work of extending these revnets to more people, and inviting new revnets to emerge. We're looking for partners that believe in the mission, beleive in the team, and can help make this launch chapter successful.
@@ -187,5 +209,5 @@ There are three core entities in play: $REV, RRG Corporation, and Juicebox DAO (
 - Also for those onchain, it may be adventageous to build exposure to $REV directly to bet on revenue growth without the burden of proxies.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
-[^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. [OpenAI](https://openai.com/our-structure/) is governed by a non-profit board with a for-profit subsidiary, with the subsidiary being "legally bound to pursue the Nonprofit’s mission". The non-profit board exercised its power by firing CEO Sam Altman, leading to a company-wide revolt, his reinstatement, and a significant board restructuring.
+[^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
 
