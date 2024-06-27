@@ -64,7 +64,7 @@ Over the last few years, we've seen compelling consumer crypto offerings emerge,
 
 The next step is to take the now fully-featured Juicebox language and shape it for intentional competitive use. Specifically, we believe organizations oriented around Revnets and other Post-Corporate capital structures that expand to internet scale will prove to be highly productive, and we believe organizations that encourage a broader ecosystem of networked treasuries are also likely to bear fruit.
 
-- **Revnet:** A business framework existing onchain where wealth is exchanged programmatically over time based only on an initial set of rules (like Bitcoin's halvening), and where investors and customers are treated as alike participants.
+- **Revnet:** A business framework existing onchain where wealth is exchanged programmatically over time based only on an initial set of rules (like Bitcoin's halving), and where investors and customers are treated as alike participants.
 
 - **Networked treasuries:** Organizations architected with horizontally interconnected treasuries instead of increasingly-bloated hierarchical ones. Revnets work great when they're networked together to automate accounting relationships.
 
@@ -163,7 +163,7 @@ _Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be wo
 _The price of issuing new $REV is doubled every 77 days, forever._
 - **Duration:** 770 days.
 - **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
-- **Price increase:** 100% (double) every 77 days, “halvenings”.
+- **Price increase:** 100% (double) every 77 days, “halving”.
 - **Split:** 38% of issuance and buybacks operated by rrg.rev.eth, 19% routed to rrg.rev.eth, 19% to dao.jbx.eth.
 - **Automint:** none.
 - **Cash out tax:** No change. Medium-high (0.6).
@@ -206,7 +206,7 @@ There are three core entities in play: $REV, RRG Corporation, and Juicebox DAO (
 
 - RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token that has been on the market for several years now focusing its treasury on contributions to the Juicebox ecosystem -- the revnet project and several others were informally incubated from within Juicebox DAO. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, it may be adventageous to build exposure to $REV directly to bet on revenue growth without the burden of proxies.
+- Also for those onchain, it may be advantageous to build exposure to $REV directly to bet on revenue growth without the burden of proxies.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
