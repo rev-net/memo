@@ -20,7 +20,8 @@
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
 7. [Legal](#legal)
-8. [Examples of revnets](#examples-of-revnets)
+8. [Investor FAQ](#investor-faq)
+9. [Examples of revnets](#examples-of-revnets)
 
 ## Thesis
 
@@ -175,6 +176,15 @@ RRG has it's own managerial efforts and thus is selling structured access to a C
 
 Learn more and reach us from RRG at [rev.eth.sucks](rev.eth.sucks).
 
+## Investor FAQ
+
+### Should I invest in RRG, $REV, or...
+
+There are three core entities in play: $REV, RRG Corporation, and Juicebox DAO ($JBX). According to the $REV specs above, RRG and Juicebox DAO are both expected to receive split issuance/buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth -- albeit at the risk of each of their governance processes.
+
+- RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
+- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token that has been on the market for several years now focusing its treasury on contributions to the Juicebox ecosystem -- the revnet project and several others were informally incubated from within Juicebox DAO. You can learn more [here](https://docs.juicebox.money/dao/).
+- Also for those onchain, it may be adventageous to build exposure to $REV directly to bet on revenue growth without the burden of proxies.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. [OpenAI](https://openai.com/our-structure/) is governed by a non-profit board with a for-profit subsidiary, with the subsidiary being "legally bound to pursue the Nonprofit’s mission". The non-profit board exercised its power by firing CEO Sam Altman, leading to a company-wide revolt, his reinstatement, and a significant board restructuring.
