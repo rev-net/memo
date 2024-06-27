@@ -170,7 +170,7 @@ _The price of issuing new $REV is doubled every 77 days, forever._
 
 ### $REV stage 3
 _Vest more $REV for pre-net work._
-- **Duration:** 7070 days. (~20 years)
+- **Duration:** 7777 days. (~22 years)
 - **Initial price:** Where stage 2 left off.
 - **Price increase:** Continue doubling every 77 days.
 - **Split:** No change. 38% of issuance and buybacks operated by rrg.rev.eth, 19% routed to rrg.rev.eth, 19% to dao.jbx.eth.
