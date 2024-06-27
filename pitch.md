@@ -39,14 +39,14 @@ But these positive qualities can be diminished when each project implements its 
 
 In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded by smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
 
-This motivation led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
+The need for a reliable and productive structure to point raised funds and onchain fees (most pressingly for our own projects) led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
-- Governance takeovers, one of the most common failure modes for DAOs, are impossible. In fact, there's no governance burden at all.
-- There isn't ongoing management burden either – revnets operate autonomously, according to their pre-configured rules.
-- Trust is maximized. Participants know the revnet's rules will be enforced, and as long as they're generally familiar with revnets, they can understand the behavior of any revnet they support.
-- Transparency and diligence are simple. You only need to read 10 numbers on a website to understand a network's behavior.
+- There's no governance. Governance takeovers, one of the most common failure modes for DAOs, are impossible.
+- There isn't an ongoing management burden either – revnets operate autonomously, according to their pre-configured rules.
+- Trust is maximized. Investors, builders, community, and customers know each revnet's rules will be enforced.
+- Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
-We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities, we're seeking partners to help propel this thesis forward.
+We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities, we're after partners to help propel this thesis forward.
 
 ## Context
 
