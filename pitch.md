@@ -46,7 +46,7 @@ This motivation led us to create *revnets*. Revnets are a **fully pre-configured
 - Trust is maximized. Participants know the revnet's rules will be enforced, and as long as they're generally familiar with revnets, they can understand the behavior of any revnet they support.
 - Transparency and diligence are simple. You only need to read 10 numbers on a website to understand a network's behavior.
 
-We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities.
+We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities, we're seeking partners to help propel this thesis forward.
 
 ## Context
 
