@@ -116,7 +116,7 @@ Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and othe
 
 [Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
 
-[KMac](https://kmacb.eth.limo)
+[KMac](https://kmacb.eth.limo) is an experienced entrepreneur who has been contributing to multiple DAOs including Solace, Purple, Juicebox and Defifa.
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
