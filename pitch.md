@@ -26,48 +26,49 @@
 
 ## Overview
 
-Major technological breakthroughs force entrepreneurs, capital providers, and regulators to create and use new financial structures. The designs of these structures are informed by the contours of the technological developments they correspond to – it isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) defined the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
+Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures, designed to fit the contours of the technological developments they correspond to. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
 
-This decade has seen major developments within a handful of technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, Maker, and Compound have tried to address this by combining standard for-profit companies with experimental structures (often DAOs), often leading to mixed results and dysfunctional governance.[^2]
+This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with experimental structures like DAOs. In practice, this has often lead to mixed results and dysfunctional governance.[^2]
 
-When these experimental structures fail, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) offer a path forward by:
+When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) can offer a path forward by:
 
-- Expanding the design space for financial structures, making it possible to express relationships which would be impractical to manage with contractual agreements. This includes designs with better incentive alignment – when ownership and access are always directly proportional to contribution, incentive alignment is a given.
-- Providing clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce in practice).
-- Making it impossible to *not* be transparent, minimizing information asymmetry and simplifying diligence for all participants.
+- Making it possible to encode sophisticated financial relationships which would be impractical to manage with traditional contracts.
+- Facilitating the alignment of incentives – when ownership and access are directly proportional to contribution, alignment is a given.
+- Providing clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
+- Making it impossible to *not* be transparent, simplifying diligence for all participants.
 
-But these positive qualities can be diminished when each project implements its own financial structure uniquely – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
+But these positive qualities are diminished when each project implements a structure from scratch – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
 
-In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded by smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
+In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded through smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
 
-The need for a reliable and productive structure to point raised funds and onchain fees (most pressingly for our own projects) led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
+The need for a reliable and productive structure to accept payments and fees led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
 - There's no governance. Governance takeovers, one of the most common failure modes for DAOs, are impossible.
-- There isn't an ongoing management burden either – revnets operate autonomously, according to their pre-configured rules.
-- Trust is maximized. Investors, builders, community, and customers know each revnet's rules will be enforced.
+- There's no management burden either – revnets operate autonomously, according to their pre-configured rules.
+- Trust is maximized. Investors, builders, community, and customers know each revnet's rules will be enforced programmatically.
 - Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
 ## Thesis
 
-We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities, we're after partners to help propel this thesis forward.
+We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
 
 ## Context
 
-Juicebox was launched by [Jango](https://jango.eth.sucks) and Peri in July 2021 as an experimental financial model which used smart contracts to allow (TODO...) . As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects, 
+[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, through its smart contracts.
 
-[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money). He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
+As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons under JuiceboxDAO, which is itself organized through the Juicebox model. At its core, the experiment has been to create business models of the future.
 
 ## Problem
 
-Over the last few years, we've seen compelling consumer crypto offerings emerge, but few have struck onchain sustainability. Many organizations ironically continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain forms haven't been well demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
+Over the last few years, we've seen compelling consumer crypto offerings emerge, but few have struck onchain sustainability. Many organizations ironically continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain forms haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
 
 ## Big bet
 
-The next step is to take the now fully-featured Juicebox language and shape it for intentional competitive use. Specifically, we believe organizations oriented around Revnets and other Post-Corporate capital structures that expand to internet scale will prove to be highly productive, and we believe organizations that encourage a broader ecosystem of networked treasuries are also likely to bear fruit.
+The next step is to shape the fully-featured Juicebox language for intentional competitive use. Specifically, we believe that structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
 
-- **Revnet:** A business framework existing onchain where wealth is exchanged programmatically over time based only on an initial set of rules (like Bitcoin's halving), and where investors and customers are treated as alike participants.
+- **Revnet:** An onchain business framework where wealth is programmatically exchanged over time based on an initial set of rules (like Bitcoin's halving), and where all investors and customers are treated as alike participants.
 
-- **Networked treasuries:** Organizations architected with horizontally interconnected treasuries instead of increasingly-bloated hierarchical ones. Revnets work great when they're networked together to automate accounting relationships.
+- **Networked treasuries:** Organizations architected with horizontally interconnected treasuries instead of hierarchical ones which can bloat over time. Revnets work well when they're networked together to automate accounting relationships.
 
 ## RRG
 
