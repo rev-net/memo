@@ -54,99 +54,103 @@ We want to double down on revnets as a vision of how wealth will be most product
 
 ## Context
 
-[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, through its smart contracts.
+[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts.
 
-As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons under JuiceboxDAO, which is itself organized through the Juicebox model. At its core, the experiment has been to create business models of the future.
+As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons organized under JuiceboxDAO, which is itself using the Juicebox model. At its core, the experiment has been to create business models of the future.
 
 ## Problem
 
-Over the last few years, we've seen compelling consumer crypto offerings emerge, but few have struck onchain sustainability. Many organizations ironically continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain forms haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
+Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Ironically, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
 
 ## Big bet
 
-The next step is to shape the fully-featured Juicebox language for intentional competitive use. Specifically, we believe that structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
+The next step is to shape the fully-featured Juicebox language for intentional competitive use. Specifically, we believe structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
 
 - **Revnet:** An onchain business framework where wealth is programmatically exchanged over time based on an initial set of rules (like Bitcoin's halving), and where all investors and customers are treated as alike participants.
+- **Networked treasuries:** Organizations architected with modular, horizontally interconnected treasuries instead of hierarchical ones (which tend to bloat over time). Revnets work well when they're networked together to automate accounting relationships.
 
-- **Networked treasuries:** Organizations architected with horizontally interconnected treasuries instead of hierarchical ones which can bloat over time. Revnets work well when they're networked together to automate accounting relationships.
+<!-- TODO: Should we have a graphic here? -->
 
-## RRG
+## Revnet Research Group (RRG)
 
-We will continue to leverage the open internet to make experimental progress, but we'd also like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the traditional world while giving revnets access to traditional capital. We want to create a real world studio production environment, and a traditional legal setting to build web tools (like [app.rev.eth.sucks](app.rev.eth.sucks)) that make revnets accessible to browse, participate, and invest in.
+We will continue to leverage the open internet to make experimental progress, but we'd also like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the conventional finance sector while giving revnets access to the conventional finance sector's capital.
+
+We want to create a real-world studio production environment, and a traditional legal setting in which to build web tools like [revnet.app](https://revnet.app), which allow anyone to browse, participate in, and financially support revnets.
 
 ### Mission
 
-Tokenize fundraises and revenues to align incentives while reducing risks of growing openly accounted for organizations.
+Tokenize funding and revenues to align incentives and offset the risks of growing an openly-accounted-for organization.
 
 ### Pitch to investors
-We’re selling 10% of the company Revnet Research Group at a $50m valuation in August 2024.
+
+We’re selling 10% of the company Revnet Research Group at a $50m valuation.
 
 ### Fundraising operations
+
 We will use a SAFE.
 
+<!-- TODO: This is YC Safe and not Gnosis, right? We should specify which kind (post-money MFN no cap no discount?) and combine with the prior section. -->
+
 ### Structure 
-RRG is Incorporated in the USA as a Delaware C-Corp. 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
+
+RRG is a Delaware C corporation – 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
 
 ### Onchain management 
+
 Onchain, RRG is managed by a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
+
 - `breadfruit.eth` (jango)
-- `filipv.eth`
-- `codalabs.eth` (aeolian)
-- `kmac.eth`
+- `filipv.eth` (Filip)
+- `codalabs.eth` (Aeolian)
+- `kmac.eth` (Kmac)
 - `dao.jbx.eth` (JuiceboxDAO)
 - `openesquire.eth` (Robert Leonhard)
 
 ### Offchain management
 
-Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and other members from the Juicebox community:
+Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
 
-[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money). As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. He's done so alongside a group of internet anons, itself organized via this Juicebox language. At its core, the experiment has been to create business models of the future.
+[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money).
 
-[Filip](https://filip.world) has been working on Juicebox since November 2021, contributing to documentation, services, and frontend development, as well as working directly with many of the largest Juicebox projects.
+[Filip](https://filip.world) has been working on Juicebox since November 2021, focusing on documentation, off-chain tools and services, and frontend development, as well as directly supporting many Juicebox project creators.
 
-[Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian has created a number of essential tools within the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
+[Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
 
 [KMac](https://kmacb.eth.limo)
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
 ### Ideal partners
-The Juicebox community is about to deploy the first handful of revnets alongside Juicebox V4 ($NANA, $REV, $BANNY, $NANCE, $SUCKS, $DEFIFA, $CROPTOP, $SPHINX). They are currently on testnets. We're fundraising as RRG to fund the growth work of extending these revnets to more people, and inviting new revnets to emerge. We're looking for partners that believe in the mission, beleive in the team, and can help make this launch chapter successful.
+
+The Juicebox community is about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're fundraising as RRG to support growth efforts to bring these revnets to more people, and inviting new revnets to emerge. We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
 
 ### Bottom line
  
-RRG accumulates $REV and other promising revnet-based tokens, and adds value to them in two ways: by making web tools (like app.rev.eth.sucks) that make revnets accessible to see and participate in, and by onboarding internet projects who would benefit.
+RRG accumulates $REV and other promising revnet tokens, and adds value to them in two ways: by making web tools that let anyone see and participate in revnets, and by onboarding new projects as revnets.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from a revnet. RRG will receive a subset of new issuance as fees and other contributions come in (see specs below).
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from a revnet. RRG receives a portion of $REV issuance as fees and other contributions come in (see specs below).
 
 ### Roadmap
 
-1. Help revnets accept more money by building great products like revnet.app and offering services to traditional institutions that allow them to participate in revnets.
-
-2. In 5 years once there are hundreds of billion dollar networks running as revnets, IPO to give traditional finance exposure to $REV.
-
-3. In 10 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value to remaining holders. 
-
+1. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets.
+2. In 5 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
+3. In 10 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
 4. Once all positions have been cashed out, the corporation will reach the end of its life and will no longer participate in the networks it has helped build. 
 
 ## $REV
+
 $REV runs on its own as a revnet according to the rules below. RRG is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
 
 ### Anatomy of a revnet
 
-Each revnet is make up of a $TOKEN, and defined in stages. Each stage specifies the following rules:
+Each revnet has a token and is defined in stages. Each stage specifies a set of rules which dictate how the revent operates:
 
-- **Duration:** How long does the stage last? A revnet’s last stage lasts forever.
-
-- **Starting price:** How much does it cost to buy a $TOKEN at the start of the stage? The paid value stays within the revnet and can only be accessed by $TOKEN holders who cash out.
-
-- **Price increase:** How frequently does the price of $TOKEN increase within the stage?
-
-- **Split:** What percentage of $TOKEN issuance should be withheld to a set of splits, and which address will be the Split Operator that can change the split destinations within the preset percent?
-
-- **Automint:** How many $TOKENs should be automatically mintable to preset destinations at the start of the stage?
-
-- **Cash out tax:** How much does the value reclaimed from cashing out of the revnet increase each time $TOKEN holders leave?
+- **Duration:** How long does the stage last? A revnet’s final stage lasts forever.
+- **Starting price:** How much does it cost to buy a single token when the stage begins? The payment's value stays within the revnet and can only be accessed by token holders who cash out.
+- **Price increase:** How frequently, and by how much, does the token's price increase within the stage?
+- **Split:** What percentage of token issuance is set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients from that list, changing how the split is allocated within the stage.
+- **Automint:** How many tokens get minted to a list of recipients at the start of the stage? This functions like a "pre-mint".
+- **Cash out tax:** How much does the revnet's reclaimable value per token increase each a token holders burns their tokens to cash out?
 
 If holders of the $TOKEN add liquidity to an AMM it offers a better price, the revnet will route new incoming payments to the market instead of issuing new $TOKENs. Revnets issue new tokens until the market naturally takes over its supply and demand, helping networks start up without leaking value, and sustain efficient growth over time.
 
