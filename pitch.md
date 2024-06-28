@@ -148,43 +148,53 @@ Each revnet has a token and is defined in stages. Each stage specifies a set of 
 - **Duration:** How long does the stage last? A revnet’s final stage lasts forever.
 - **Starting price:** How much does it cost to buy a single token when the stage begins? The payment's value stays within the revnet and can only be accessed by token holders who cash out.
 - **Price increase:** How frequently, and by how much, does the token's price increase within the stage?
-- **Split:** What percentage of token issuance is set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients from that list, changing how the split is allocated within the stage.
+- **Split:** What percentage of token issuance (and buybacks) are set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients from that list, changing how the split is allocated within the stage.
 - **Automint:** How many tokens get minted to a list of recipients at the start of the stage? This functions like a "pre-mint".
 - **Cash out tax:** How much does the revnet's reclaimable value per token increase each a token holders burns their tokens to cash out?
 
-If holders of the $TOKEN add liquidity to an AMM it offers a better price, the revnet will route new incoming payments to the market instead of issuing new $TOKENs. Revnets issue new tokens until the market naturally takes over its supply and demand, helping networks start up without leaking value, and sustain efficient growth over time.
+If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.
 
-Built using the Juicebox V4 protocol, revnets can grow to accept money on new EVMs as they emerge, and offer cash outs on them too. Holders can move their tokens between chains, which move the revnet’s value alongside to maintain the aggregate value proposition in tact.
+Revnets issue new tokens until the market naturally provides supply and demand for the token, meaning revnets get started without leaking value and sustain efficient growth over time.
+
+Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and offer cash outs on those networks too. Holders can move their tokens between chains, and when they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
 ### $REV stage 1
-_Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2.  Mint first of two batches of tokens to honor pre-net work._
+
+_Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
+
 - **Duration:** 77 days.
 - **Initial price:** 1 $REV costs 0.001 ETH.
-- **Price increase:** none.
-- **Split:** 20% split of issuance and buybacks operated by rrg.rev.eth, 10% routed to rrg.rev.eth, 10% to dao.jbx.eth.
-- **Automint:** 70_000 $REV to rrg.rev.eth for pre-net work, split 25_000 to dao.jbx.eth, 10_000 to breadfruit, 10_000 to filipv, 10_000 to codalabs, 4_000 to openesquire, 2_000 to kmac, 2_000 to 0xBa5ed, 2_000 to nowonder, 2_000 to peel,  1_000 to drgorilla, 1_000 to juicecast, 1_000 to peacenode, 1_000 to LJ.
-- **Cash out tax:** Medium-high (0.6), the network consolidates when holders cash out.
+- **Price increase:** None.
+- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
+- **Automint:** 70,000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25,000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1,000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1,000 to `peacenode.eth`, and 1,000 to LJ.
+- **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
 
 ### $REV stage 2
-_The price of issuing new $REV is doubled every 77 days, forever._
-- **Duration:** 770 days.
+
+_The price of issuing new $REV is doubled every 77 days for 770 days._
+
+- **Duration:** 770 days (~2 years).
 - **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
 - **Price increase:** 100% (double) every 77 days, “halving”.
-- **Split:** 38% of issuance and buybacks operated by rrg.rev.eth, 19% routed to rrg.rev.eth, 19% to dao.jbx.eth.
+- **Split:** 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
 - **Automint:** none.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 3
+
 _Vest more $REV for pre-net work._
+
 - **Duration:** 7777 days. (~22 years)
 - **Initial price:** Where stage 2 left off.
 - **Price increase:** Continue doubling every 77 days.
-- **Split:** No change. 38% of issuance and buybacks operated by rrg.rev.eth, 19% routed to rrg.rev.eth, 19% to dao.jbx.eth.
-- **Automint:** 128_000 $REV to rrg.rev.eth for pre-net work, split 35_000 to dao.jbx.eth, 20_000 to breadfruit, 20_000 to filipv, 20_000 to codalabs, 10_000 to openesquire, 5_000 to kmac, 5_000 to 0xBa5ed, 5_000 to nowonder, 5_000 to peel, 1_000 to drgorilla, 1_000 to juicecast, 1_000 to peacenode, 1_000 to LJ.
+- **Split:** No change. 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
+- **Automint:** 128,000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35,000 will be sent to `dao.jbx.eth`, 20,000 to `breadfruit.eth`, 20,000 to `filipv.eth`, 20,000 to `codalabs.eth`, 10,000 to `openesquire.eth`, 5,000 to `kmacb.eth`, 5,000 to `0xba5ed.eth`, 5,000 to `noobwonder.eth`, 5,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to [Juicecast](https://juicebox.money/@juicecast), 1,000 to `peacenode.eth`, and 1,000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 4
+
 _End issuance and splits._
+
 - **Duration:** Forever.
 - **Initial price:** 0. No more issuance.
 - **Price increase:** None, since there's no more issuance.
@@ -193,34 +203,38 @@ _End issuance and splits._
 
 ## Legal
 
-Each revnet’s rules are defined upfront, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no managerial effort attached to an expectation of profit.
+Each revnet’s rules are defined up front, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no managerial effort attached to an expectation of profit.
 
-The time is now to learn from the legal outcomes of the past few years and bet big on deterministic mechanisms where no entity can change or control the rules once deployed, which also benefit from facilitating fully auditable public data only.
+Now is the time to learn from the legal outcomes of the past few years and bet on deterministic mechanisms where no entity can change or control the rules once deployed, and where all information is publicly auditable.
 
-RRG has it's own managerial efforts and thus is selling structured access to a C-Corp via a SAFE, but engages with the $REV economy only as a token holder.
+RRG has it's own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, but only engages with the $REV economy as a token holder.
+
+<!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe". -->
 
 ## Examples of revnets
 
-- *[$NANA](https://nana.eth.sucks):* Captures revenues from the omnichain Juicebox V4's 2.5% fee. (very soon)
+- *[$NANA](https://nana.eth.sucks):* Captures revenues from the omnichain Juicebox v4's 2.5% fee. (very soon)
 - *[$BANNY](https://banny.eth.sucks):* Captures revenues from Bannyverse mints. (very soon)
-- *[$REV](https://rev.eth.sucks):* Captures revenues from betting on the productivity of the revnet-based projects it builds tools for. (very soon)
-- *[$NANCE](https://nance.app):* Supports the building of the open sources Nance governance platform for tokenized communities. (soon)
-- *[$SUCKS](https://eth.sucks):* Captures memetic energy from the distribution of .eth.sucks links. (soon)
-- *[$DEFIFA](https://defifa.net):* Captures revenues from defifa prediction games. (soon)
-- *[$CROPTOP](https://croptop.eth.sucks):* Collects a 2.5% fee from mints made from Croptop templates, a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
-- *[$SPHINX]():* Supports the building of the open source Sphinx multichain devops platform that Juicebox uses to manage deploys. (soon)
+- *[$REV](https://rev.eth.sucks):* Captures revenue by betting on the productivity of the revnet-based projects it builds tools for. (very soon)
+- *[$NANCE](https://nance.app):* Builds the open-source Nance governance platform for tokenized communities. (soon)
+- *[$SUCKS](https://eth.sucks):* Captures memetic energy from the distribution of `.eth.sucks` websites. (soon)
+- *[$DEFIFA](https://defifa.net):* Captures revenues from Defifa prediction games. (soon)
+- *[$CROPTOP](https://croptop.eth.sucks):* Collects a 2.5% fee on mints from Croptop templates. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
+- *$SPHINX:* Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. (soon)
 
-Learn more and reach us from RRG at [rev.eth.sucks](rev.eth.sucks).
+<!-- TODO: Add link for Sphinx -->
+
+Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 ## Investor FAQ
 
 ### Should I invest in RRG, $REV, or...
 
-There are three core entities in play: $REV, RRG Corporation, and Juicebox DAO ($JBX). According to the $REV specs above, RRG and Juicebox DAO are both expected to receive split issuance/buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth -- albeit at the risk of each of their governance processes.
+There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
 
 - RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
-- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token that has been on the market for several years now focusing its treasury on contributions to the Juicebox ecosystem -- the revnet project and several others were informally incubated from within Juicebox DAO. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, it may be advantageous to build exposure to $REV directly to bet on revenue growth without the burden of proxies.
+- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
+- Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
