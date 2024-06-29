@@ -52,7 +52,7 @@ The need for a reliable and productive structure that serves as the backbone of 
 
 ## Thesis
 
-We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterised by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
+We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
 
 ## Context
 
