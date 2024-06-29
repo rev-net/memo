@@ -165,7 +165,7 @@ _Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be wo
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** None.
 - **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
-- **Automint:** 70,000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25,000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1,000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1,000 to `peacenode.eth`, and 1,000 to LJ.
+- **Automint:** 70_000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
 
 ### $REV stage 2
@@ -187,7 +187,7 @@ _Vest more $REV for pre-net work._
 - **Initial price:** Where stage 2 left off.
 - **Price increase:** Continue doubling every 77 days.
 - **Split:** No change. 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
-- **Automint:** 128,000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35,000 will be sent to `dao.jbx.eth`, 20,000 to `breadfruit.eth`, 20,000 to `filipv.eth`, 20,000 to `codalabs.eth`, 10,000 to `openesquire.eth`, 5,000 to `kmacb.eth`, 5,000 to `0xba5ed.eth`, 5,000 to `noobwonder.eth`, 5,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to [Juicecast](https://juicebox.money/@juicecast), 1,000 to `peacenode.eth`, and 1,000 to LJ.
+- **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 4
