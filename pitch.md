@@ -135,7 +135,6 @@ The $REV revnet receives a 2.5% network fee whenever someone cashes out from any
 1. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets.
 2. In 5 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
 3. In 10 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
-4. Once all positions have been cashed out, the corporation will reach the end of its life and will no longer participate in the networks it has helped build. 
 
 ## $REV
 
