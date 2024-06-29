@@ -85,6 +85,12 @@ We also think it's important for RRG to set an example of how a corporate entity
 
 Tokenize funding and revenues to align growth incentives and offset the risks of growing openly-accounted-for organizations.
 
+### Bottom line
+ 
+RRG accumulates $REV and adds value to it in three ways: by making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate with, and accelerating new projects as revnets.
+
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used by the $REV revnet to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
+  
 ### Pitch to investors
 
 We’re selling 10% of the company Revnet Research Group at a $50m valuation.
@@ -101,7 +107,7 @@ RRG is a Delaware C corporation – 51% owned by Jango, 39% reserved for staff, 
 
 ### Onchain management 
 
-Onchain, RRG is managed by a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
+Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
 
 - `breadfruit.eth` (jango)
 - `filipv.eth` (Filip)
@@ -112,7 +118,7 @@ Onchain, RRG is managed by a 3/6 multisig at `rrg.rev.eth`. The multisig is cont
 
 ### Offchain management
 
-Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
+Offchain management of the corporation will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
 
 [Jango](https://jango.eth.sucks) has spent the last 4 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 3 years refining that language in production as [Juicebox](https://juicebox.money).
 
@@ -127,12 +133,6 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 ### Ideal partners
 
 The Juicebox community is about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're fundraising as RRG to support growth efforts to bring these revnets to more people, and inviting new revnets to emerge. We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
-
-### Bottom line
- 
-RRG accumulates $REV and other promising revnet tokens, and adds value to them in two ways: by making web tools that let anyone see and participate in revnets, and by onboarding new projects as revnets.
-
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. RRG receives a portion of $REV issuance as fees and other contributions come in (see specs below).
 
 ### Roadmap
 
