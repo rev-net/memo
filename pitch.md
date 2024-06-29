@@ -56,7 +56,7 @@ We want to double down on revnets as a vision of how wealth will be most product
 
 ## Context
 
-[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts.
+[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts, with revenues used to back the $JBX token and community itself as a project on the protocol.
 
 As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons organized under JuiceboxDAO, which is itself using the Juicebox model. At its core, the experiment has been to create business models of the future.
 
