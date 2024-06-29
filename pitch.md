@@ -6,7 +6,7 @@
 5. [Big bet](#big-bet)
     - [Revnets](#revnets)
     - [Networked treasuries](#networked-treasuries)
-6. [RRG](#rrg)
+6. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
     - [Pitch to investors](#pitch-to-investors)
     - [Fundraising operations](#fundraising-operations)
     - [Structure](#structure)
