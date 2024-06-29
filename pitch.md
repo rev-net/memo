@@ -79,6 +79,8 @@ We will continue to leverage the open internet to make experimental progress, bu
 
 We want to create a real-world studio production environment, and a traditional legal setting in which to build web tools like [revnet.app](https://revnet.app), which allow anyone to browse, participate in, and financially support revnets.
 
+We also think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a broader onchain revnet structure.
+
 ### Mission
 
 Tokenize funding and revenues to align growth incentives and offset the risks of growing openly-accounted-for organizations.
