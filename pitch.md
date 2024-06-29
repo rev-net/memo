@@ -21,8 +21,9 @@
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
 8. [Legal](#legal)
-9. [Investor FAQ](#investor-faq)
-10. [Examples of revnets](#examples-of-revnets)
+9. [Risks](#risks)
+10. [Investor FAQ](#investor-faq)
+11. [Examples of revnets](#examples-of-revnets)
 
 ## Overview
 
@@ -208,7 +209,7 @@ Now is the time to learn from the legal outcomes of the past few years and bet o
 
 RRG has it's own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, but only engages with the $REV economy as a token holder.
 
-<!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe". -->
+<!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
 ## Examples of revnets
 
@@ -234,6 +235,14 @@ There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($
 - RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
 - Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
+
+## What are the risks I should be aware of...
+
+**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exists across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that has secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
+
+**Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to persue emergent opportunities. Engaging in either RRG or $JBX should warrent due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
+
+**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to bet on their success. We beleive revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. For many projects the revnet sales cycles will likely be long, and we'll likely want to make sure we can use the structure to provide value as a supportive component of already-existing organizations alongside new ones starting up. We'll lead the way with great examples of successful revnets folks can look up to. 
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
