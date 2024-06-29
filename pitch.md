@@ -236,7 +236,7 @@ There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
 - Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
 
-## What are the risks I should be aware of...
+### What are the risks I should be aware of...
 
 **Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exists across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that has secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
 
