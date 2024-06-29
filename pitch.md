@@ -128,7 +128,7 @@ The Juicebox community is about to deploy Juicebox v4 and the first [cohort of p
  
 RRG accumulates $REV and other promising revnet tokens, and adds value to them in two ways: by making web tools that let anyone see and participate in revnets, and by onboarding new projects as revnets.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from a revnet. RRG receives a portion of $REV issuance as fees and other contributions come in (see specs below).
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. RRG receives a portion of $REV issuance as fees and other contributions come in (see specs below).
 
 ### Roadmap
 
