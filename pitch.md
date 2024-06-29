@@ -30,23 +30,23 @@ Technological breakthroughs push entrepreneurs, capital providers, and regulator
 
 This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with experimental structures like DAOs. In practice, this has often lead to mixed results and dysfunctional governance.[^2]
 
-When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) can offer a path forward by:
+When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
 
-- Making it possible to encode sophisticated financial relationships which would be impractical to manage with traditional contracts.
-- Facilitating the alignment of incentives – when ownership and access are directly proportional to contribution, alignment is a given.
-- Providing clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
-- Making it impossible to *not* be transparent, simplifying diligence for all participants.
+- **Immediacy**: Encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
+- **Clarity**: Alignment of interests is easier when ownership and access cannot be misinterpreted.
+- **Certainty**: Express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
+- **Auditability**: Impossible to *not* be transparent, simplifying diligence for all participants.
 
 But these positive qualities are diminished when each project implements a structure from scratch – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
 
 In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded through smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
 
-The need for a reliable and productive structure to accept payments and fees led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
+The need for a reliable and productive structure that serves as the backbone of digital organizations to accept payments and fees led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
-- There's no governance. Governance takeovers, one of the most common failure modes for DAOs, are impossible.
-- There's no management burden either – revnets operate autonomously, according to their pre-configured rules.
-- Trust is maximized. Investors, builders, community, and customers know each revnet's rules will be enforced programmatically.
-- Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
+- **Governance-free**: Governance takeovers of funds, one of the most common failure modes for DAOs, are impossible.
+- **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
+- **Deterministic**: Investors, builders, community, and customers know each revnet's known rules – from start to finish – will be enforced programmatically.
+- **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
 ## Thesis
 
@@ -110,7 +110,7 @@ Onchain, RRG is managed by a 3/6 multisig at `rrg.rev.eth`. The multisig is cont
 
 Offchain management will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
 
-[Jango](https://jango.eth.sucks) has spent the last 3 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 2 years refining that language in production as [Juicebox](https://juicebox.money).
+[Jango](https://jango.eth.sucks) has spent the last 4 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 3 years refining that language in production as [Juicebox](https://juicebox.money).
 
 [Filip](https://filip.world) has been working on Juicebox since November 2021, focusing on documentation, off-chain tools and services, and frontend development, as well as directly supporting many Juicebox project creators.
 
