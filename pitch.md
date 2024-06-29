@@ -21,9 +21,10 @@
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
 8. [Legal](#legal)
-9. [Risks](#risks)
 10. [Investor FAQ](#investor-faq)
-11. [Examples of revnets](#examples-of-revnets)
+    - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
+    - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
+12. [Examples of revnets](#examples-of-revnets)
 
 ## Overview
 
@@ -228,7 +229,7 @@ Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 ## Investor FAQ
 
-### Should I invest in RRG, $REV, or...
+### Should I invest in RRG, $REV, or...?
 
 There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
 
@@ -236,7 +237,7 @@ There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
 - Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
 
-### What are the risks I should be aware of...
+### What are the risks I should be aware of?
 
 **Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exists across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that has secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
 
