@@ -45,7 +45,7 @@ In the same way that [Y-Combinator's Safe financing documents](https://www.ycomb
 
 The need for a reliable and productive structure that serves as the backbone of digital organizations to accept payments and fees led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
-- **Governance-free**: Governance takeovers of funds, one of the most common failure modes for DAOs, are impossible.
+- **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
 - **Deterministic**: Investors, builders, community, and customers know each revnet's known rules – from start to finish – will be enforced programmatically.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
