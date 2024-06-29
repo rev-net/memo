@@ -79,7 +79,7 @@ We want to create a real-world studio production environment, and a traditional 
 
 ### Mission
 
-Tokenize funding and revenues to align incentives and offset the risks of growing an openly-accounted-for organization.
+Tokenize funding and revenues to align growth incentives and offset the risks of growing an openly-accounted-for organization.
 
 ### Pitch to investors
 
