@@ -62,11 +62,13 @@ As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 
 
 ## Problem
 
-Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Ironically, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether.
+Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Ironically, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
+
+$JBX has been a unique example of a self-sufficient growth-oriented technology and community fully and lawlessly encoded on the blockchain, with token distribution a discrete function of contributions over time instead of airdrops and preferrencial minting to entities on a pre-designed pie chart. It however still suffers from governance and management risks, each burdens that scale with revenue growth. We need more sustainable and regenerative value-capture that doesn't introduce more governance. We need a $JBX-like structure that allows for the huge value unlock of capitalizing fundraies and revenues onchain, but don't each create new onchain processes that require perpetual attention.
 
 ## Big bet
 
-The next step is to shape the fully-featured Juicebox language for intentional competitive use. Specifically, we believe structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
+The next step is to shape the fully-featured Juicebox language for intentional competitive use across domains. Specifically, we believe structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
 
 - **Revnet:** An onchain business framework where wealth is programmatically exchanged over time based on an initial set of rules (like Bitcoin's halving), and where all investors and customers are treated as alike participants.
 - **Networked treasuries:** Organizations architected with modular, horizontally interconnected treasuries instead of hierarchical ones (which tend to bloat over time). Revnets work well when they're networked together to automate accounting relationships.
