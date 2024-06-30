@@ -74,11 +74,9 @@ We think revnets – an expression of the juicebox language – can help more on
 
 ## Revnet Research Group (RRG)
 
-We'd like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the conventional finance sector while giving revnets access to the conventional finance sector's capital.
+We'd like to begin a dedicated Revnet Research Group (RRG) corporation to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
-We want to create a real-world studio production environment, and a traditional legal setting in which to build web tools like [revnet.app](https://revnet.app), which allow anyone to browse, participate in, and financially support revnets.
-
-We also think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a broader onchain revnet structure.
+We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a broader onchain revnet structure.
 
 ### Mission
 
@@ -136,8 +134,8 @@ The Juicebox community is about to deploy Juicebox v4 and the first [cohort of p
 ### Roadmap
 
 1. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets.
-2. In 5 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
-3. In 10 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
+2. In 8 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
+3. In 15 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
 
 ## $REV
 
