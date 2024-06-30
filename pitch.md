@@ -70,7 +70,8 @@ $JBX has been a unique example of a self-sufficient growth-oriented technology a
 
 The next step is to shape the fully-featured Juicebox language for intentional competitive use across domains. Specifically, we believe structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
 
-- **Revnet:** An onchain business framework where wealth is programmatically exchanged over time based on an initial set of rules (like Bitcoin's halving), and where all investors and customers are treated as alike participants.
+- **Revnet:** An onchain economic structure for tokenizing an organization's funding and revenues in a way that aligns growth incentives while reducing risks and management.
+
 - **Networked treasuries:** Organizations architected with modular, horizontally interconnected treasuries instead of hierarchical ones (which tend to bloat over time). Revnets work well when they're networked together to automate accounting relationships.
 
 <!-- TODO: Should we have a graphic here? -->
@@ -85,10 +86,10 @@ We also think it's important for RRG to set an example of how a corporate entity
 
 ### Mission
 
-Tokenize funding and revenues to align growth incentives and offset the risks of growing openly-accounted-for organizations.
+Promote the revnet standard to encourage the growth of open internet economies.
 
 ### Bottom line
- 
+
 RRG accumulates $REV and adds value to it in three ways: by making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used by the $REV revnet to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
