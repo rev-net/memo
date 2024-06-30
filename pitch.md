@@ -47,7 +47,7 @@ The need for a reliable and productive structure that serves as the backbone of 
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
-- **Deterministic**: Investors, builders, community, and customers know each revnet's rules – from start to finish – will be enforced programmatically.
+- **Deterministic**: Investors, builders, community, and customers know that each revnet's rules will be enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
 ## Thesis
