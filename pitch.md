@@ -68,17 +68,13 @@ $JBX has been a unique example of a self-sufficient revenue-generating technolog
 
 ## Big bet
 
-The next step is to shape the fully-featured Juicebox language for intentional competitive use across domains. Specifically, we believe structures that can expand to internet-scale, like revnets, will prove to be highly productive, and that networked treasuries are also likely to bear fruit.
-
-- **Revnet:** An onchain economic structure for tokenizing an organization's funding and revenues in a way that aligns growth incentives while reducing risks and management.
-
-- **Networked treasuries:** Organizations architected with modular, horizontally interconnected treasuries instead of hierarchical ones (which tend to bloat over time). Revnets work well when they're networked together to automate accounting relationships.
+We think revnets – an expression of the juicebox language – can help more onchain-oriented startups become high net-worth economies, global communities, interconnected products, and co-owned brands that outcompete traditional alternatives. 
 
 <!-- TODO: Should we have a graphic here? -->
 
 ## Revnet Research Group (RRG)
 
-We will continue to leverage the open internet to make experimental progress, but we'd also like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the conventional finance sector while giving revnets access to the conventional finance sector's capital.
+We'd like to begin nurturing a dedicated Revnet Research Group (RRG) corporation to support the ecosystem and extend the benefits of onchain networks to the conventional finance sector while giving revnets access to the conventional finance sector's capital.
 
 We want to create a real-world studio production environment, and a traditional legal setting in which to build web tools like [revnet.app](https://revnet.app), which allow anyone to browse, participate in, and financially support revnets.
 
@@ -93,7 +89,7 @@ Promote the revnet standard to encourage the growth of open internet economies.
 RRG accumulates $REV and adds value to it in three ways: by making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used by the $REV revnet to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
-  
+
 ### Pitch to investors
 
 We’re selling 10% of the company Revnet Research Group at a $50m valuation.
