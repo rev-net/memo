@@ -68,7 +68,7 @@ $JBX has been a unique example of a self-sufficient revenue-generating technolog
 
 ## Big bet
 
-We think revnets – an expression of the juicebox language – can help more onchain-oriented startups become high net-worth economies, global communities, interconnected products, and co-owned brands that outcompete traditional alternatives. 
+We think revnets – an expression of the juicebox language – can help millions of startups become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional alternatives.
 
 <!-- TODO: Should we have a graphic here? -->
 
@@ -80,7 +80,7 @@ We think it's important for RRG to set an example of how a corporate entity can 
 
 ### Mission
 
-Promote the revnet standard to encourage the growth of open internet economies.
+Bet on revnets to encourage the growth and sustainability of open internet economies.
 
 ### Bottom line
 
@@ -91,6 +91,8 @@ The $REV revnet receives a 2.5% network fee whenever someone cashes out from any
 ### Pitch to investors
 
 We’re selling 10% of the company Revnet Research Group at a $50m valuation.
+
+We will use some of the money to staff jango, filip, aeolian, and kmac, and the bulk to support the launch and marketing of revnet.app and associated revnets.
 
 ### Fundraising operations
 
@@ -129,13 +131,13 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 ### Ideal partners
 
-The Juicebox community is about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're fundraising as RRG to support growth efforts to bring these revnets to more people, and inviting new revnets to emerge. We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+We need partners who want to help with growth strategies. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
 
 ### Roadmap
 
-1. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets.
+1. Grow by facilitating growth. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets. 
 2. In 8 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
-3. In 15 years, start cashing out of $REV positions and offer buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
+3. In 15 years, consider cashing out of $REV positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
 
 ## $REV
 
