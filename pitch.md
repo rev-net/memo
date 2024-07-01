@@ -28,31 +28,33 @@
 
 ## Overview
 
-Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures that fit the new contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation.[^1]
+Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures that fit the new contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects innovating on money and contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with experimental structures like DAOs. In practice, this has often lead to mixed results and dysfunctional governance.[^2]
+This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects innovating on money and contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to mixed results and awkward dynamics between a tokens governance and market.[^2] 
 
-When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. [Smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
+When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. We need a better structure. 
 
-- **Immediacy**: Encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
-- **Clarity**: Alignment of interests is easier when ownership and access cannot be misinterpreted.
-- **Certainty**: Express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
-- **Auditability**: Impossible to *not* be transparent, simplifying diligence for all participants.
+[Smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
 
-But these positive qualities are diminished when each project implements a structure from scratch – without standardization, each participant has to trust that there are no bugs or backdoors in the smart contracts being used, and may even have to audit the source code to fully understand what they're receiving in exchange for their support.
+- **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
+- **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
+- **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
+- **Auditability**: They are impossible to hide, simplifying diligence for all participants.
 
-In the same way that [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/) allow investors to fund startups without auditing new legal agreements each time, a standardized (but configurable) financial structure, encoded through smart contracts, would allow capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's contracts.
+And now, [The Juicebox V4 protocol](https://github.com/nana-core) does build on smart contracts to standardize a simple set of levers expressing financial relationships between builders, organizations, investors, donors, retail customers, and whoever else across border and blockchains.
 
-The need for a reliable and productive structure that serves as the backbone of digital organizations to accept payments and fees led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
+The onchain tools of the today, the progressing legal landscape, and a need for a reliable and productive structure that serves as the backbone of digital organizations led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
 - **Deterministic**: Investors, builders, community, and customers know that each revnet's rules will be enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
+In the same way that standardized traditional legal agreements allow investors to fund offchain startups without adding unnecessary risk each time, a standardized (but configurable) onchain financial structure like revnets, encoded through smart contracts, allows capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's scheme and code.
+
 ## Thesis
 
-We want to double down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
+We're doubling down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
 
 ## Context
 
