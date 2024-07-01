@@ -86,7 +86,7 @@ Promote the revnet standard to encourage the growth of open internet economies.
 
 RRG accumulates $REV and adds value to it in three ways: by making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used by the $REV revnet to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
 
 ### Pitch to investors
 
