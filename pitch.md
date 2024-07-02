@@ -113,6 +113,8 @@ We will use a SAFE.
 
 RRG is a Delaware C corporation – 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
 
+RRG has its own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, but only engages with the $REV economy as a token holder.
+
 ### Onchain management 
 
 Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
