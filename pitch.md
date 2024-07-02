@@ -12,17 +12,18 @@
     - [Structure](#structure)
     - [Onchain management](#onchain-management)
     - [Offchain management](#offchain-management)
+    - [Ideal partners](#ideal-partners)
     - [Roadmap](#roadmap)
-8. [$REV](#rev)
+7. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-9. [Legal](#legal)
+8. [Legal](#legal)
+9. [Examples of revnets](#examples-of-revnets)
 10. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-12. [Examples of revnets](#examples-of-revnets)
 
 ## Overview
 
