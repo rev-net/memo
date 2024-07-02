@@ -186,7 +186,7 @@ _The price of issuing new $REV is doubled every 77 days for 770 days._
 
 ### $REV stage 3
 
-_Vest more $REV for pre-net work._
+_Vest last $REV for pre-net work._
 
 - **Duration:** 7777 days. (~22 years)
 - **Initial price:** Where stage 2 left off.
