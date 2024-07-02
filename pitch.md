@@ -30,7 +30,7 @@
 
 Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures that fit the contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, and especially cryptocurrency projects innovating on money and contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to mixed results and awkward dynamics between a tokens governance and market.[^2] 
+This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to mixed results and awkward dynamics between a tokens governance and market.[^2] 
 
 When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. We need a better structure. 
 
@@ -64,13 +64,13 @@ As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 
 
 ## Problem
 
-Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Ironically, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
+Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Despite their audience, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
 
-$JBX has been a unique example of a self-sufficient revenue-generating technology and community fully and lawlessly encoded on the blockchain, with token distribution a discrete function of contributions over time instead of airdrops and preferrencial minting to entities on a pre-designed pie chart. It, however, still suffers from governance and management risks that take dedicated attention to make worthwhile. One $JBX governance process is great, but at scale we need more sustainable and regenerative value-capture that doesn't introduce more and more governance. We need a $JBX-like structure that unlocks the value of capitalizing fundraises and revenues onchain, but doesn't create new fragilities that require perpetual attention.
+Even the best onchain organizational expirements still suffer from governance and management risks that take dedicated attention to make worthwhile. A few meaningful governance processes can be great, but at scale we need more sustainable and regenerative value-capture that doesn't introduce more and more governance. We need a structure that unlocks the value of capitalizing fundraises and revenues onchain, but doesn't create new fragilities that require perpetual attention.
 
 ## Big bet
 
-We think revnets – an expression of the juicebox language – can help millions of startups become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional alternatives.
+We think revnets – an encoded expression of the juicebox language – can help millions of startups become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional alternatives.
 
 <!-- TODO: Should we have a graphic here? -->
 
