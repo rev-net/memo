@@ -31,16 +31,9 @@ Technological breakthroughs push entrepreneurs, capital providers, and regulator
 
 This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to vulnerabilities from power struggle.[^2] 
 
-When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. We need a better structure. 
+We needed a better structure to use for our own upcoming revenue-forward projects, we believe we've come upon a standard that can be broadly productive. We call it a revnet. 
 
-When used effectively, [smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
-
-- **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
-- **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
-- **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
-- **Auditability**: They are impossible to hide, simplifying diligence for all participants.
-
-Acknowledging the technologies of today, recognizing the progressing legal landscape, and witnessing a need for a reliable and productive structure that serves as the backbone of digital organizations, we were led to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
+Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
@@ -48,6 +41,13 @@ Acknowledging the technologies of today, recognizing the progressing legal lands
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
 In the same way that standardized traditional legal agreements allow investors to fund offchain startups without adding unnecessary risk each time, a standardized (but configurable) onchain financial structure like revnets, encoded through smart contracts, allows capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's scheme and code.
+
+Revnets also inherit the best properties of smart contracts:
+
+- **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
+- **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
+- **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
+- **Auditability**: They are impossible to hide, simplifying diligence for all participants.
 
 ## Thesis
 
@@ -65,7 +65,9 @@ We've witnessed the demand for tokenized fundraising and revenue first hand, we 
 
 ## Problem
 
-Over the last decade, we've seen compelling consumer crypto offerings emerge, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Despite their audience, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
+Over the last 4 years building Juicebox, we've seen compelling consumer crypto offerings emerge around us, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Despite their audience, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
+
+As we considered how we'd set up a juicebox today to manage fundraises and incoming revnues for upcoming projects of ours, we felt certain one governed by a group of people – however tokenized and democratic – wasn't ideal.
 
 Even the best onchain organizational expirements still suffer from governance and management risks that take dedicated attention to make worthwhile. A few meaningful governance processes can be great, but at scale we need more sustainable and regenerative value-capture that doesn't introduce more and more governance. We need a structure that unlocks the value of capitalizing fundraises and revenues onchain, but doesn't create new fragilities that require perpetual attention.
 
