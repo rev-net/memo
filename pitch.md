@@ -34,16 +34,16 @@ This decade has seen major progress across many technological domains. Some of t
 
 When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. We need a better structure. 
 
-[Smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
+When used effectively, [smart contracts](https://ethereum.org/en/smart-contracts/) do offer the means of a path forward by providing:
 
 - **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
 - **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
 - **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
 - **Auditability**: They are impossible to hide, simplifying diligence for all participants.
 
-And now, [The Juicebox V4 protocol](https://github.com/nana-core) does build on smart contracts to standardize a simple set of levers expressing financial relationships between builders, organizations, investors, donors, retail customers, and whoever else across border and blockchains.
+Shaping smart contracts, [the Juicebox V4 protocol](https://github.com/nana-core) does standardize a simple set of levers expressing financial relationships over time between builders, organizations, investors, donors, retail customers, and whoever else across border and blockchains.
 
-The onchain tools of the today, the progressing legal landscape, and a need for a reliable and productive structure that serves as the backbone of digital organizations led us to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
+By using the onchain tools of today, recognizing the progressing legal landscape, and witnessing a need for a reliable and productive structure that serves as the backbone of digital organizations, we were led to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
@@ -86,7 +86,7 @@ Bet on revnets to encourage the growth and sustainability of open internet econo
 
 ### Bottom line
 
-RRG accumulates $REV and adds value to it in three ways: by making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
+RRG accumulates $REV and adds value to it in three ways: making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
 
@@ -121,7 +121,7 @@ Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.rev.eth`. The mult
 
 Offchain management of the corporation will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
 
-[Jango](https://jango.eth.sucks) has spent the last 4 years refining smart contracts towards a specialized language for articulating new financial structures, and has spent the last 3 years refining that language in production as [Juicebox](https://juicebox.money).
+[Jango](https://jango.eth.sucks) founded and has developed the [Juicebox](https://juicebox.money) protocol to support organizational money experiments on the public internet.
 
 [Filip](https://filip.world) has been working on Juicebox since November 2021, focusing on documentation, off-chain tools and services, and frontend development, as well as directly supporting many Juicebox project creators.
 
