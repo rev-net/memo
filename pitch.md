@@ -4,23 +4,21 @@
 3. [Context](#context)
 4. [Problem](#problem)
 5. [Big bet](#big-bet)
-    - [Revnets](#revnets)
-    - [Networked treasuries](#networked-treasuries)
 6. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+    - [Mission](#mission)
+    - [Bottom line](#bottom-line)
     - [Pitch to investors](#pitch-to-investors)
     - [Fundraising operations](#fundraising-operations)
     - [Structure](#structure)
     - [Onchain management](#onchain-management)
     - [Offchain management](#offchain-management)
-    - [Timing](#timing)
-    - [Bottom line](#bottom-line)
     - [Roadmap](#roadmap)
-7. [$REV](#rev)
+8. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-8. [Legal](#legal)
+9. [Legal](#legal)
 10. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
@@ -90,11 +88,13 @@ RRG accumulates [$REV (see below)](#rev) and adds value to it in three ways: mak
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of $REV issuance and buybacks as the fees come in. 
 
+RRG will also charge fees to help facilitate access to revnets by traditional finance and tech organizations.
+
 ### Pitch to investors
 
 We're raising $5m by selling 10% of the company Revnet Research Group at a $50m valuation.
 
-We wil use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), and kmac (marketing/tech lead).
+We will use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and potentially other specialty hires.
 
 ### Fundraising operations
 
