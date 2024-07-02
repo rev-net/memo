@@ -68,7 +68,9 @@ Even the best onchain organizational expirements still suffer from governance an
 
 ## Big bet
 
-We think revnets – an encoded expression of the juicebox language – can help millions of startups become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional alternatives.
+We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
+
+If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers.
 
 <!-- TODO: Should we have a graphic here? -->
 
@@ -76,7 +78,7 @@ We think revnets – an encoded expression of the juicebox language – can help
 
 We'd like to begin a dedicated Revnet Research Group (RRG) corporation to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
-We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a broader onchain revnet structure.
+We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure.
 
 ### Mission
 
@@ -84,15 +86,15 @@ Bet on revnets to encourage the growth and sustainability of open internet econo
 
 ### Bottom line
 
-RRG accumulates $REV and adds value to it in three ways: making web tools that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new projects as revnets.
+RRG accumulates [$REV (see below)](#rev) and adds value to it in three ways: making web tools like [revnet.app](https://revnet.app) that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new revnets.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue or buyback $REV, depending on which is a better deal. RRG receives a portion of these $REV issuance and buybacks as the fees come in. (See [$REV](#rev) below).
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of $REV issuance and buybacks as the fees come in. 
 
 ### Pitch to investors
 
-We’re selling 10% of the company Revnet Research Group at a $50m valuation.
+We're raising $5m by selling 10% of the company Revnet Research Group at a $50m valuation.
 
-We will use some of the money to staff jango, filip, aeolian, and kmac, and the bulk to support the launch and marketing of revnet.app and associated revnets.
+We wil use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), and kmac (marketing/tech lead).
 
 ### Fundraising operations
 
