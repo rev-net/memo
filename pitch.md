@@ -29,7 +29,7 @@
 
 Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures that fit the contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers alike. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to vulnerabilities from power struggle.[^2] 
+This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers. Several major players, like Uniswap, ENS, Maker, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, this has often lead to vulnerabilities from power struggle.[^2] 
 
 When even these combined structures fall short, it's often due to a lack of transparency, misguided expectations, or misaligned incentives. We need a better structure. 
 
@@ -40,7 +40,7 @@ When used effectively, [smart contracts](https://ethereum.org/en/smart-contracts
 - **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
 - **Auditability**: They are impossible to hide, simplifying diligence for all participants.
 
-By using the onchain contracts of today, recognizing the progressing legal landscape, and witnessing a need for a reliable and productive structure that serves as the backbone of digital organizations, we were led to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
+Acknowledging the technologies of today, recognizing the progressing legal landscape, and witnessing a need for a reliable and productive structure that serves as the backbone of digital organizations, we were led to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
@@ -55,9 +55,13 @@ We're doubling down on revnets as a vision of how wealth will be most productive
 
 ## Context
 
-[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts, with revenues used to back the $JBX token and community itself as a project on the protocol.
+The team behind revnets comes from building Juicebox.
 
-As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons organized under JuiceboxDAO, which is itself using the Juicebox model. At its core, the experiment has been to create tools that facilitate business models of the future, starting with $JBX.
+[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts. Juicebox exposes a handful of tunable levers that allow for open ended expression of financial relationships – commonly used for fundraisers and indy projects. Revnets are one such expression of the Juicebox language.
+
+As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons organized under JuiceboxDAO, which is itself using the Juicebox model. At its core, the experiment has been to create tools that facilitate business models of the future, starting with $JBX – the protocol's fee-collecting token.
+
+We've witnessed the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tools at our disposal intimately well, and we understand the legal barriers to growing onchain organizations using status quo agreements.
 
 ## Problem
 
