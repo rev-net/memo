@@ -41,8 +41,6 @@ When used effectively, [smart contracts](https://ethereum.org/en/smart-contracts
 - **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
 - **Auditability**: They are impossible to hide, simplifying diligence for all participants.
 
-Shaping smart contracts, [the Juicebox V4 protocol](https://github.com/nana-core) does standardize a simple set of levers expressing financial relationships over time between builders, organizations, investors, donors, retail customers, and whoever else across border and blockchains.
-
 By using these onchain tools of today, recognizing the progressing legal landscape, and witnessing a need for a reliable and productive structure that serves as the backbone of digital organizations, we were led to create *revnets*. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
