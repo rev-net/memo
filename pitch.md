@@ -69,7 +69,7 @@ Even the best onchain organizational expirements still suffer from governance an
 
 We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
-If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
+If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. This has clear implications for cryptocurrency economies, social media platforms, and AI models, who each benefit from consumer interaction as much as consumers benefit from having them.
 
 <!-- TODO: Should we have a graphic here? -->
 
