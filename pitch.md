@@ -166,7 +166,7 @@ Each revnet has a token and is defined in stages. Each stage specifies five rule
 
 If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.
 
-Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and offer cash outs on those networks too. Holders can move their tokens between chains, and when they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
+Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains, and when they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
 ### $REV stage 1
 
