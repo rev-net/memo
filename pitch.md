@@ -31,7 +31,7 @@ Technological breakthroughs push entrepreneurs, capital providers, and regulator
 
 This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers. Several major players, like Uniswap, ENS, Maker, Arbitrum, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, governance and capital allocation is hard, and often leads to vulnerabilities and power struggles.[^2] 
 
-We needed a better structure to use for our own upcoming revenue-forward projects, we believe we've come upon a standard that can be broadly productive. We call it a revnet. 
+**We needed a better financial structure to use for our own upcoming revenue-forward projects we will be fundraising for. We think we've come across a structure that can be broadly productive. We call it a revnet.**
 
 Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
@@ -74,6 +74,8 @@ Even the best onchain organizational expirements still suffer from governance an
 ## Big bet
 
 We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
+
+Revnets also benefit from being networked together – each revnet gets better the more revnets there are. Composable open accounting alongside composable open ideas and code. 
 
 If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. This has clear implications for cryptocurrency economies, social media platforms, and AI models, who each benefit from mass consumer interaction as much as consumers benefit from being a part of them.
 
