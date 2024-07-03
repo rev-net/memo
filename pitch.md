@@ -162,7 +162,7 @@ Each revnet has a token and is defined in stages. Each stage specifies five rule
     - **Price increase:** How frequently, and by how much, does the token's price increase within the stage?
 - **Split:** What percentage of token issuance (and buybacks) are set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients from that list, changing how the split is allocated within the fixed percent set for the stage.
 - **Automint:** How many tokens get minted to a list of recipients at the start of the stage? This functions like a "pre-mint" only accessible once the stage has started.
-- **Cash out tax:** How much does the revnet's reclaimable value per token increase each a token holders burns their tokens to cash out?
+- **Cash out tax:** How much does the revnet's next potential cash out value increase each time a token holder cashes out?
 
 If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.
 
