@@ -83,7 +83,7 @@ If we're right, the open internet will win _because_ it best serves creatives, b
 
 We'd like to begin a dedicated Revnet Research Group (RRG) corporation to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
-We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure.
+We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev).
 
 ### Mission
 
@@ -91,7 +91,7 @@ Bet on revnets to encourage the growth and sustainability of open internet econo
 
 ### Bottom line
 
-RRG accumulates [$REV (see below)](#rev) and adds value to it in three ways: making web tools like [revnet.app](https://revnet.app) that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new revnets.
+RRG accumulates $REV and adds value to it in three ways: making web tools like [revnet.app](https://revnet.app) that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new revnets.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of $REV issuance and buybacks as the fees come in. 
 
