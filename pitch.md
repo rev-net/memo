@@ -51,7 +51,7 @@ Revnets also inherit the best properties of smart contracts:
 
 ## Thesis
 
-We're doubling down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're after partners to help propel this thesis forward.
+We're doubling down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're open to partners who can help propel this thesis forward.
 
 ## Context
 
