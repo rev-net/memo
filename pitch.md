@@ -75,8 +75,6 @@ Even the best onchain organizational expirements still suffer from governance an
 
 We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
-Revnets also benefit when they're networked together – each revnet gets better the more revnets there are. We think composable, immutable, open accounting helps composable, immutable, open ideas and code win.
-
 If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. The future econonics of cryptocurrency economies, social media platforms, and AI models – who each benefit from mass consumer interaction as much as consumers benefit from being a part of them – is bright.
 
 <!-- TODO: Should we have a graphic here? -->
