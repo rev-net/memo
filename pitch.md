@@ -140,7 +140,7 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 ### Ideal partners
 
-We're after partners who want to help with growth strategies. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+We're open to partners who want to help with growth strategies. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
 
 ### Roadmap
 
