@@ -59,7 +59,7 @@ The team behind revnets comes from building Juicebox.
 
 [In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts. Juicebox exposes a handful of tunable levers that allow for open ended expression of financial relationships – commonly used for fundraisers and indy projects. Revnets are one such expression of the Juicebox language.
 
-As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of internet anons organized under JuiceboxDAO, which is itself using the Juicebox model. At its core, the experiment has been to create tools that facilitate business models of the future, starting with $JBX – the protocol's fee-collecting token.
+As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of sudo-anonymous people on internet organized under JuiceboxDAO, which is itself organized using the Juicebox model. At its core, the experiment has been to create tools that facilitate business models of the future, starting with $JBX – the protocol's fee-collecting token.
 
 We've witnessed the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tools at our disposal intimately well, and we understand the legal barriers to growing onchain organizations using status quo agreements.
 
@@ -75,7 +75,7 @@ Even the best onchain organizational expirements still suffer from governance an
 
 We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
-If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. This has clear implications for cryptocurrency economies, social media platforms, and AI models, who each benefit from mass consumer interaction as much as consumers benefit from having them.
+If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. This has clear implications for cryptocurrency economies, social media platforms, and AI models, who each benefit from mass consumer interaction as much as consumers benefit from being a part of them.
 
 <!-- TODO: Should we have a graphic here? -->
 
@@ -152,7 +152,7 @@ We're after partners who want to help with growth strategies. We (folks from aro
 
 ## $REV
 
-$REV runs on its own as a revnet according to the rules below. RRG is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
+$REV runs on its own as a revnet according to the rules below – there is no governance. RRG is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
 
 ### Anatomy of a revnet
 
