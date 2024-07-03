@@ -101,7 +101,7 @@ RRG will also charge fees to help facilitate access to revnets by traditional fi
 
 We're raising $5m by selling 10% of the company Revnet Research Group at a $50m valuation.
 
-We will use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and potentially other specialty hires.
+We will use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead).
 
 ### Fundraising operations
 
