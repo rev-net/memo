@@ -6,12 +6,12 @@
     - [Mission](#mission)
     - [Bottom line](#bottom-line)
     - [Pitch to investors](#pitch-to-investors)
-    - [Fundraising operations](#fundraising-operations)
     - [Structure](#structure)
     - [Onchain management](#onchain-management)
     - [Offchain management](#offchain-management)
     - [Ideal partners](#ideal-partners)
     - [Roadmap](#roadmap)
+    - [Spend](#spend)
 5. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
@@ -62,27 +62,25 @@ We're open to partners who can help propel this thesis forward.
 
 ## Revnet Research Group (RRG)
 
-We'd like to begin a dedicated Revnet Research Group (RRG) corporation to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We'r starting a dedicated Revnet Research Group (RRG) LLC to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
-We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev).
+We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev). 
 
 ### RRG Mission
 
-Encourage the growth and sustainability of open internet economies – large and small – through revnets.
+Encourage the growth and sustainability of open internet economies – large and small – through revnets. We're shooting for $1 billion of assets locked in revnets in 4 years.
 
 ### Bottom line
 
-RRG accumulates $REV and adds value to it in three ways: marketing [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
+RRG will achieve its mission in three ways: build an marketing a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
+While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. More on this [below](#rev). 
 
-RRG will also have leverage to charge fees when facilitating access to revnets through its trusted services.
+RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
 ### Pitch to investors
 
-We're ourselves using a revnet to bootstrap RRG.
-
-We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 77 days of revnet will favor grassroots invesors.
+We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots invesors.
 
 For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
 
@@ -90,7 +88,7 @@ For those investors who prefer interacting with a corporation in fiat instead of
 
 ### Structure 
 
-RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob.
+RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob. RRG is a [$REV](#rev) token holder alongside other holders.
 
 ### Onchain management 
 
