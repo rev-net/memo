@@ -68,11 +68,11 @@ We think it's important for RRG to set an example of how a corporate entity can 
 
 ### RRG Mission
 
-Bet on revnets to encourage the growth and sustainability of open internet economies.
+Encourage the growth and sustainability of open internet economies – large and small – through revnets.
 
 ### Bottom line
 
-RRG accumulates $REV and adds value to it in three ways: being the trusted gateway to revnets through portals like [revnet.app](https://revnet.app) that let anyone browse and participate, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets.
+RRG accumulates $REV and adds value to it in three ways: marketing [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
 
@@ -80,19 +80,17 @@ RRG will also have leverage to charge fees when facilitating access to revnets t
 
 ### Pitch to investors
 
-We're raising $5m by selling 10% of the company Revnet Research Group at a $50m valuation.
+We're ourselves using a revnet to bootstrap RRG.
 
-We will use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), rob (legal).
+We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 77 days of revnet will favor grassroots invesors.
 
-### Fundraising operations
-
-We will use a SAFE.
+For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
 
 <!-- TODO: This is YC Safe and not Gnosis, right? We should specify which kind (post-money MFN no cap no discount?) and combine with the prior section. -->
 
 ### Structure 
 
-RRG is a Delaware C corporation – 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
+RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob.
 
 ### Onchain management 
 
@@ -121,13 +119,19 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 ### Ideal partners
 
-We're open to partners who want to help with growth strategies. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+Anyone is welcome, though we want to especially encourage partners who want to help with growth strategies and could see themselves using revnets in other areas of their portfolio. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+
+We want to invite both token-confortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
 
 ### Roadmap
 
 1. Grow by facilitating growth. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets. 
-2. In 8 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
-3. In 15 years, consider cashing out of $REV positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
+2. In 8 years, once there are hundreds of billion dollar networks running as revnets, consider either heading towards an IPO explicitly to give conventional financial markets exposure to $REV and the rest of RRG's revnet-based portfolio, or skipping to step 3.
+3. In 15 years, consider cashing out of $REV and other positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders.
+
+### Spend
+
+RRG will use the bulk of the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the $REV to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), rob (legal).
 
 ## $REV
 
@@ -151,9 +155,9 @@ Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible
 
 ### $REV stage 1
 
-_Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
+_Inaugural 90 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
 
-- **Duration:** 77 days.
+- **Duration:** 90 days.
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** None.
 - **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
@@ -162,12 +166,12 @@ _Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be wo
 
 ### $REV stage 2
 
-_The price of issuing new $REV is doubled every 77 days for 770 days._
+_The price of issuing new $REV is doubled every 180 days for 720 days._
 
-- **Duration:** 770 days (~2 years).
+- **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
-- **Price increase:** 100% (double) every 77 days, “halving”.
-- **Split:** 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
+- **Price increase:** 100% (double) every 180 days, “halving”.
+- **Split:** 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** none.
 - **Cash out tax:** No change. Medium-high (0.6).
 
@@ -175,10 +179,10 @@ _The price of issuing new $REV is doubled every 77 days for 770 days._
 
 _Vest last $REV for pre-net work._
 
-- **Duration:** 7777 days. (~22 years)
+- **Duration:** 7_200 days. (~20 years)
 - **Initial price:** Where stage 2 left off.
-- **Price increase:** Continue doubling every 77 days.
-- **Split:** No change. 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
+- **Price increase:** Doubling every 360 days.
+- **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
@@ -221,11 +225,11 @@ Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 ### Should I invest in RRG, $REV, or...?
 
-There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
+There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
 
-- RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
+- The only current way to access the ecosystem for participants who don't want to access tokens directly onchain is through RRG. RRG will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee. RRG is not investible directly.
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
+- Also for those onchain, build direct exposure to $REV to benefit from revenue growth without proxies.
 
 ### What are the risks I should be aware of?
 
@@ -233,7 +237,7 @@ There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($
 
 **Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to persue emergent opportunities. Engaging in either RRG or $JBX should warrent due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
 
-**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to bet on their success. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up to, and will lean on $REV energy to help us reach critical mass.
+**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
 
 **Immutability risk**: Though a revnet's immutability is its core value prop, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.rev.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
 
