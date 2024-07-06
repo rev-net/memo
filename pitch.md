@@ -3,7 +3,7 @@
 2. [Thesis](#thesis) 
 3. [Big bet](#big-bet)
 4. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
-    - [Mission](#mission)
+    - [RRG Mission](#rrg-mission)
     - [Bottom line](#bottom-line)
     - [Pitch to investors](#pitch-to-investors)
     - [Structure](#structure)
@@ -72,7 +72,7 @@ Encourage the growth and sustainability of open internet economies – large and
 
 ### Bottom line
 
-RRG will achieve its mission in three ways: build an marketing a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
+RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
 
 While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. More on this [below](#rev). 
 
