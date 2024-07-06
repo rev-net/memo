@@ -56,9 +56,9 @@ Revnets also inherit the best properties of the Juicebox V4 smart contracts:
 
 ## Thesis
 
-Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives. Revnets should help organizations compete and win.
+Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
-This mean the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
+With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
 We're open to partners who can help propel this thesis forward.
 
