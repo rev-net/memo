@@ -1,8 +1,9 @@
 ## Contents
 1. [Overview](#overview)
-2. [Thesis](#thesis) 
-3. [Big bet](#big-bet)
-4. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+2. [Context](#context)
+3. [Thesis](#thesis) 
+4. [Big bet](#big-bet)
+5. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
     - [RRG Mission](#rrg-mission)
     - [Bottom line](#bottom-line)
     - [Pitch to investors](#pitch-to-investors)
@@ -12,14 +13,14 @@
     - [Ideal partners](#ideal-partners)
     - [Roadmap](#roadmap)
     - [Spend](#spend)
-5. [$REV](#rev)
+6. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-6. [Legal](#legal)
-7. [Examples of revnets](#examples-of-revnets)
-8. [Investor FAQ](#investor-faq)
+7. [Legal](#legal)
+8. [Examples of revnets](#examples-of-revnets)
+9. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
@@ -30,6 +31,8 @@ Technological breakthroughs push entrepreneurs, capital providers, and regulator
 This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. For other internet-native businesses, especially AI and crypto projects who champion open source and are innovating on internet-native concepts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers.
 
 We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will transform the landscape of finance, we think revnets are the most productive structure to tokenize revenues and fundraises of both large organizations and small businesses. Revnets are the SAFE agreements of this economy but 100x better.
+
+## Context
 
 When planning the upcoming release of several revenue-forward projects of ours, it was clear the traditional models have clear shortcomings for us as entrepreneurs, for our consumers, and for those interested in allocating capital productively. We've also been observing major crypto players Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]  
 
@@ -54,23 +57,23 @@ Revnets also inherit the best properties of the Juicebox V4 smart contracts:
 
 ## Thesis
 
-We've got 10 game changing projects ready to use revnets, including the fee-collecting project of the Juicebox V4 protocol. We need to make sure they are all wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. 
+Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives. Revnets should help organizations compete and win.
 
-We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
-
-If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. The prosperity of open cryptocurrency economies, social media platforms, and AI models – who each benefit from mass consumer interaction as much as consumers benefit from being a part of them – is bright.
+This mean the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
 We're open to partners who can help propel this thesis forward.
 
 ## Revnet Research Group (RRG)
 
-We'r starting a dedicated Revnet Research Group (RRG) LLC to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We're starting a dedicated Revnet Research Group (RRG) LLC to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
 We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev). 
 
 ### RRG Mission
 
 Encourage the growth and sustainability of open internet economies – large and small – through revnets. We're shooting for $1 billion of assets locked in revnets in 4 years.
+
+In the short term, we've got 10 game changing projects ready to use revnets, including the fee-collecting project of the Juicebox V4 protocol. We need to make sure they are all wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. 
 
 ### Bottom line
 
