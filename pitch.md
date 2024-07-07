@@ -84,7 +84,7 @@ RRG will also have leverage to charge fees when facilitating access to revnets f
 
 ### Pitch to investors
 
-We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots invesors.
+We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots investors.
 
 For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
 
