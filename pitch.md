@@ -29,7 +29,7 @@ Technological breakthroughs push entrepreneurs, capital providers, and regulator
 
 This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. For other internet-native businesses, especially AI and crypto projects who champion open source and are innovating on internet-native concepts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers.
 
-We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will transform the landscape of finance, we think revnets are the most productive structure to tokenize revenues and fundraises of both large organizations and small businesses. Revnets are the SAFE agreements of this economy but 100x better.
+We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will enhance the landscape of finance, we think revnets will participate by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 ## Context
 
