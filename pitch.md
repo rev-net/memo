@@ -25,9 +25,7 @@
 
 ## Overview
 
-Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new standard financial structures that fit the contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limiting liability of corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
-
-This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. For other internet-native businesses, especially AI and crypto projects who champion open source and are innovating on internet-native concepts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers.
+Dominant organizational and financial models have always suited the technologies of their respective eras. In this era of internet-native businesses – AI, crypto, and social networks who champion open source and are innovating on internet-native concepts – corporate-stock models of organization have become anachronistic for entrepreneurs, capital providers, and consumers alike.
 
 We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will enhance the landscape of finance, we think revnets will participate by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
