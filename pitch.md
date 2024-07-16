@@ -33,7 +33,7 @@ Revnets are a new financial structure made for capitalizing and growing internet
 
 Blackrock CEO Larry Finck and prominant others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've been saying this for years, and now think revnets will participate in Larry's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
-Revnets can make all kinds of modern financial engagements more efficient, from indy shopify stores, patreons, donation, all the way to corporate finance and high net worth brand management. The $REV network itself runs as a revnet, and captures 2.5% of each revnet's outflows from raised funds and revenues.
+Revnets can make all kinds of modern financial engagements more efficient, from indy shopify stores, patreons, donations, all the way to corporate finance and high net worth brand management. The $REV network itself runs as a revnet, and captures 2.5% of each revnet's outflows from raised funds and revenues.
 
 ## Context
 
