@@ -51,7 +51,8 @@ This team also understands the legal moment we are in when it comes to growing o
 Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
-- **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
+- **Management-free**: Revnets operate autonomously according to their pre-configured rules, making rug pulls and overreach impossible.
+- **Liquid**: Revnets work with the open market to make and take liquidity, helping startups bootstrap growth and making market manipulation unfavorable.
 - **Deterministic**: Investors, builders, community, and customers know that each revnet's rules will be enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
