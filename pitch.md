@@ -48,7 +48,7 @@ This team also understands the legal moment we are in when it comes to growing o
 1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks we're working on.
 2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
 
-Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
+Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously, according to their pre-configured rules.
