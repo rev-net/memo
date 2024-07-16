@@ -31,7 +31,7 @@ In this era of internet-native businesses – AI, social, and crypto networks wh
 
 Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Think of it like Bitcoin's halvening rule – once deployed, its issuance policy leads to a guarenteed 21m supply over time. Instead of a fixed supply with periodic supply shocks, revnets enforce a certain other set of guarentees that promote enterprise growth, unchangeable after being deployed. 
 
-Blackrock CEO Larry Finck and prominant others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've been saying this for years, and now think revnets will participate in Larry's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+Blackrock CEO Larry Finck and prominant others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've known this for years, and now think revnets will participate in Larry's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 Revnets can power all kinds of modern financial engagements to greater efficiency, from indy shopify stores, patreons, donations, all the way to corporate finance and high net worth brand management. The $REV network itself runs as a revnet, and captures 2.5% of each revnet's outflows from raised funds and revenues.
 
@@ -55,14 +55,16 @@ Revnets are a **fully pre-configured** financial structure – although they can
 - **Deterministic**: Investors, builders, community, and customers know that each revnet's rules will be enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
-Revnets also inherit the best properties of the Juicebox V4 smart contracts:
+Revnets also inherit the best properties of Ethereum and Juicebox V4:
 
-- **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
-- **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
-- **Certainty**: They express clearly scheduled rules which cannot be broken.
-- **Auditability**: They are impossible to hide, simplifying diligence for all participants.
-- **Everywhere**: They allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.  
+- **Immediacy**: Encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
+- **Clarity**: Allow for ownership and access rules that can't be subjectively misinterpretted.
+- **Certainty**: Express clearly scheduled rules which cannot be broken.
+- **Auditability**: Impossible to hide, simplifying diligence for all participants.
+- **Everywhere**: Allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.  
 
+Ethereum is one of a kind, we have incredible respect and gratitude for the work of our peers that make what we do possible.
+ 
 ## Thesis
 
 Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
