@@ -81,7 +81,7 @@ We think it's important for RRG to set an example of how a corporate entity can 
 
 Encourage the growth and sustainability of open internet economies – large and small – through revnets. We're shooting for $1 billion of assets locked in revnets in 4 years.
 
-In the short term, we've got 10 game changing projects ready to use revnets, including the fee-collecting project of the Juicebox V4 protocol. We need to make sure they are all wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. 
+In the short term, we've got 10 game changing projects ready to use revnets. We need to make sure they are all wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. 
 
 ### Bottom line
 
