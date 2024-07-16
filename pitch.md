@@ -27,7 +27,7 @@
 
 Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-In this era of internet-native businesses – AI, social, and crypto networks who champion open source and are publicly innovating on internet-native concepts – corporate-stock models of organization are anachronistic for entrepreneurs, capital providers, and consumers alike. We think revnets will emerge as the standard for internet businesses and economies. 
+In this era of internet-native businesses – AI, social, and crypto networks who champion open source and are publicly innovating on internet-native concepts – corporate-stock models of organization are anachronistic for entrepreneurs, capital providers, and consumers alike. We think revnets will emerge as the standard for internet businesses and online economies. 
 
 Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Think of it like Bitcoin's halvening rule – once deployed, its issuance policy leads to a guarenteed 21m supply over time. Instead of a fixed supply with periodic supply shocks, revnets enforce a certain other set of guarentees that promote enterprise growth, unchangeable after being deployed. 
 
