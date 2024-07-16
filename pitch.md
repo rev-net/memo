@@ -25,9 +25,13 @@
 
 ## Overview
 
-Dominant organizational and financial models have always suited the technologies of their respective eras. In this era of internet-native businesses – AI, crypto, and social networks who champion open source and are innovating on internet-native concepts – corporate-stock models of organization have become anachronistic for entrepreneurs, capital providers, and consumers alike.
+Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will enhance the landscape of finance, we think revnets will participate by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+In this era of internet-native businesses – AI, social, and crypto networks who champion open source and are publicly innovating on internet-native concepts – corporate-stock models of organization are anachronistic for entrepreneurs, capital providers, and consumers alike.
+
+We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will enhance the landscape of finance, we agree and think revnets will participate by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+
+The $REV network itself runs as a revnet, and captures 2.5% of all outflows from raised funds and revenues. The potential market spans from indy shopify stores and patreons, to corporate finance.
 
 ## Context
 
