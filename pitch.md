@@ -34,14 +34,14 @@ The $REV network itself runs as a revnet, and earns 2.5% of each revnet's outflo
 
 Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-In this era of AI, social, and crypto networks who champion open source and are publicly innovating on internet-native concepts, corporate-stock models of organization are anachronistic, leaving much to be desired for entrepreneurs, capital providers, and consumers alike. We think revnets – a tokenized financial structure made for capitalizing and growing online money relationships – will emerge as the new standard for financing internet businesses, from startup to scale. 
+n this era of AI, social, and crypto networks that champion open source and publicly innovate on internet-native concepts, corporate-stock models of organization are anachronistic, leaving much to be desired for entrepreneurs, capital providers, and consumers alike. We think revnets – a tokenized financial structure made for capitalizing and growing online money relationships – will emerge as the new standard for financing internet businesses, from startup to scale. 
 
 Think of revnets like Bitcoin's halvening rule – once deployed, its issuance policy leads to a guaranteed 21m supply over time. Instead of a fixed supply with periodic supply shocks like bitcoin, revnets enforce a certain other set of guarantees that determine where tokens go when it is paid and under what conditions tokens can be cashed out. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously according to their pre-configured rules, making rug pulls and overreach impossible.
 - **Liquid**: Revnets work with the open market to make and take liquidity, helping startups bootstrap growth and making market manipulation unfavorable.
-- **Deterministic**: Investors, builders, community, and customers each act within a revnet's known rules, which are enforced programmatically from start to finish.
+- **Deterministic**: Investors, builders, community, and customers each acts within a revnet's known rules, enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
 Revnets also inherit the best properties of Ethereum:
@@ -59,7 +59,7 @@ Blackrock CEO Larry Fink and prominent others say the necessary and inevitable t
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network.
 
-Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational financial guarantees. It has been used by Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
+Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been used by Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
 Revnets are now the next step, a particular expression of the Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
