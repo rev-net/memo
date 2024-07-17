@@ -3,24 +3,24 @@
 2. [Overview](#overview)
 3. [Context](#context)
 4. [Anatomy of a revnet](#anatomy-of-a-revnet)
-5. [Thesis](#thesis) 
-6. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+5. [Thesis](#thesis)
+6. [Pitch to investors](#pitch-to-investors)
+7. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
     - [RRG Mission](#rrg-mission)
     - [Bottom line](#bottom-line)
-    - [Pitch to investors](#pitch-to-investors)
     - [Structure](#structure)
     - [Onchain management](#onchain-management)
     - [Offchain management](#offchain-management)
     - [Ideal partners](#ideal-partners)
     - [Roadmap](#roadmap)
     - [Spend](#spend)
-7. [$REV](#rev)
+8. [$REV](#rev)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-8. [Legal](#legal)
-9. [Examples of revnets](#examples-of-revnets)
-10. [Investor FAQ](#investor-faq)
+9. [Legal](#legal)
+10. [Examples of revnets](#examples-of-revnets)
+11. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
@@ -94,6 +94,12 @@ With revnets, the open internet will win _because_ it best serves creatives, bui
 
 We're calling on partners who believe in a revenue-forward version of the open internet to join the $REV network.
 
+## Pitch to investors
+
+We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots investors.
+
+For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
+
 ## Revnet Research Group (RRG)
 
 We'll use an LLC named Revnet Research Group (RRG) to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
@@ -113,12 +119,6 @@ RRG will achieve its mission in three ways: build and market a great [revnet.app
 While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. More on this [below](#rev). 
 
 RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
-
-### Pitch to investors
-
-We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots investors.
-
-For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
 
 ### Structure 
 
