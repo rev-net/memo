@@ -61,7 +61,7 @@ Those of us developing revnets have been contributors to the Ethereum ecosystem 
 
 Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational finanial guarantees. It's been used by Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
-Revnets are now the next step, a particular expression of this Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We know what's needed from us to help realize the so-called tokenization of everything, we've been consistently one step ahead of the curve and steadfast in our values.  
+Revnets are now the next step, a particular expression of this Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
 This team also understands the legal moment we are in when it comes to growing onchain organizations. We made revnets in part as a pre-requisite for many of our own upcoming projects in need of a tokenized financial engine that allows us to push forward with confidence. It is clear to us that:
 
