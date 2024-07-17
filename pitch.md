@@ -65,10 +65,10 @@ Revnets are now the next step, a particular expression of this Juicebox language
 
 This team also understands the legal moment we are in when it comes to growing onchain organizations. We made revnets in part as a pre-requisite for many of our own upcoming projects in need of a tokenized financial engine that allows us to push forward with confidence. It is clear to us that:
 
-1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks we're working on.
-2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
+1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks the future will increasingly demand.
+2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address legal uncertainty by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
 
-Revnets are the tool we need to encourage more projects to hit the gas without incumbant tradeoffs.
+Revnets are the tool we need to encourage more projects to hit the gas without incumbant tradeoffs. Their time is now – they would be too fragile to exist if a rent-seeking feduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
 ## Anatomy of a revnet
 
