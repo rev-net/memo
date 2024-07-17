@@ -59,7 +59,7 @@ The $REV network itself runs as a revnet, and earns 2.5% of each revnet's outflo
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network.
 
-Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational financial guarantees. It's been used by Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
+Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational financial guarantees. It has been used by Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
 Revnets are now the next step, a particular expression of this Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
@@ -102,7 +102,7 @@ For those investors who prefer interacting with a corporation in fiat instead of
 
 ## Revnet Research Group (RRG)
 
-We'll use an LLC named Revnet Research Group (RRG) to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We'll use an LLC named RRG to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
 We think it's important for RRG to set an example of how a corporate partnership can be successful as a scoped subcomponent of a public onchain revnet structure, in this case $REV. 
 
@@ -218,7 +218,7 @@ Each revnet’s rules are defined up front, and all transactions are public. Onc
 
 Now is the time to learn from the legal outcomes of the past few years and bet on deterministic mechanisms where no entity can change or control the rules once deployed, and where all information is publicly auditable.
 
-RRG has it's own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, but only engages with the $REV economy as a token holder.
+RRG has it's own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, and only engages with the $REV economy as a token holder.
 
 <!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
@@ -253,9 +253,9 @@ There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). Ac
 
 **Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to pursue emergent opportunities. Engaging in either RRG or $JBX should warrant due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
 
-**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
+**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decision that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
 
-**Immutability risk**: Though a revnet's immutability is its core value prop, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.rev.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
+**Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.rev.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
