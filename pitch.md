@@ -34,7 +34,7 @@ Dominant organizational and financial models have always suited the technologies
 
 In this era of AI, social, and crypto networks who champion open source and are publicly innovating on internet-native concepts, corporate-stock models of organization are anachronistic for entrepreneurs, capital providers, and consumers alike. We think revnets – a tokenized financial structure made for capitalizing and growing online money relationships – will emerge as the new standard for financing internet businesses, from startup to scale. 
 
-Think of revnets like Bitcoin's halvening rule – once deployed, a its issuance policy leads to a guaranteed 21m supply over time. Instead of a fixed supply with periodic supply shocks like bitcoin, revnets enforce a certain other set of guarantees that determine where tokens go when it is paid and under what conditions tokens can be cashed out. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
+Think of revnets like Bitcoin's halvening rule – once deployed, its issuance policy leads to a guaranteed 21m supply over time. Instead of a fixed supply with periodic supply shocks like bitcoin, revnets enforce a certain other set of guarantees that determine where tokens go when it is paid and under what conditions tokens can be cashed out. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds – among the most common failure modes for DAOs – are impossible.
 - **Management-free**: Revnets operate autonomously according to their pre-configured rules, making rug pulls and overreach impossible.
@@ -59,7 +59,7 @@ The $REV network itself runs as a revnet, and earns 2.5% of each revnet's outflo
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network.
 
-Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational finanial guarantees. It's been used by Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
+Juicebox is public infrastructure that gives us a tokenized language for expressing various organizational financial guarantees. It's been used by Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
 Revnets are now the next step, a particular expression of this Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
@@ -68,7 +68,7 @@ This team also understands the legal moment we are in when it comes to growing o
 1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks the future will increasingly demand.
 2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address legal uncertainty by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
 
-Revnets are the tool we need to encourage more projects to hit the gas without incumbant tradeoffs. Their time is now – they would be too fragile to exist if a rent-seeking feduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
+Revnets are the tool we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – they would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
 ## Anatomy of a revnet
 
@@ -84,7 +84,7 @@ Each revnet has a token and is defined in stages. Each stage specifies five rule
 
 If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.
 
-Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains, and when they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
+Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains; when they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
 ## Thesis
 
@@ -249,7 +249,7 @@ There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). Ac
 
 ### What are the risks I should be aware of?
 
-**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exists across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
+**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exist across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
 
 **Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to pursue emergent opportunities. Engaging in either RRG or $JBX should warrant due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
 
