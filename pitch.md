@@ -68,7 +68,9 @@ This team also understands the legal moment we are in when it comes to growing o
 1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks we're working on.
 2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
 
-### Anatomy of a revnet
+Revnets are the tool we need to hit the gas without incumbant tradeoffs.
+
+## Anatomy of a revnet
 
 Each revnet has a token and is defined in stages. Each stage specifies five rules which dictate how the revent operates:
 
@@ -147,7 +149,7 @@ Offchain management of the corporation will be led by Jango, Filip, Aeolian, KMa
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
-### Ideal partners
+### Ideal investors
 
 Anyone is welcome, though we want to especially encourage partners who want to help with growth strategies and could see themselves using revnets in other areas of their portfolio. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
 
