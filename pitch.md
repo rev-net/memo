@@ -63,12 +63,13 @@ Juicebox is public infrastructure that provides a tokenized language for express
 
 Revnets are now the next step, a particular expression of the Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
-This team also understands the legal moment we are in when it comes to growing onchain organizations. We made revnets in part as a pre-requisite for many of our own upcoming projects in need of a tokenized financial engine that allows us to push forward with confidence. It is clear to us that:
+This team also understands the legal moment we are in when it comes to growing onchain organizations. We made revnets in part as a pre-requisite for many of our own upcoming projects in need of a tokenized financial engine that specifically allows us to push our revenue-seeking concepts forward with confidence. It is clear to us that:
 
 1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks the future will increasingly demand.
 2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address legal uncertainty by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
+3. We don't want to live off grants and donations from so-called public goods funding initiatives, common in today's onchain open source landscape. We believe revenue-forward open source products can be more desired than free-to-use copycats, so long as there is collective confidence in their underlying financial structure's productivity.
 
-Revnets are the tool we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – they would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
+Revnets are the tool we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
 ## Anatomy of a revnet
 
