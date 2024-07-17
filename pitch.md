@@ -26,7 +26,7 @@
 
 ## TLDR
 
-Internet-native organizations structured as tokenized revnets will outcompete C-Corps, DAOs, and other governance-based financial structures by better lawfully encouraging growth-based alignment between leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
+Internet-native organizations structured as tokenized revnets will outcompete C-Corps, DAOs, and other governance-based financial structures by better encouraging growth-based alignment between leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
 ## Overview
 
