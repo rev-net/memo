@@ -90,6 +90,8 @@ We're calling on partners who believe in a revenue-forward version of the open i
 
 $REV runs on its own as a revnet according to the rules below – there is no governance. Revnet Research Group LLC (RRG) is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
 
+We want to invite both token-comfortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
+
 ### $REV stage 1
 
 - **Duration:** 90 days.
@@ -147,7 +149,7 @@ RRG will also have leverage to charge fees when facilitating access to revnets f
 
 ### Structure 
 
-RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob. RRG is a $REV token holder alongside other holders.
+RRG is an LLC owned by Jango, Filip, Aeolian, and KMac. RRG is a $REV token holder alongside other holders.
 
 ### Onchain management 
 
@@ -173,18 +175,6 @@ Offchain management of the corporation will be led by Jango, Filip, Aeolian, KMa
 [KMac](https://kmacb.eth.limo) is an experienced entrepreneur who has been contributing to multiple DAOs including Solace, Purple, Juicebox and Defifa.
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
-
-### Ideal investors
-
-Anyone is welcome, though we want to especially encourage partners who want to help with growth strategies and could see themselves using revnets in other areas of their portfolio. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
-
-We want to invite both token-comfortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
-
-### Roadmap
-
-1. Grow by facilitating growth. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets. 
-2. In 8 years, once there are hundreds of billion dollar networks running as revnets, consider either heading towards an IPO explicitly to give conventional financial markets exposure to $REV and the rest of RRG's revnet-based portfolio, or skipping to step 3.
-3. In 15 years, consider cashing out of $REV and other positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders.
 
 ### Spend
 
