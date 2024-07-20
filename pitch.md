@@ -4,7 +4,7 @@ Today's crypto applications, social networks, and AI agents have a business mode
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
-Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 ## Overview
 
