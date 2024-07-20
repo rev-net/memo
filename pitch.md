@@ -1,3 +1,9 @@
+## TLDR
+
+Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
+
+Revnets are a tokenized win-win-win openly-accounted-for growth engine, for investors, builders, and retail customers of open source and beyond.
+
 ## Overview
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
@@ -21,7 +27,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
 
-We think revnets might be it: A win-win-win openly-accounted-for growth model, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
+We think revnets might be it: A win-win-win openly-accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing the power of this financial instrument and the role it can play in our economy.
 
