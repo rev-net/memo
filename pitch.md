@@ -8,7 +8,7 @@ Importantly, revnets aren't just an esoteric tool for obscure internet subcultur
 
 ## Overview
 
-> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate if you wish._
+> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
 
 Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
 - **Scaled Collaboration:** Global community accelerates experimentation, leading to more innovation.
