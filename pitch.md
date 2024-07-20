@@ -6,8 +6,6 @@ Revnets offer a promising solution, as an openly accounted-for tokenized growth 
 
 ## Overview
 
-Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
-
 Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
 - **Scaled Collaboration:** Global community accelerates experimentation, leading to more innovation.
 - **Full Transparency:** Public code and accounting is more trustworthy.
