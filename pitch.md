@@ -28,8 +28,6 @@ Today's crypto applications, social networks, and AI agents have a business mode
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
-Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
-
 ## Overview
 
 > _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
@@ -54,6 +52,8 @@ Blockchain agreements are the correct building block, but currently attempted so
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
 
 We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
+
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing the power of this financial instrument and the role it can play in our economy.
 
@@ -131,6 +131,8 @@ We want to invite both token-comfortable people to interact directly from their 
 
 ### $REV stage 2
 
+__Price doubles, and continues doubling every 180 days._
+
 - **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
 - **Price increase:** 100% (double) every 180 days, “halving”.
@@ -140,6 +142,8 @@ We want to invite both token-comfortable people to interact directly from their 
 
 ### $REV stage 3
 
+__Price continues doubling every 360 days._
+
 - **Duration:** 7_200 days. (~20 years)
 - **Initial price:** Where stage 2 left off.
 - **Price increase:** Doubling every 360 days.
@@ -148,6 +152,8 @@ We want to invite both token-comfortable people to interact directly from their 
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 4
+
+__No more issuance._
 
 - **Duration:** Forever.
 - **Initial price:** 0. No more issuance.
