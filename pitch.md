@@ -3,21 +3,21 @@
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
 Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
-- Scaled Collaboration: Global community accelerates experimentation, leading to more innovation.
-- Full Transparency: Public code and accounting is more trustworthy.
-- Cost Effeciency: Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
+- **Scaled Collaboration:** Global community accelerates experimentation, leading to more innovation.
+- **Full Transparency:** Public code and accounting is more trustworthy.
+- **Cost Effeciency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
-- Monetization Dilemma: Generating scalable revenue while keeping information openly copiable is fragile since extracting profit margins encourage the use of forked copies.
-- Value Dilemma: Conventional models fail to adequately and consistently reward all contributors, reducing incentive to participate on all fronts.
-- Dependency Dilemma: Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
+- **Monetization Dilemma:** Generating scalable revenue while keeping information openly copiable is fragile since extracting profit margins encourage the use of forked copies.
+- **Value Dilemma:** Conventional models fail to adequately and consistently reward all contributors, reducing incentive to participate on all fronts.
+- **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
 This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when they should instead be the most investible category of internet business. 
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
-- Liquidity farming: Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
-- Governance DAOs: Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
-- Revenue sharing: Tokenized guarentees that sales will be split between certain entities, but with no follow-on incentive for propegating network growth after fees have been extracted.
+- **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
+- **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
+- **Revenue sharing:** Tokenized guarentees that sales will be split between certain entities, but with no follow-on incentive for propegating network growth after fees have been extracted.
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
 
