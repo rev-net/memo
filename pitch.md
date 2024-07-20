@@ -10,17 +10,17 @@ Importantly, revnets aren't just an esoteric tool for obscure internet subcultur
 
 > _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
 
-Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
-- **Scaled Collaboration:** Global community accelerates experimentation, leading to more innovation.
+Openly accounted-for fundraises and revenues should outcompeting everything, by enabling:
+- **Scaled Participation:** Global community accelerates experimentation, leading to more innovation.
 - **Full Transparency:** Public code and accounting is more trustworthy.
 - **Cost Effeciency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
-- **Monetization Dilemma:** Generating scalable revenue while keeping information openly copiable is fragile since extracting profit margins encourage the use of forked copies.
-- **Value Dilemma:** Conventional models fail to adequately and consistently reward all contributors, reducing incentive to participate on all fronts.
+- **Monetization Dilemma:** Taking on debts and generating scalable revenues while keeping information public may encourage speculation and scrutiny.
+- **Value Dilemma:** Public finances may breed distractions which remove focus from the enterprise's mission and reduce incentive to participate on all fronts.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business. 
+This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business.
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
