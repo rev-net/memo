@@ -1,4 +1,4 @@
-## TLDR
+## Overview
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
@@ -23,11 +23,9 @@ We need a growth-oriented solution that is sustainable, reliable, and massively 
 
 We think revnets might be it: A win-win-win openly-accounted-for growth model, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
 
-## Overview
+We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing the power of this financial instrument and the role it can play in our economy.
 
-Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
-
-In this era of AI, social, and crypto networks that champion open source and publicly innovate on internet-native concepts, corporate-stock models of organization are anachronistic, leaving much to be desired for entrepreneurs, capital providers, and consumers alike. We think revnets – a tokenized financial structure made for capitalizing and growing online money relationships – will emerge as the new standard for financing internet businesses, from startup to scale. 
+## Anatomy of a Revnet
 
 Think of revnets like bitcoin's halvening rule – once deployed, bitcoin's issuance policy leads to a guaranteed 21m supply over time. Instead of a fixed supply with periodic supply shocks like bitcoin, revnets enforce a certain other set of guarantees that determine where tokens go when it is paid and under what conditions tokens can be cashed out. Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. This means:
 
@@ -46,25 +44,6 @@ Revnets also inherit the best properties of Ethereum:
 - **Connectivity**: Easy, reliable, and open access to and from other smart contracts, including other revnets for composable accounting schemas.
 - **Everywhere**: Allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.
 
-
-## Context
-
-Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network.
-
-Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been used by Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
-
-Revnets are now the next step, a particular expression of the Juicebox language. We've been experiencing the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
-
-This team also understands the legal moment we are in when it comes to growing onchain organizations. We made revnets in part as a pre-requisite for many of our own upcoming projects in need of a tokenized financial engine that specifically allows us to push our revenue-seeking concepts forward with confidence. It is clear to us that:
-
-1. We don't want to lean exclusively on traditional models which inevitably create misguided incentives for the types of internet-native networks the future will increasingly demand.
-2. We don't want to lean on governance-based DAOs. Major crypto players – Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address legal uncertainty by combining standard for-profit companies with tradable tokens and experimental governance structures. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]. We also don't want to manage more lawless revenue-generating governance-based DAO's like $JBX, one is gracious plenty.
-3. We don't want to live off grants and donations from so-called public goods funding initiatives, common in today's onchain open source landscape. We believe revenue-forward open source products can be more desired than free-to-use copycats, so long as there is collective confidence in their underlying financial structure's productivity.
-
-Revnets are the tool we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
-
-## Anatomy of a revnet
-
 Each revnet has a token and is defined in stages. Each stage specifies five rules which dictate how the revent operates:
 
 - **Duration:** How long does the stage last? A revnet’s final stage lasts forever.
@@ -79,6 +58,22 @@ If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uni
 
 Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
+## Why now?
+
+Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1] These each created favorable accounting conditions for collective risk-taking, and standardization for easier due diligence and enforcement.
+
+In this era of distributed crypto, social, and AI networks that innovate on internet-native concepts, corporate-stock models of organization are anachronistic, leaving much to be desired for entrepreneurs, capital providers, and consumers alike.
+
+Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been used by Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the tornado cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
+
+Revnets are now the next step, a particular expression of the Juicebox language. 
+
+We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
+
+We've also seen the gross extractive tendencies that over-levered entrepreneurs, investors, and traders can develop when left unchecked. Blockchains give us transactional freedoms – using it to progress positive-sum financial applications is hard, using it to progress hyped-up zero sum ponzis is easy.
+
+Revnets are the standard we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
+
 ## Thesis
 
 Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
@@ -87,11 +82,44 @@ With revnets, the open internet will win _because_ it best serves creatives, bui
 
 We're calling on partners who believe in a revenue-forward version of the open internet to join the $REV network.
 
-## Pitch to investors
+## $REV
 
-We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots investors.
+$REV runs on its own as a revnet according to the rules below – there is no governance. Revnet Research Group LLC (RRG) is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
 
-For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
+### $REV stage 1
+
+- **Duration:** 90 days.
+- **Initial price:** 1 $REV costs 0.001 ETH.
+- **Price increase:** None.
+- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
+- **Automint:** 70_000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
+- **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
+
+### $REV stage 2
+
+- **Duration:** 720 days (~2 years).
+- **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
+- **Price increase:** 100% (double) every 180 days, “halving”.
+- **Split:** 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** none.
+- **Cash out tax:** No change. Medium-high (0.6).
+
+### $REV stage 3
+
+- **Duration:** 7_200 days. (~20 years)
+- **Initial price:** Where stage 2 left off.
+- **Price increase:** Doubling every 360 days.
+- **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
+- **Cash out tax:** No change. Medium-high (0.6).
+
+### $REV stage 4
+
+- **Duration:** Forever.
+- **Initial price:** 0. No more issuance.
+- **Price increase:** None, since there's no more issuance.
+- **Split:** None.
+- **Cash out tax:** No change. Medium-high (0.6).
 
 ## Revnet Research Group (RRG)
 
@@ -109,13 +137,13 @@ In the short term, we've got 10 curated projects ready to use revnets. We need t
 
 RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
 
-While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. More on this [below](#rev). 
+While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
 
 RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
 ### Structure 
 
-RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob. RRG is a [$REV](#rev) token holder alongside other holders.
+RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob. RRG is a $REV token holder alongside other holders.
 
 ### Onchain management 
 
@@ -158,52 +186,6 @@ We want to invite both token-comfortable people to interact directly from their 
 
 RRG will use the bulk of the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the $REV to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), rob (legal).
 
-## $REV
-
-$REV runs on its own as a revnet according to the rules below – there is no governance. RRG is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
-
-### $REV stage 1
-
-_Inaugural 90 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
-
-- **Duration:** 90 days.
-- **Initial price:** 1 $REV costs 0.001 ETH.
-- **Price increase:** None.
-- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
-- **Automint:** 70_000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
-- **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
-
-### $REV stage 2
-
-_The price of issuing new $REV is doubled every 180 days for 720 days._
-
-- **Duration:** 720 days (~2 years).
-- **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
-- **Price increase:** 100% (double) every 180 days, “halving”.
-- **Split:** 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** none.
-- **Cash out tax:** No change. Medium-high (0.6).
-
-### $REV stage 3
-
-_Vest last $REV for pre-net work._
-
-- **Duration:** 7_200 days. (~20 years)
-- **Initial price:** Where stage 2 left off.
-- **Price increase:** Doubling every 360 days.
-- **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
-- **Cash out tax:** No change. Medium-high (0.6).
-
-### $REV stage 4
-
-_End issuance and splits._
-
-- **Duration:** Forever.
-- **Initial price:** 0. No more issuance.
-- **Price increase:** None, since there's no more issuance.
-- **Split:** None.
-- **Cash out tax:** No change. Medium-high (0.6).
 
 ## Legal
 
@@ -225,8 +207,6 @@ RRG has it's own managerial efforts and is therefore selling structured access t
 - *[$DEFIFA](https://defifa.net):* Captures revenues from Defifa prediction games. (soon)
 - *[$CROPTOP](https://croptop.eth.sucks):* Collects a 2.5% fee on mints from Croptop templates. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
 - *$SPHINX:* Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. (soon)
-
-<!-- TODO: Add link for Sphinx -->
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
