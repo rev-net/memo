@@ -2,9 +2,11 @@
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. This has too often lead to misallocated resources – the promoters of pump and dumps win, the innovative entrepreneurs left with scraps.
 
-Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for investors, builders, and retail customers of open source and beyond.
+Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
 ## Overview
+
+_This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate if you wish._
 
 Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
 - **Scaled Collaboration:** Global community accelerates experimentation, leading to more innovation.
