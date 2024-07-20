@@ -12,7 +12,7 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 - **Value Dilemma:** Conventional models fail to adequately and consistently reward all contributors, reducing incentive to participate on all fronts.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when they should instead be the most investible category of internet business. 
+This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business. 
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
