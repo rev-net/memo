@@ -1,3 +1,27 @@
+## Contents
+1. [TLDR](#tldr)
+2. [Overview](#overview)
+4. [Anatomy of a revnet](#anatomy-of-a-revnet)
+5. [Why now?](#why-now)
+6. [Thesis](#thesis)
+8. [$REV](#rev)
+    - [$REV stage 1](#rev-stage-1)
+    - [$REV stage 2](#rev-stage-2)
+    - [$REV stage 3](#rev-stage-3)
+9. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+    - [RRG Mission](#rrg-mission)
+    - [Bottom line](#bottom-line)
+    - [Structure](#structure)
+    - [Onchain management](#onchain-management)
+    - [Offchain management](#offchain-management)
+    - [Spend](#spend)
+10. [Legal](#legal)
+11. [Examples of revnets](#examples-of-revnets)
+12. [Investor FAQ](#investor-faq)
+    - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
+    - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
+
+
 ## TLDR
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. This has too often lead to misallocated resources – the promoters of pump and dumps win, the innovative entrepreneurs left with scraps.
