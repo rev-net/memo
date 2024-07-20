@@ -1,34 +1,27 @@
-## Contents
-1. [TLDR](#tldr)
-2. [Overview](#overview)
-3. [Context](#context)
-4. [Anatomy of a revnet](#anatomy-of-a-revnet)
-5. [Thesis](#thesis)
-6. [Pitch to investors](#pitch-to-investors)
-7. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
-    - [RRG Mission](#rrg-mission)
-    - [Bottom line](#bottom-line)
-    - [Structure](#structure)
-    - [Onchain management](#onchain-management)
-    - [Offchain management](#offchain-management)
-    - [Ideal partners](#ideal-partners)
-    - [Roadmap](#roadmap)
-    - [Spend](#spend)
-8. [$REV](#rev)
-    - [$REV stage 1](#rev-stage-1)
-    - [$REV stage 2](#rev-stage-2)
-    - [$REV stage 3](#rev-stage-3)
-9. [Legal](#legal)
-10. [Examples of revnets](#examples-of-revnets)
-11. [Investor FAQ](#investor-faq)
-    - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
-    - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-
 ## TLDR
 
-Internet-native organizations structured as tokenized revnets will outcompete C-Corps, DAOs, and other governance-based financial structures by better encouraging growth-based alignment between leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
+Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
-The $REV network itself runs as a revnet, and earns 2.5% of each revnet's outflows from raised funds and revenues.
+Open source software and openly accounted-for businesses should outcompeting everything, by enabling:
+- Scaled Collaboration: Global community accelerates experimentation, leading to more innovation.
+- Full Transparency: Public code and accounting is more trustworthy.
+- Cost Effeciency: Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
+
+They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
+- Monetization Dilemma: Generating scalable revenue while keeping information openly copiable is fragile since extracting profit margins encourage the use of forked copies.
+- Value Dilemma: Conventional models fail to adequately and consistently reward all contributors, reducing incentive to participate on all fronts.
+- Dependency Dilemma: Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
+
+This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when they should instead be the most investible category of internet business. 
+
+Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
+- Liquidity farming: Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
+- Governance DAOs: Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
+- Revenue sharing: Tokenized guarentees that sales will be split between certain entities, but with no follow-on incentive for propegating network growth after fees have been extracted.
+
+We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
+
+We think revnets might be it: A win-win-win openly-accounted-for growth model, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
 
 ## Overview
 
@@ -53,7 +46,6 @@ Revnets also inherit the best properties of Ethereum:
 - **Connectivity**: Easy, reliable, and open access to and from other smart contracts, including other revnets for composable accounting schemas.
 - **Everywhere**: Allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.
 
-Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've known this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 ## Context
 
