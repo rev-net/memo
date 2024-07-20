@@ -2,7 +2,7 @@
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
-Revnets offer a promising solution, as openly accounted-for tokenized growth engine, for investors, builders, and retail customers of open source and beyond.
+Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for investors, builders, and retail customers of open source and beyond.
 
 ## Overview
 
