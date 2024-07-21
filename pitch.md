@@ -34,13 +34,13 @@ Revnets offer a promising solution, as an openly accounted-for tokenized growth 
 ## Overview
 
 Openly accounted-for fundraises and revenues should outcompete everything, by enabling:
-- **Scaled Participation:** Global community accelerates experimentation, leading to more innovation.
+- **Scaled Participation:** Global community with vested interests accelerates growth.
 - **Full Transparency:** Public code and accounting is more trustworthy.
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
 - **Monetization Dilemma:** Establishing and justifying profit margins on revenue is difficult as a business scales.
-- **Value Dilemma:** Taking on debts and generating scalable revenues while keeping information public encourages speculation and scrutiny.
+- **Moat Dilemma:** Taking on debts and generating scalable revenues while keeping information and access open encourages gossip and scrutiny, distracting from the mission and encouraging alternatives with less baggage.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
 This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business.
@@ -53,6 +53,8 @@ Blockchain agreements are the correct building block, but currently attempted so
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
 
 We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
+
+Revnets resolve the three dilemmas above by creating sticky networks that reliably benefit those who pay fees, invest, and stick around. 
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
