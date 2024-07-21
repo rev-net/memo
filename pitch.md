@@ -3,7 +3,7 @@
 2. [Overview](#overview)
 3. [Anatomy of a revnet](#anatomy-of-a-revnet)
 4. [Why now?](#why-now)
-5. [Thesis](#thesis)
+5. [Call to action](#call-to-action)
 6. [$REV](#rev)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
