@@ -21,6 +21,7 @@
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
+> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
 
 ## TLDR
 
@@ -31,8 +32,6 @@ This has too often led to misallocated resources – the promoters who amplify n
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
 ## Overview
-
-> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
 
 Openly accounted-for fundraises and revenues should outcompete everything, by enabling:
 - **Scaled Participation:** Global community accelerates experimentation, leading to more innovation.
