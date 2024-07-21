@@ -109,7 +109,7 @@ We've also seen the gross extractive tendencies that over-leveraged entrepreneur
 
 Revnets are the standard we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
-## Thesis
+## Call to action
 
 Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
