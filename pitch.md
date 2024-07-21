@@ -50,7 +50,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
 
-We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online presence realize their potential in the upcoming tokenized economy.
+We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
 We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
 
