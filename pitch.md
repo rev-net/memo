@@ -24,7 +24,7 @@
 
 ## TLDR
 
-Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. This has too often led to misallocated resources – the promoters of pump and dumps win, the innovative entrepreneurs left with scraps.
+Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. This has too often led to misallocated resources – the promoters who amplify narratives to pump and dump their bags win, the innovative entrepreneurs building long term value left with scraps.
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
@@ -102,7 +102,7 @@ Revnets are now the next step, a particular expression of the Juicebox language.
 
 We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
-We've also seen the gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked. Blockchains give us transactional freedoms – using it to progress positive-sum financial applications is hard, using it to progress hyped-up zero sum Ponzi schemes is easy.
+We've also seen the gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using it to progress positive-sum financial applications is hard, using it to manipulate the public with hyped-up zero sum Ponzi schemes is easy and unfortunately all to common.
 
 Revnets are the standard we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
