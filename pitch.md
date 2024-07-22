@@ -44,8 +44,8 @@ Openly accounted-for fundraises and revenues should outcompete everything, by en
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
-- **Monetization Dilemma:** Establishing and justifying debt obligationm, growth expenditures, and profit margins on revenue is difficult as an open business scales.
-- **Moat Dilemma:** The strategies of open businesses can be copied easily, without also inherting the obligations of the original. Meaning cheaper alternatives can emerge easily, devaluing the cost borne by the original work.
+- **Monetization Dilemma:** Establishing and justifying debt obligations, growth expenditures, and profit margins on revenue is difficult as an open business scales.
+- **Moat Dilemma:** The strategies of open businesses can be copied easily, without also inherting the baggage of the original. Meaning cheaper alternatives can emerge easily, devaluing the cost borne by the original work.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
 This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business.
