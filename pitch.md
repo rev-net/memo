@@ -40,7 +40,7 @@ Join us in the founding and growing the $REV network, which operates as a revenu
 
 Openly accounted-for fundraises and revenues should outcompete everything, by enabling:
 - **Scaled Participation:** Global community with vested interests accelerates growth.
-- **Full Transparency:** Public code and accounting is more trustworthy.
+- **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
