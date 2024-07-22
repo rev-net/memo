@@ -121,11 +121,13 @@ Revnets can power millions of startups to become global movements, high net-wort
 
 With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
-We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network.
+We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each revnet win, the more we win.
 
 ## $REV
 
 $REV runs on its own as a revnet according to the rules below – there is no governance. Revnet Research Group LLC (RRG) is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
+
+The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
 We want to invite both token-comfortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
 
@@ -177,7 +179,7 @@ In the short term, we've got 10 curated projects ready to use revnets. We need t
 
 RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white-labeled applications, and accelerating new revnets in dynamic ways.
 
-While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
+While doing so, RRG will accumulate $REV. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
 
 RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
