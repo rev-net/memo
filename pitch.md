@@ -5,7 +5,7 @@ Add value => grow revenue => become wealthy together.
 1. [TLDR](#tldr)
 2. [Overview](#overview)
 3. [Anatomy of a revnet](#anatomy-of-a-revnet)
-4. [Why now?](#why-now)
+4. [Why now? Why Us?](#why-now-why-us)
 5. [Call to action](#call-to-action)
 6. [$REV](#rev)
     - [$REV stage 1](#rev-stage-1)
@@ -99,7 +99,7 @@ If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uni
 
 Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
-## Why now?
+## Why now? Why us?
 
 Dominant organizational and financial models have always suited the technologies of their respective eras. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1] These each created favorable accounting conditions for collective risk-taking, and standardization for easier due diligence and enforcement.
 
