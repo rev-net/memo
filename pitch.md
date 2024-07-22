@@ -129,7 +129,9 @@ $REV runs on its own as a revnet according to the rules below – there is no go
 
 The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
-We want to invite both token-comfortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
+We want to especially encourage investors to join who see potential use for revnets in other areas of their portfolios, and who can help the adoption of the revnet standard. 
+
+Both token-comfortable people interacting directly from their favorite EVM blockchain, and token-curious people interactacting using traditional methods through RRG, are welcome. 
 
 ### $REV stage 1
 
