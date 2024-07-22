@@ -30,7 +30,7 @@
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-This has too often led to misallocated resources and capital losses, while leaving entrepreneurs focused on building long-term value with scraps.
+This has too often led to misallocated resources and capital losses, while entrepreneurs focused on long-term value creation go out of their way for scraps.
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
