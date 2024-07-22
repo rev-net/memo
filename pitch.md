@@ -146,7 +146,7 @@ _Price doubles every 90 days._
 
 ### $REV stage 2
 
-__Price continues doubling every 180 days._
+_Price continues doubling every 180 days._
 
 - **Duration:** 6_480 days. (~18 years)
 - **Initial price:** Where stage 1 left off.
@@ -157,7 +157,7 @@ __Price continues doubling every 180 days._
 
 ### $REV stage 3
 
-__No more issuance._
+_No more issuance._
 
 - **Duration:** Forever.
 - **Initial price:** 0. No more issuance.
