@@ -224,7 +224,7 @@ Each revnet’s rules are defined up front, and all transactions are public. Onc
 
 Now is the time to learn from the legal outcomes of the past few years and bet on deterministic mechanisms where no entity can change or control the rules once deployed, and where all information is publicly auditable.
 
-RRG has its own managerial efforts and is therefore selling structured access to a C corporation through a SAFE, and only engages with the $REV economy as a token holder.
+RRG has its own managerial efforts, and only engages with the $REV economy as a token holder.
 
 <!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
