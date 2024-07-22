@@ -1,7 +1,7 @@
 # Revnets
 Add value => grow revenue => become wealthy together.
 
-> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and the specifics of how you are invited to participate._
+> _This memo makes the case for revnets. It will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and the specifics of how you are invited to participate._
 
 ## Contents
 1. [TLDR](#tldr)
