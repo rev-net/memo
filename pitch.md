@@ -41,7 +41,7 @@ Openly accounted-for fundraises and revenues should outcompete everything, by en
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
-- **Monetization Dilemma:** Establishing and justifying debt positions and profit margins on revenue is difficult as an open business scales.
+- **Monetization Dilemma:** Establishing and justifying debt obligations and profit margins on revenue is difficult as an open business scales.
 - **Moat Dilemma:** The strategies of open businesses can be copied easily, without also inherting the obligations of the original. Meaning cheaper alternatives can emerge easily, devaluing the cost borne by the original work.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with its community, or motivation to do so unless developed in-house.
 
@@ -54,7 +54,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
-We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building and marketing Ethereum-based tokenization infrastructure.
+We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
 
 Revnets resolve the three dilemmas above by creating financial networks that reliably benefit those who pay fees, invest, and stick around. They are great for startups, and a great exit strategy for established governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth.  
 
