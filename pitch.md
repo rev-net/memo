@@ -30,7 +30,7 @@ Add value => grow wealth.
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-This has too often led to misallocated resources – the promoters who amplify narratives to pump and dump their bags win, the innovative entrepreneurs building long term value left with scraps.
+This has too often led to misallocated resources – the promoters who amplify narratives to pump and dump their bags win, the innovative entrepreneurs building long-term value left with scraps.
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
@@ -45,16 +45,16 @@ Openly accounted-for fundraises and revenues should outcompete everything, by en
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
 - **Monetization Dilemma:** Establishing and justifying debt obligations, growth expenditures, and profit margins on revenue is difficult as an open business scales.
-- **Moat Dilemma:** The strategies of open businesses can be copied, without also inherting the baggage of the original. Meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
+- **Moat Dilemma:** The strategies of open businesses can be copied, without also inheriting the baggage of the original. Meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with their communities, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible category of internet business.
+This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable category of internet business.
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
-- **Donationism:** No tokenized monetization strategy, just naive builders with an expectation that value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by grant giving money trees that are fair, abundant, and worth the energy to continuosly impress.
+- **Donationism:** No tokenized monetization strategy, just naive builders with an expectation that value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by grant giving money trees that are fair, abundant, and worth the energy to continuously impress.
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
@@ -253,7 +253,7 @@ Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entity's governance process.
 
-- The only current way to access the ecosystem for participants who don't want to access tokens directly onchain is through RRG. RRG will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee. RRG is not investible directly.
+- The only current way to access the ecosystem for participants who don't want to access tokens directly onchain is through RRG. RRG will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee. RRG is not investable directly.
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
 - Also for those onchain, build direct exposure to $REV to benefit from revenue growth without proxies.
 
