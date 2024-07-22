@@ -69,8 +69,6 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interconnectable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
 
-Revnets can play a meaningful role in our economy now and going forward.
-
 ## Anatomy of a Revnet
 
 Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to 21m coins over time, revnets enforce a certain other set of guarantees that determine where tokens go when it is paid and under what conditions tokens can be cashed out. This means:
