@@ -139,7 +139,7 @@ _Price doubles every 90 days._
 
 - **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.001 ETH.
-- **Price increase:** None.
+- **Price increase:** Doubling every 90 days.
 - **Split:** 20% split of issuance and buybacks operated by `rrg.eth`. 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** 70_000 $REV to `rrg.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
