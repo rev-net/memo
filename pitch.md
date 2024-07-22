@@ -65,7 +65,7 @@ Revnets resolve the three dilemmas above by creating financial networks that rel
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing how revnets are:
-- **Versitile:** This simple financial instrument has the power to tackle diverse needs, and can play a meaningful role in our economy now and going forward.
+- **Versitile:** This simple financial instrument has the power to support diverse applications, and can play a meaningful role in our economy now and going forward.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interconnectable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
 
