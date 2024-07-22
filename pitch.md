@@ -1,5 +1,5 @@
 # Revnets
-Add value >> grow wealth.
+Add value => grow wealth.
 
 ## Contents
 1. [TLDR](#tldr)
