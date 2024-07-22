@@ -107,7 +107,7 @@ In this era of distributed crypto, social, and AI networks that innovate on inte
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
-Revnets are now the next step, a particular expression of the Juicebox language. 
+Revnets are now the next step, a particular expression of the Juicebox language.
 
 We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.  
 
