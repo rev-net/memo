@@ -140,8 +140,8 @@ _Price doubles every 90 days._
 - **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** None.
-- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** 70_000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
+- **Split:** 20% split of issuance and buybacks operated by `rrg.eth`. 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** 70_000 $REV to `rrg.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
 
 ### $REV stage 2
@@ -151,8 +151,8 @@ __Price continues doubling every 180 days._
 - **Duration:** 6_480 days. (~18 years)
 - **Initial price:** Where stage 1 left off.
 - **Price increase:** Doubling every 180 days.
-- **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
+- **Split:** No change. 20% of issuance and buybacks operated by `rrg.eth`. 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** 128_000 $REV to `rrg.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 3
@@ -191,7 +191,7 @@ RRG is an LLC owned by Jango, Filip, Aeolian, and KMac. RRG is a $REV token hold
 
 ### Onchain management 
 
-Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.rev.eth`. The multisig is controlled by:
+Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.eth`. The multisig is controlled by:
 
 - `breadfruit.eth` (jango)
 - `filipv.eth` (Filip)
@@ -260,7 +260,7 @@ There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). Ac
 
 **Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decision that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
 
-**Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.rev.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
+**Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
