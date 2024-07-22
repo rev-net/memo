@@ -121,7 +121,7 @@ Revnets can power millions of startups to become global movements, high net-wort
 
 With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
-We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each revnet win, the more we win.
+We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win.
 
 ## $REV
 
