@@ -161,8 +161,7 @@ __No more issuance._
 
 - **Duration:** Forever.
 - **Initial price:** 0. No more issuance.
-- **Price increase:** None, since there's no more issuance.
-- **Split:** None.
+- **Split:** 5% of issuance and buybacks burnt, fixed forever.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ## Revnet Research Group (RRG)
