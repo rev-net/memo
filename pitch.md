@@ -131,36 +131,27 @@ We want to invite both token-comfortable people to interact directly from their 
 
 ### $REV stage 1
 
-- **Duration:** 90 days.
+_Price doubles every 90 days._
+
+- **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** None.
-- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
+- **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** 70_000 $REV to `rrg.rev.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
 
 ### $REV stage 2
 
-__Price doubles, and continues doubling every 180 days._
+__Price continues doubling every 180 days._
 
-- **Duration:** 720 days (~2 years).
-- **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
-- **Price increase:** 100% (double) every 180 days, “halving”.
-- **Split:** 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** none.
-- **Cash out tax:** No change. Medium-high (0.6).
-
-### $REV stage 3
-
-__Price continues doubling every 360 days._
-
-- **Duration:** 7_200 days. (~20 years)
-- **Initial price:** Where stage 2 left off.
-- **Price increase:** Doubling every 360 days.
+- **Duration:** 6_480 days. (~18 years)
+- **Initial price:** Where stage 1 left off.
+- **Price increase:** Doubling every 180 days.
 - **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
-### $REV stage 4
+### $REV stage 3
 
 __No more issuance._
 
