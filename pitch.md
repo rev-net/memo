@@ -30,11 +30,11 @@
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-This has too often led to misallocated resources – the promoters who amplify narratives to pump and dump their bags win, the innovative entrepreneurs building long-term value left with scraps.
+This has too often led to misallocated resources and capital losses, while leaving entrepreneurs focused on building long-term value with scraps.
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
-Join us – a group of active Web3 builders with scars and stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
+Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
 ## Overview
 
@@ -64,7 +64,10 @@ Revnets resolve the three dilemmas above by creating financial networks that rel
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
-We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing the power of this financial instrument and the role it can play in our economy now and going forward.
+We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing their:
+- **Versitility:** The power of this simple financial instrument to tackle diverse needs, and the role it can play in our economy now and going forward.
+- **Standardization:** The positive feedback loop they can create from each leaning on a familiar business standard.
+- **Interconnectivity:** The ability to relate financial outcomes between projects, encouraging more collaboration within a competative business landscape. 
 
 ## Anatomy of a Revnet
 
@@ -82,7 +85,7 @@ Revnets also inherit the best properties of Ethereum:
 - **Clarity**: Allow for ownership and access rules that can't be subjectively misinterpreted.
 - **Certainty**: Express clearly scheduled rules which cannot be broken.
 - **Auditability**: Impossible to hide, simplifying diligence for all participants.
-- **Connectivity**: Easy, reliable, and open access to and from other smart contracts, including other revnets for composable accounting schemas.
+- **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 - **Everywhere**: Allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.
 
 Each revnet has a token and is defined in stages. Each stage specifies five rules which dictate how the revnet operates:
