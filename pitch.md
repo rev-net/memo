@@ -51,7 +51,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
-- **Donationism:** No tokenized monetization strategy, just naive builders with an expectation that value creation will be retroactively supported by altruists who benefited financially from the outcomes, or by a grant giving money tree that is fair, abundant, and worth the energy to impress.
+- **Donationism:** No tokenized monetization strategy, just naive builders with an expectation that value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by a grant giving money trees that are fair, abundant, and worth the energy to continuosly impress.
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
