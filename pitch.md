@@ -34,7 +34,7 @@ This has too often led to misallocated resources – the promoters who amplify n
 
 Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
 
-Join us – a group of active Ethereum builders with scars and stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
+Join us – a group of active Web3 builders with scars and stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
 ## Overview
 
