@@ -1,5 +1,5 @@
 # Revnets
-Add value => grow revenue => become wealth.
+Add value => grow revenue => become wealthy together.
 
 ## Contents
 1. [TLDR](#tldr)
