@@ -113,11 +113,11 @@ We've experienced the demand for tokenized fundraising and revenue first hand, w
 
 We've also seen the gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using it to progress positive-sum game-theoretic financial applications like revnets is non-obvious, using it to manipulate the public with hyped-up zero sum Ponzi schemes is easy and unfortunately all to common.
 
-Revnets are the standard we need to encourage more projects to hit the gas without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
+Revnets are the standard we need to encourage more projects to hit the gas with confidence and without incumbent tradeoffs. Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today.
 
 ## Call to action
 
-Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
+Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives, meanwhile helping incumbent businesses transition to the more powerful open internet.
 
 With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
