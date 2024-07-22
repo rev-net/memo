@@ -1,6 +1,8 @@
 # Revnets
 Add value => grow revenue => become wealthy together.
 
+> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
+
 ## Contents
 1. [TLDR](#tldr)
 2. [Overview](#overview)
@@ -23,8 +25,6 @@ Add value => grow revenue => become wealthy together.
 10. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-
-> _This memo will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and lay out the specifics of how you are invited to participate._
 
 ## TLDR
 
