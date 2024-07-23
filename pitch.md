@@ -102,7 +102,7 @@ If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uni
 
 Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
-Notice, a revnet is not a cheatcode for entrepreneurs lacking real world insight, nor a capital magnet for those expecting a free lunch. It still takes strategy, storytelling, and execution, rewarding those who follow through.
+Notice, a revnet is not a cheatcode for entrepreneurs lacking real world insight, nor a capital magnet for those expecting a free lunch. It still takes strategy, storytelling, and execution, amplifying those who follow through.
 
 ## Why now? Why us?
 
