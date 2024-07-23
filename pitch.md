@@ -21,7 +21,7 @@
     - [Offchain management](#offchain-management)
     - [Spend](#spend)
 8. [Legal](#legal)
-9. [Examples of revnets](#examples-of-revnets)
+9. [Revnets we're launching over the next year](#revnets-were-launching-over-the-next-year)
 10. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
@@ -235,15 +235,15 @@ RRG has its own managerial efforts, and only engages with the $REV economy as a 
 
 <!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
-## Examples of revnets
+## Revnets we're launching over the next year
 
 - *[$NANA](https://nana.eth.sucks):* Captures revenues from the omnichain Juicebox v4's 2.5% fee. (very soon)
 - *[$BANNY](https://banny.eth.sucks):* Captures revenues from Bannyverse mints. (very soon)
-- *[$REV](https://rev.eth.sucks):* Captures revenue by betting on the productivity of the revnet-based projects it builds tools for. (very soon)
+- *[$REV](https://rev.eth.sucks):* Captures revenue from the productivity of the revnet-based projects it builds tools for. (very soon)
 - *[$NANCE](https://nance.app):* Builds the open-source Nance governance platform for tokenized communities. (soon)
 - *[$SUCKS](https://eth.sucks):* Captures memetic energy from the distribution of `.eth.sucks` websites. (soon)
 - *[$DEFIFA](https://defifa.net):* Captures revenues from Defifa prediction games. (soon)
-- *[$CROPTOP](https://croptop.eth.sucks):* Collects a 2.5% fee on mints from Croptop templates. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
+- *[$CROPTOP](https://croptop.eth.sucks):* Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
 - *$SPHINX:* Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. (soon)
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
