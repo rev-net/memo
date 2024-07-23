@@ -48,7 +48,7 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 - **Moat Dilemma:** The strategies of open businesses can be copied, without also inheriting the baggage of the original. Meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with their communities, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable category of internet business.
+This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
@@ -60,7 +60,7 @@ We need a growth-oriented solution that is sustainable, reliable, and massively 
 
 We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
 
-Revnets resolve the three dilemmas above by creating financial networks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
+Revnets resolve the three dilemmas above by creating financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
@@ -102,7 +102,7 @@ If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uni
 
 Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.
 
-Notice, a revnet is not a cheatcode for entrepreneurs lacking earnest real world insight, nor a capital magnet for those expecting a free lunch. It still takes strategy, storytelling, and execution, amplifying those who follow through.
+Notice, a revnet is not a cheatcode for entrepreneurs and investors lacking earnest real world insight, nor a capital magnet for those expecting a free lunch. It still takes strategy, risk, storytelling, and execution, amplifying those who follow through.
 
 ## Why now? Why us?
 
