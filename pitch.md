@@ -191,7 +191,9 @@ RRG will also have leverage to charge fees when facilitating access to revnets f
 
 ### Structure 
 
-RRG is an LLC owned by Jango, Filip, Aeolian, and KMac. RRG is a $REV token holder alongside other holders.
+RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV tokens and the development of the #REV ecosystem. The LLC will have four members: Jango Filip, Aeolian, and KMac. Given its member-managed structure, these individuals will actively participate in the management and decision-making processes of the LLC, ensuring a hands-on approach to both investment strategies and ecosystem development. The primary business activities will include acquiring and holding $REV tokens, as well as fostering growth and innovation within the Revnet ecosystem through various initiatives and partnerships.
+
+There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
 ### Onchain management 
 
