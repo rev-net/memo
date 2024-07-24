@@ -138,8 +138,8 @@ $REV runs on its own as a revnet according to the staged rules below – there i
 Anyone can participate in $REV at any time, and the $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
-- **Self-owned growth:** The network should make sure all participants who help sustain the network – investors, builders, storytellers, fans, donors, fee-paying retail consumers – benefit from revenue growth.
-- **Clear incentives, from startup to scale:** The network should financially empower both elders and newcomers within its framework of open, voluntary participation to support the network's evolution by transparently reflecting everyone's risks and contributions over time.
+- **Self-owned growth:** The network should make sure all participants who help sustain it – investors, builders, storytellers, fans, donors, fee-paying retail consumers – benefit from revenue growth.
+- **Clear incentives, from startup to scale:** The network should financially empower both elders and newcomers within its framework of open, voluntary participation to support its evolution by transparently reflecting everyone's risks and contributions over time.
 - **Inefficient rent seeking:** The network should be equipped with a reliable immunity instinct that efficiently protects and rewards productivity.
 
 We want to especially encourage investors to join who see potential use for revnets in other areas of their portfolios, and who can help the adoption of the revnet standard. 
