@@ -56,7 +56,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
-- **NFT collecting:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no measurable time horizon or reinvestible cash flows to ground the wishful thinking.
+- **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from pump and dumps.
 - **Donationism:** No tokenized monetization strategy, just builders with an expectation that their value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by grant-giving money trees that are perceived to be fair, abundant, and worth the energy to continuously go out of their way to impress.
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
