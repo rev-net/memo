@@ -34,7 +34,7 @@ This has often led to misallocated resources and capital losses, while creators 
 
 Revnets offer a promising solution, as an all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
-Revnets are an openly accounted-for standard that can bootstrap and distribute business offerings, open source projects, campaigns, indy media, and cultural movements without governance or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
+Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
@@ -61,9 +61,9 @@ Blockchain agreements are the correct building block, but currently attempted so
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
-We think revnets might be it: A win-win-win openly accounted-for growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
+We think revnets might be it: A win-win-win growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
 
-Revnets resolve the three dilemmas above by creating financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
+Revnets resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
