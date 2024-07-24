@@ -61,7 +61,7 @@ Blockchain agreements are the correct building block, but currently attempted so
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
-We think revnets might be it: A win-win-win growth engine, for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
+We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
 
 Revnets resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
 
