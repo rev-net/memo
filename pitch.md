@@ -1,7 +1,7 @@
 # Revnets
 **Add value => grow revenue => become wealthy together.**
 
-> _This memo makes the case for revnets. It will quickly give context to the problem at hand, how revnets are positioned to play a role in shaping the future, and the specifics of how you are invited to participate._
+> _This memo makes the case for revnets. It will quickly give context about the problem at hand, how revnets are positioned to play a role in shaping the future, and the specifics of how you are invited to participate._
 
 ## Contents
 1. [TLDR](#tldr)
@@ -30,9 +30,11 @@
 
 Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-This has too often led to misallocated resources and capital losses, while entrepreneurs focused on long-term value creation go out of their way for scraps.
+This has often led to misallocated resources and capital losses, while entrepreneurs focused on long-term value creation are left with scraps.
 
-Revnets offer a promising solution, as an openly accounted-for tokenized growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes for disputes between them.
+Revnets offer a promising solution, as an all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
+
+Revnets are an openly accounted-for standard that can bootstrap and sustain open source projects, campaigns, businesses, or cultural scenes without governance or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
@@ -45,16 +47,17 @@ Openly accounted-for fundraises and revenues should outcompete everything, by en
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
 - **Monetization Dilemma:** Establishing and justifying debt obligations, growth expenditures, and profit margins on revenue is difficult as an open business scales.
-- **Moat Dilemma:** The strategies of open businesses can be copied, without also inheriting the baggage of the original. Meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
+- **Moat Dilemma:** The strategies of open businesses can be copied without inheriting the baggage of the original, meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with their communities, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
+This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible and rewarding category of internet business.
 
 Blockchain agreements are the correct building block, but currently attempted solutions are incomplete with unsustainable tradeoffs:
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
-- **Donationism:** No tokenized monetization strategy, just naive builders with an expectation that value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by grant giving money trees that are fair, abundant, and worth the energy to continuously impress.
+- **NFT collecting:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no measurable time horizon or reinvestible cash flows to ground the wishful thinking.
+- **Donationism:** No tokenized monetization strategy, just builders with an expectation that their value creation, if done openly, will be retroactively supported by altruists who benefited financially from the outcomes, or by grant-giving money trees that are perceived to be fair, abundant, and worth the energy to continuously go out of their way to impress.
 
 We need a growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
@@ -62,12 +65,12 @@ We think revnets might be it: A win-win-win openly accounted-for growth engine, 
 
 Revnets resolve the three dilemmas above by creating financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, and others who prefer tending towards autopilot growth benefiting all members. 
 
-Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing how revnets are:
 - **Versitile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
-- **Interconnectable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
+- **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
 
 ## Anatomy of a Revnet
 
@@ -130,43 +133,48 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 ## $REV
 
-$REV runs on its own as a revnet according to the rules below – there is no governance. Revnet Research Group LLC (RRG) is a token holder alongside other token holders and has no special powers. Anyone can participate in $REV at any time.
+$REV runs on its own as a revnet according to the staged rules below – there is no governance. Revnet Research Group LLC (RRG) is a token holder alongside other token holders and has no special powers.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
+Anyone can participate in $REV at any time, and the $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
+
+RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
+- **Self-owned growth:** The network should make sure all participants who help sustain the network – investors, builders, storytellers, fans, donors, fee-paying retail consumers – benefit from revenue growth.
+- **Clear incentives, from startup to scale:** The network should financially empower both elders and newcomers within its framework of open, voluntary participation to support the network's evolution by transparently reflecting everyone's risks and contributions over time.
+- **Inefficient rent seeking:** The network should be equipped with a reliable immunity instinct that efficiently protects and rewards productivity.
 
 We want to especially encourage investors to join who see potential use for revnets in other areas of their portfolios, and who can help the adoption of the revnet standard. 
 
-Both token-comfortable people interacting directly from their favorite EVM blockchain, and token-curious people interactacting using traditional methods through RRG, are welcome. 
+Both token-comfortable people interacting directly from their favorite EVM blockchain, and token-curious people interacting using traditional methods through RRG, are welcome. 
 
 ### $REV stage 1
 
-_Price doubles every 90 days._
+_Price doubles every 90 days. 20% of issuance and buybacks to Revnet Research Group. Automint an initial supply to acknowledge pre-net work. Cashing out leaves money on the table._
 
 - **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** Doubling every 90 days.
-- **Split:** 20% split of issuance and buybacks operated by `rrg.eth`. 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** 69_000 $REV to `rrg.eth` for pre-launch work. Of this $REV, 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`,  1_000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast),and 500 to LJ.
+- **Split:** 20% split of issuance and buybacks operated by `rrg.eth`. Prospectively: 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** 69_000 $REV to `rrg.eth` for pre-launch work. Prospectively: 25_000 will be sent to `dao.jbx.eth` (JuiceboxDAO), 10_000 to `breadfruit.eth`, 10_000 to `filipv.eth`, 10_000 to `codalabs.eth`, 4_000 to `openesquire.eth`, 2_000 to `kmacb.eth`, 2_000 to `0xba5ed.eth`, 2_000 to `noobwonder.eth`, 2_000 to [Peel](https://juicebox.money/@peel),  1_000 to `drgorilla.eth`,  1_000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast),and 500 to LJ.
 - **Cash out tax:** Medium-high (0.6). The network consolidates when holders cash out.
 
 ### $REV stage 2
 
-_Price continues doubling every 180 days._
+_Starts 2 years after the revnet is deployed. Price continues doubling every 180 days. 20% of issuance and buybacks continue to Revnet Research Group. Automint a vested supply to acknowledge pre-net work. Cashing out still leaves money on the table._
 
 - **Duration:** 6_480 days. (~18 years)
 - **Initial price:** Where stage 1 left off.
 - **Price increase:** Doubling every 180 days.
-- **Split:** No change. 20% of issuance and buybacks operated by `rrg.eth`. 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
-- **Automint:** 127_000 $REV to `rrg.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
+- **Split:** No change. 20% of issuance and buybacks operated by `rrg.eth`. Prospectively: 6% burnt, 7% routed to `rrg.eth`, 7% to `dao.jbx.eth`.
+- **Automint:** 127_000 $REV to `rrg.eth` for pre-net work. Prospectively: 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ### $REV stage 3
 
-_No more issuance._
+_No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashing out still leaves money on the table._
 
 - **Duration:** Forever.
 - **Initial price:** 0. No more issuance.
-- **Split:** 10% of buybacks operated by `rrg.eth`. All of it burnt.
+- **Split:** 10% of buybacks operated by `rrg.eth`. Prospectively: all of it burnt.
 - **Cash out tax:** No change. Medium-high (0.6).
 
 ## Revnet Research Group (RRG)
