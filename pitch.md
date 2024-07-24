@@ -28,7 +28,7 @@
 
 ## TLDR
 
-Today's crypto applications, social networks, and AI agents have a business model problem, rooted in the tensions between open source productivity and private value capture. 
+Today's crypto, media, and AI networks have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
 This has often led to misallocated resources and capital losses, while entrepreneurs focused on long-term value creation are left with scraps.
 
