@@ -85,7 +85,7 @@ For example, A revnet can be (1) paid in ETH (or other tokens), which (2) genera
 
 In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) the builder wanted to cash out their 200 $REV right away, they would (6) get less than the proportional 0.2 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
-<img width="599" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/7f4c0171-a4db-4251-9cbc-37721429438d">
+<img width="599" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 
 Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees that determine where the flexible supply of tokens go when it is paid and under what conditions tokens can be cashed out. This means:
 
