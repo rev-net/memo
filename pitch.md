@@ -5,27 +5,27 @@
 
 ## Contents
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
-   - [TLDR](#tldr)
-   - [Overview](#overview)
-   - [Anatomy of a revnet | Introduction](#anatomy-of-a-revnet-intro)
-   - [Why now? Why us?](#why-now-why-us)
-   - [Call to action](#call-to-action)
-   - [Examples](#examples)
+   - [1.1 TLDR](#tldr)
+   - [1.2 Overview](#overview)
+   - [1.3 Anatomy of a revnet | Introduction](#anatomy-of-a-revnet-intro)
+   - [1.4 Why now? Why us?](#why-now-why-us)
+   - [1.5 Call to action](#call-to-action)
+   - [1.6 Examples](#examples)
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
-   - [Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
-   - [$REV](#rev-1)
+   - [2.1 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
+   - [2.2 $REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
-   - [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+   - [2.3 Revnet Research Group (RRG)](#revnet-research-group-rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
      - [Onchain management](#onchain-management)
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
-   - [RF1](#rf1)
-   - [Investor FAQ](#investor-faq)
+   - [2.4 RF1](#rf1)
+   - [2.5 Investor FAQ](#investor-faq)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
@@ -33,7 +33,7 @@
 
 ## Part 1 – What's the big deal
 
-### TLDR
+### 1.1 TLDR
 
 Today's crypto, media, and AI networks have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
@@ -45,7 +45,7 @@ Revnets are an openly accounted-for standard that can motivate the funding and d
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
-### Overview
+### 1.2 Overview
 
 Openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
@@ -86,7 +86,7 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 
 Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin.
 
-### Anatomy of a revnet | Introduction
+### 1.3 Anatomy of a revnet | Introduction
 
 Think of revnets like Bitcoin's halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees. 
 
@@ -122,7 +122,7 @@ Revnets also inherit the best properties of Ethereum:
 
 Part 2 of this memo includes advanced revnet anatomy, and discusses how we are tuning the $REV revnet for deployment.
 
-### Why now? Why us?
+### 1.4 Why now? Why us?
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
@@ -134,7 +134,7 @@ Revnets are the next step. They are an expression of the Juicebox language we kn
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
-### Call to action
+### 1.5 Call to action
 
 Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives, meanwhile helping incumbent businesses transition to the more powerful open internet.
 
@@ -142,7 +142,7 @@ With revnets, the open internet will win _because_ it best serves creatives, bui
 
 We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win. Read Part 2 of this memo if you're leaning in.
 
-### Examples
+### 1.6 Examples
 
 In Part 2 we'll dig into how $REV is being tuned.
 
@@ -169,7 +169,7 @@ There are a few entities at play:
 
 Before diving into each, it's first important to understand the how revnets works under the hood. 
 
-### Anatomy of a revnet | Advanced
+### 2.1 Anatomy of a revnet | Advanced
 
 Each revnet stage specifies five rules which dictate everything about how it operates:
 
@@ -195,7 +195,7 @@ Each revnet should consider its own unique circumstances when navigating the fol
 
 There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
 
-### $REV
+### 2.2 $REV
 
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
 - **Simple:** Its rules should be easy to think about, with occasional important shifts that feel ceremonial.
@@ -254,7 +254,7 @@ We want to especially encourage investors to join who see potential use for revn
 
 Both token-comfortable people interacting directly from their favorite EVM blockchain, and token-curious people interacting using traditional methods through RF1, are welcome. 
 
-### Revnet Research Group (RRG)
+### 2.3 Revnet Research Group (RRG)
 
 We'll use an LLC named RRG to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
@@ -316,7 +316,7 @@ The marketing todos include:
 - create a trustworthy brand.
 - run a "This Ad is funded by a revnet" campaign, and other concepts.
 
-### RF1
+### 2.4 RF1
 
 There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
@@ -324,7 +324,7 @@ There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund s
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
-### Investor FAQ
+### 2.5 Investor FAQ
 
 #### Should I invest in RRG, $REV, or...?
 
