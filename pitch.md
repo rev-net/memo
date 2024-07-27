@@ -220,8 +220,7 @@ _Price doubles every 90 days. 40% of issuance and buybacks to Revnet Research Gr
 | **Duration**       | 720 days (~2 years).                                                                                                                                                                                                                                      |
 | **Initial price**  | 1 $REV costs 0.001 ETH.                                                                                                                                                                                                                                   |
 | **Price increase** | Doubles every 90 days.                                                                                                                                                                                                                                    |
-| **Split**          | 40% split of issuance and buybacks operated by `rrg.eth`.  |
-                                                                                                                           
+| **Split**          | 40% split of issuance and buybacks operated by `rrg.eth`.  |                                                                                                                   
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
 | **Cash out tax**   | Medium-high (0.6). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
@@ -235,7 +234,7 @@ _Starts 2 years after the revnet is deployed. Price continues doubling every 180
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | 6,480 days. (~18 years)                                                                                                                                                                                                                                   |
 | **Initial price**  | Where stage 1 left off.                                                                                                                                                                                                                                    |
-| **Price increase** | Doubling every 180 days.                                                                                                                                                                                                                                   |
+| **Price increase** | Doubling every 180 days.         |
 | **Split**          | No change. 40% of issuance and buybacks operated by `rrg.eth`.                                                                                                                    |
 | **Automint**       | 127,000 $REV to `rrg.eth` for pre-net work.           |
 | **Cash out tax**   | No change. Medium-high (0.6).                                                                                                                                                                                                                              |
