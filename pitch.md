@@ -138,7 +138,7 @@ Those of us developing revnets have been contributors to the Ethereum ecosystem 
 
 In this era of crypto, media, and AI networks that innovate on internet-native concepts, private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
 
-We've also seen the gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using it to progress positive-sum game-theoretic financial applications like revnets is non-trivial, using it to manipulate the public with hyped-up zero sum Ponzi schemes is easy and unfortunately all to common.
+We've also seen the negligence and gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using it to progress positive-sum game-theoretic financial applications like revnets is non-trivial, using it to manipulate the public with hyped-up zero sum Ponzi schemes is easy and unfortunately all to common.
 
 Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects to hit the gas with confidence and without incumbent tradeoffs. 
 
