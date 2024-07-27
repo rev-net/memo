@@ -288,7 +288,18 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 #### Spend
 
-RRG will use the bulk of the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the $REV to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), rob (legal).
+RRG will use the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets. We will staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and rob (legal). 
+
+The technical and product todos include:
+- iterate on revnet.app to best serve revnet participation and creation.
+- standby for risk mitigation as the contracts gain legitimacy through use. iterate if necessary.
+- build dev tools that make revnets easier to integrate within financial and white-labeled applications.
+
+The marketing todos include:
+- tell the revnet story.
+- support the success of the initial cohort of revnets by telling each of their stories.
+- create a trustworthy brand.
+- run a "This Ad is funded by a revnet" campaign, and other concepts.
 
 ### RF1
 
