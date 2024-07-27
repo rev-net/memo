@@ -17,7 +17,6 @@
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
-   - [Accessibility](#accessibility)
    - [Revnet Research Group (RRG)](#revnet-research-group-rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
