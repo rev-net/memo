@@ -160,7 +160,7 @@ Here are some revnets we're helping launch, including $REV:
 |-------------|-----------------|------------|----------|
 | $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
 | $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
-| $REV        | Captures revenue from the productivity of the revnet-based projects it builds tools for. | Very soon | [rev.eth.sucks](https://rev.eth.sucks) |
+| $REV        | Captures revenue from the productivity of the revnet-based projects it builds tools for. See part 2 below. | Very soon | [rev.eth.sucks](https://rev.eth.sucks) |
 | $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
 | $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
 | $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
