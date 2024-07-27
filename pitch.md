@@ -4,27 +4,41 @@
 > _This memo makes the case for revnets. It is delivered in 2 parts: the first will quickly give context about the problem at hand, how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
 
 ## Contents
-1. [TLDR](#tldr)
-2. [Overview](#overview)
-3. [Anatomy of a revnet](#anatomy-of-a-revnet)
-4. [Why now? Why Us?](#why-now-why-us)
-5. [Call to action](#call-to-action)
-6. [$REV](#rev)
-    - [$REV stage 1](#rev-stage-1)
-    - [$REV stage 2](#rev-stage-2)
-    - [$REV stage 3](#rev-stage-3)
-7. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
-    - [RRG Mission](#rrg-mission)
-    - [Bottom line](#bottom-line)
-    - [Structure](#structure)
-    - [Onchain management](#onchain-management)
-    - [Offchain management](#offchain-management)
-    - [Spend](#spend)
-8. [Legal](#legal)
-9. [Revnets we're launching over the next year](#revnets-were-launching-over-the-next-year)
-10. [Investor FAQ](#investor-faq)
-    - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
-    - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
+1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
+   - [TLDR](#tldr)
+   - [Overview](#overview)
+   - [Anatomy of a Revnet](#anatomy-of-a-revnet)
+   - [Why now? Why us?](#why-now-why-us)
+   - [Legal](#legal)
+   - [Call to action](#call-to-action)
+   - [Examples](#examples)
+     - [$NANA](#nana)
+     - [$BANNY](#banny)
+     - [$REV](#rev)
+     - [$NANCE](#nance)
+     - [$SUCKS](#sucks)
+     - [$DEFIFA](#defifa)
+     - [$CROPTOP](#croptop)
+     - [$SPHINX](#sphinx)
+2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
+   - [$REV](#rev-1)
+     - [$REV stage 1](#rev-stage-1)
+     - [$REV stage 2](#rev-stage-2)
+     - [$REV stage 3](#rev-stage-3)
+   - [Accessibility](#accessibility)
+   - [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+     - [RRG Mission](#rrg-mission)
+     - [Bottom line](#bottom-line)
+     - [Structure](#structure)
+     - [Onchain management](#onchain-management)
+     - [Offchain management](#offchain-management)
+     - [Spend](#spend)
+   - [RF1](#rf1)
+   - [Investor FAQ](#investor-faq)
+     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
+     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
+
+--- 
 
 ## Part 1 – What's the big deal
 
@@ -79,14 +93,17 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 
 A revnet is most simply described as digital vending machine whose sales benefit a set of owners. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its token's are returned. A revnet's tokens are always backed by the underlying value of the revenue was used to issue them.
 
-> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine. 
+_For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine._
 
 <img width="582" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 59 01" src="https://github.com/user-attachments/assets/6776a77f-acc1-4cdf-92b6-c963592af75d">
+<br>
+<br>
 
-> In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) the builder wanted to cash out their 200 $REV right away, they would (6) get less than the proportional 0.2 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
+_In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) the builder wanted to cash out their 200 $REV right away, they would (6) get less than the proportional 0.2 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed._
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
-
+<br>
+<br>
 Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees that determine where the flexible supply of tokens go when it is paid and under what conditions tokens can be cashed out. This means:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds are impossible.
@@ -160,33 +177,28 @@ Captures revenues from Bannyverse mints. (very soon)
 
 #### $REV
 https://rev.eth.sucks
-
 Captures revenue from the productivity of the revnet-based projects it builds tools for. (very soon)
 
 #### $NANCE
 https://nance.app
-
 Builds the open-source Nance governance platform for tokenized communities. (soon)
 
 #### $SUCKS
 https://eth.sucks
-
 Captures memetic energy from the distribution of `.eth.sucks` websites. (soon)
 
 #### $DEFIFA
 https://defifa.net
-
 Captures revenues from Defifa prediction games. (soon)
 
 #### $CROPTOP
 https://croptop.eth.sucks
-
 Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
 
 #### $SPHINX
-
 Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. (soon)
 
+---
 
 ## Part 2 – What are the terms 
 
@@ -217,8 +229,8 @@ _Price doubles every 90 days. 40% of issuance and buybacks to Revnet Research Gr
 | **Duration**       | 720 days (~2 years).                                                                                                                                                                                                                                      |
 | **Initial price**  | 1 $REV costs 0.001 ETH.                                                                                                                                                                                                                                   |
 | **Price increase** | Doubles every 90 days.                                                                                                                                                                                                                                    |
-| **Split**          | 40% split of issuance and buybacks operated by `rrg.eth`.
-.                                                                                                                           |
+| **Split**          | 40% split of issuance and buybacks operated by `rrg.eth`.  |
+                                                                                                                           
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
 | **Cash out tax**   | Medium-high (0.6). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
