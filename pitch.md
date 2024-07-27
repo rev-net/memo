@@ -9,7 +9,6 @@
    - [Overview](#overview)
    - [Anatomy of a Revnet](#anatomy-of-a-revnet)
    - [Why now? Why us?](#why-now-why-us)
-   - [Legal](#legal)
    - [Call to action](#call-to-action)
    - [Examples](#examples)
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
@@ -144,12 +143,6 @@ We've also seen the gross extractive tendencies that over-leveraged entrepreneur
 Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects to hit the gas with confidence and without incumbent tradeoffs. 
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
-
-### Legal
-
-Each revnet’s rules are defined up front, and all transactions are public. Once a revnet is deployed, no manager has the power to change how it works, no supervisor has special backdoor access, and no authority can stop it. There is no managerial effort attached to an expectation of profit.
-
-Now is the time to learn from the legal outcomes of the past few years and bet on deterministic mechanisms where no entity can change or control the rules once deployed, and where all information is publicly auditable.
 
 ### Call to action
 
