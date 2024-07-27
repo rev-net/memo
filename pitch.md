@@ -156,38 +156,16 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 Here are some revnets we're helping launch, including $REV:
 
-#### $NANA
-https://nana.eth.sucks
-
-Captures revenues from the omnichain Juicebox v4's 2.5% fee. (very soon)
-
-#### $BANNY
-https://banny.eth.sucks
-
-Captures revenues from Bannyverse mints. (very soon)
-
-#### $REV
-https://rev.eth.sucks
-Captures revenue from the productivity of the revnet-based projects it builds tools for. (very soon)
-
-#### $NANCE
-https://nance.app
-Builds the open-source Nance governance platform for tokenized communities. (soon)
-
-#### $SUCKS
-https://eth.sucks
-Captures memetic energy from the distribution of `.eth.sucks` websites. (soon)
-
-#### $DEFIFA
-https://defifa.net
-Captures revenues from Defifa prediction games. (soon)
-
-#### $CROPTOP
-https://croptop.eth.sucks
-Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in.
-
-#### $SPHINX
-Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. (soon)
+| **Project** | **Description** | **Status** | **Link** |
+|-------------|-----------------|------------|----------|
+| $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
+| $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
+| $REV        | Captures revenue from the productivity of the revnet-based projects it builds tools for. | Very soon | [rev.eth.sucks](https://rev.eth.sucks) |
+| $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
+| $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
+| $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
+| $CROPTOP    | Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. | Soon | [croptop.eth.sucks](https://croptop.eth.sucks) |
+| $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
 
 ---
 
