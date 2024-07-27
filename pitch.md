@@ -67,7 +67,7 @@ Blockchain agreements are the correct building block, but today's attempted solu
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
 - **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from pump and dumps.
 - **Custom mechanisms:** Custom tokenization dynamic with a unique set of coded rules that attempt to fulfill a desired set of outcomes, but requiring everyone to learn a new jargon-filled system and trust that it is implemented bug free.
-- **Donationism:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who benefited financially from the outcomes.
+- **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who benefited financially from the outcomes.
 
 We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
@@ -83,9 +83,11 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
 
+Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the growth potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated.
+
 ### Anatomy of a Revnet
 
-A revnet is most simply described as a digital vending machine. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue was used to issue them.
+A revnet is most simply described as a digital vending machine. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue used to issue them.
 
 > For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
@@ -118,7 +120,7 @@ Revnets also inherit the best properties of Ethereum:
 - **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 - **Everywhere**: Allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.
 
-Specifically, each each revnet stage specifies five rules which dictate how the revnet operates:
+Specifically, each each revnet stage specifies five rules which dictate everything about how the revnet operates:
 
 | **Rule**      | **Description**                                                                                                                                                                                                                                                                                                                                                              |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,7 +132,16 @@ Specifically, each each revnet stage specifies five rules which dictate how the 
 |                    | If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.                                                                                                      |
 |                    | Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value.                                                        |
 
-Notice, a revnet can be tuned to achieve various outcomes. They are not a cheatcode for entrepreneurs and investors lacking earnest real world insight, nor a capital magnet for those expecting a free lunch. It still takes strategy, risk, storytelling, and execution, amplifying those who follow through. In Part 2 of this memo, you'll see how we're going about tuning the $REV revnet for deployment.
+Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still takes strategy, risk, storytelling, and execution, amplifying those who follow through. 
+
+Each revnet should consider its own unique circumstances when navigating the following tuning decisions:
+- **Choosing a price:** revnets with infrequent and shallow price decreases leave room for more equal access over time to entice newcomers, but may lack energy from incumbent participants whose contributions are less recognized.
+- **Choosing a cash out tax:** revnets with a larger cash out tax reward more committed participants, but give everyone less access to liquidity.
+- **Choosing token distribution:** revnets with splits or automints can acknowledge the non-financial forms of participation which are often the subjects around which they revolve, but also can create scoped management burdens requiring more trust.
+
+There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
+
+In Part 2 of this memo, you'll see how we're going about tuning the $REV revnet for deployment.
 
 ### Why now? Why us?
 
@@ -154,13 +165,14 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 ### Examples
 
-Here are some revnets we're helping launch, including $REV:
+In Part 2 we'll dig into how $REV is being tuned.
+
+Here are some other revnets we're helping launch:
 
 | **Project** | **Description** | **Status** | **Link** |
 |-------------|-----------------|------------|----------|
 | $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
 | $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
-| $REV        | Captures revenue from the productivity of the revnet-based projects it builds tools for. See part 2 below. | Very soon | [rev.eth.sucks](https://rev.eth.sucks) |
 | $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
 | $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
 | $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
@@ -180,14 +192,12 @@ There are a few entities at play:
 
 $REV runs on its own as a revnet according to the staged rules below – there is no governance, and the rules cannot change once deployed.
 
-There is no such thing as an apriori ideal tuning of rules for $REV, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
-
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
 - **Simple:** It's rules should be easy to think about, with occasional important shifts that feel ceremonial.
 - **Self-owned growth:** It should make sure all participants who will sustain its growth – investors, builders, storytellers, fans, donors, fee-paying retail consumers – feel like it benefits them.
 - **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknlowleges risks and contributions over time.
 - **Inefficient rent seeking:** It should have a reliable immunity instinct that efficiently protects and rewards productivity.
-- **Flexible:** RRG will steward a meaningful token split affording it some operational flexibility, which is a responsibility it can minimize and revoke down the road.
+- **Flexible:** RRG will steward a meaningful token split affording it some operational flexibility, which is a responsibility it can minimize and revoke down the road. It will assume some trust from supporters.
 
 #### $REV stage 1
 
