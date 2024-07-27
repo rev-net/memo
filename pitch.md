@@ -85,7 +85,7 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 
 ### Anatomy of a Revnet
 
-A revnet is most simply described as digital vending machine whose sales benefit a set of owners. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its token's are returned. A revnet's tokens are always backed by the underlying value of the revenue was used to issue them.
+A revnet is most simply described as a digital vending machine whose sales benefit a set of owners. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its token's are returned. A revnet's tokens are always backed by the underlying value of the revenue was used to issue them.
 
 > For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
