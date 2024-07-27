@@ -226,8 +226,10 @@ _No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashin
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | Forever.                                                                                                                                                                                                                                                  |
 | **Initial price**  | 0. No more issuance.                                                                                                                                                                                                                                       |
-| **Split**          | 10% of buybacks operated by `rrg.eth`. Prospectively: all of it burnt.                                                                                                                                                                                     |
+| **Split**          | 10% of buybacks operated by `rrg.eth`.                                                                                                                                                                                    |
 | **Cash out tax**   | No change. Medium-high (0.6).    
+
+> Prospectively, the 10% split will always be burnt.
 
 #### Accessiblity
 
