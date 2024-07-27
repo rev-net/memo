@@ -57,11 +57,13 @@ Join us – a group of active Web3 builders with vivid stories to prove it – i
 ### Overview
 
 Openly accounted-for fundraises and revenues should outcompete everything, by enabling:
+
 - **Scaled Participation:** Global community with vested interests accelerates growth.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
+
 - **Monetization Dilemma:** Establishing and justifying debt obligations, growth expenditures, and profit margins on revenue is difficult as an open business scales.
 - **Moat Dilemma:** The strategies of open businesses can be copied without inheriting the baggage of the original, meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the work's creation.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with their communities, or motivation to do so unless developed in-house.
@@ -69,6 +71,7 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investible and rewarding category of internet business.
 
 Blockchain agreements are the correct building block, but today's attempted solutions are incomplete with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
+
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
@@ -85,6 +88,7 @@ Revnets resolve the three dilemmas above by creating openly accounted-for financ
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We've understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing how revnets are:
+
 - **Versitile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
