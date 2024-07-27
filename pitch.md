@@ -7,11 +7,12 @@
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
    - [TLDR](#tldr)
    - [Overview](#overview)
-   - [Anatomy of a revnet](#anatomy-of-a-revnet)
+   - [Anatomy of a revnet | Introduction](#anatomy-of-a-revnet-intro)
    - [Why now? Why us?](#why-now-why-us)
    - [Call to action](#call-to-action)
    - [Examples](#examples)
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
+   - [Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
    - [$REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
@@ -85,7 +86,7 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 
 Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin.
 
-### Anatomy of a revnet
+### Anatomy of a revnet | Introduction
 
 Think of revnets like Bitcoin's halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees. 
 
@@ -166,7 +167,11 @@ There are a few entities at play:
 - **Revnet Reserch Group, LLC (RRG):** The split operator of the revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-Before diving into each, it's first important to understand the how revnets works under the hood. Each revnet stage specifies five rules which dictate everything about how it operates:
+Before diving into each, it's first important to understand the how revnets works under the hood. 
+
+### Anatomy of a revnet | Advanced
+
+Each revnet stage specifies five rules which dictate everything about how it operates:
 
 | **Rule**      | **Description**                                                                                                                                                                                                                                                                                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
