@@ -108,7 +108,10 @@ A revnet is most simply described as digital vending machine whose sales benefit
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
 <br>
-Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees that determine where the flexible supply of tokens go when it is paid and under what conditions tokens can be cashed out. This means:
+
+Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees that determine where the flexible supply of tokens go when it is paid and under what conditions tokens can be cashed out. 
+
+This means revnets are:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds are impossible.
 - **Management-free**: Revnets operate autonomously according to their pre-configured rules, making rug pulls and overreach impossible.
