@@ -89,7 +89,7 @@ Projects will choose a revnet business structure when they prefer their outcome 
 
 Think of revnets like Bitcoin's halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees. 
 
-A revnet's guarentees are most simply described as a digital vending machine. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue used to issue them.
+A revnet's guarantees are most simply described as a digital vending machine. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue used to issue them.
 
 > For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
@@ -97,7 +97,7 @@ A revnet's guarentees are most simply described as a digital vending machine. Th
 <br>
 <br>
 
-> In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) a builder wanted to cash out their 100 $REV right away, they would (6) get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
+> In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) one of the builders wanted to cash out their 100 $REV right away, they would (6) get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
@@ -166,7 +166,7 @@ There are a few entities at play:
 - **Revnet Reserch Group, LLC (RRG):** The split operator of the revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-Before diving into each, it's first important to understand the how revnets works under the hood. Each revnet stage specifies five rules which dictate everything about how the it operates:
+Before diving into each, it's first important to understand the how revnets works under the hood. Each revnet stage specifies five rules which dictate everything about how it operates:
 
 | **Rule**      | **Description**                                                                                                                                                                                                                                                                                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -193,9 +193,9 @@ There is no such thing as an apriori ideal tuning of a revnets rules, just as th
 ### $REV
 
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
-- **Simple:** It's rules should be easy to think about, with occasional important shifts that feel ceremonial.
+- **Simple:** Its rules should be easy to think about, with occasional important shifts that feel ceremonial.
 - **Self-owned growth:** It should make sure all participants who will sustain its growth – investors, builders, storytellers, fans, donors, fee-paying retail consumers – feel like it benefits them.
-- **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknlowleges risks and contributions over time.
+- **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknowledges risks and contributions over time.
 - **Inefficient rent seeking:** It should have a reliable immunity instinct that efficiently protects and rewards productivity.
 - **Flexible:** RRG will steward a meaningful token split affording it some operational flexibility, which is a responsibility it can minimize and revoke down the road. It will assume some trust from supporters.
 
@@ -212,7 +212,7 @@ _Price doubles every 90 days. 40% of issuance and buybacks to Revnet Research Gr
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
 | **Cash out tax**   | Medium-high (0.6). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
-> RRG can shape the split distribution within the hardwired 40% over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will be have 27% routed to `rrg.eth`, and 13% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
+> RRG can shape the split distribution within the hardwired 40% over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will have 27% routed to `rrg.eth`, and 13% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
 
 ##### $REV stage 2
 
@@ -243,7 +243,7 @@ _No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashin
 
 #### Accessiblity
 
-Anyone can pay into $REV at any time. It also is hardwired to receive a 2.5% network fee whenever someone cashes out from any revnet – thousands of digital vending machines plugged into the $REV vending machine. Both one-off payments fees are treated the same and used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
+Anyone can pay into $REV at any time. It also is hardwired to receive a 2.5% network fee whenever someone cashes out from any revnet – thousands of digital vending machines plugged into the $REV vending machine. Both one-off payments and fees are treated the same and used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
 We want to especially encourage investors to join who see potential use for revnets in other areas of their portfolios, and who can help the adoption of the revnet standard. 
 
