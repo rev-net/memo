@@ -224,7 +224,7 @@ _Price doubles every 90 days. 40% of issuance and buybacks to Revnet Research Gr
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
 | **Cash out tax**   | Medium-high (0.6). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
-RRG can shape the split distribution over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will be have 27% routed to `rrg.eth`, 13% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
+> RRG can shape the split distribution over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will be have 27% routed to `rrg.eth`, 13% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
 
 ##### $REV stage 2
 
@@ -239,7 +239,7 @@ _Starts 2 years after the revnet is deployed. Price continues doubling every 180
 | **Automint**       | 127,000 $REV to `rrg.eth` for pre-net work.           |
 | **Cash out tax**   | No change. Medium-high (0.6).                                                                                                                                                                                                                              |
 
-Prospectively, the 40% split will be have 8% burnt, 20% routed to `rrg.eth`, 12% to `dao.jbx.eth`. The 127,000 automint will have 35,000 sent to `dao.jbx.eth`, 20,000 to `breadfruit.eth`, 20,000 to `filipv.eth`, 20,000 to `codalabs.eth`, 10,000 to `openesquire.eth`, 5,000 to `kmacb.eth`, 5,000 to `0xba5ed.eth`, 5,000 to `noobwonder.eth`, 5,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.  
+> Prospectively, the 40% split will be have 8% burnt, 20% routed to `rrg.eth`, 12% to `dao.jbx.eth`. The 127,000 automint will have 35,000 sent to `dao.jbx.eth`, 20,000 to `breadfruit.eth`, 20,000 to `filipv.eth`, 20,000 to `codalabs.eth`, 10,000 to `openesquire.eth`, 5,000 to `kmacb.eth`, 5,000 to `0xba5ed.eth`, 5,000 to `noobwonder.eth`, 5,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.  
 
 ##### $REV stage 3
 _No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashing out still leaves money on the table._
