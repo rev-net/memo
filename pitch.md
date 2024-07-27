@@ -1,7 +1,7 @@
 # Revnets
 **Add value => grow revenue => become wealthy together.**
 
-> _This memo makes the case for revnets. It is delivered in 2 parts: the first will quickly give context about the problem at hand, how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
+> _This memo makes the case for revnets. It is delivered in 2 parts: the first will quickly give context about the problem and how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
 
 ## Contents
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
