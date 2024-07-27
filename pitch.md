@@ -93,13 +93,13 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 
 A revnet is most simply described as digital vending machine whose sales benefit a set of owners. The sequence of rules the vending machine enforces – how much things cost, how to get the money out – are set when the vending machine is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its token's are returned. A revnet's tokens are always backed by the underlying value of the revenue was used to issue them.
 
-_For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine._
+> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 200 $REV go to a builder and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
 <img width="582" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 59 01" src="https://github.com/user-attachments/assets/6776a77f-acc1-4cdf-92b6-c963592af75d">
 <br>
 <br>
 
-_In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) the builder wanted to cash out their 200 $REV right away, they would (6) get less than the proportional 0.2 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed._
+> In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) the builder wanted to cash out their 200 $REV right away, they would (6) get less than the proportional 0.2 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
