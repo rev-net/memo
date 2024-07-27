@@ -120,7 +120,7 @@ Revnets also inherit the best properties of Ethereum:
 - **Auditability**: Impossible to hide, simplifying diligence for all participants.
 - **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 
-Part 2 of this memo will discuss how a revnet works under the hood, and how we are tuning the $REV revnet for deployment.
+Part 2 of this memo includes advanced revnet anatomy, and discusses how we are tuning the $REV revnet for deployment.
 
 ### Why now? Why us?
 
