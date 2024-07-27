@@ -106,7 +106,7 @@ Think of revnets like Bitcoin's halvening rule. Like Bitcoin, revnets are a full
 This means revnets are:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds are impossible.
-- **Management-free**: Revnets operate autonomously according to their pre-configured rules, making rug pulls and overreach impossible.
+- **Management-scoped**: Revnets operate autonomously according to their pre-configured rules, scoping risks and making overreach impossible.
 - **Liquid**: Revnets work with the open market to make and take liquidity, helping startups bootstrap growth and making market manipulation unfavorable.
 - **Deterministic**: Investors, builders, community, and customers each act within a revnet's known rules, enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
