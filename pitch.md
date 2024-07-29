@@ -42,7 +42,7 @@ This has often led to misallocated resources and capital losses, while creators 
 
 Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
-Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
+Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance risks or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
