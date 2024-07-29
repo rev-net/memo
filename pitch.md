@@ -3,8 +3,6 @@
 
 > _This memo makes the case for revnets. It is delivered in 2 parts: the first part will quickly give context about the problem and how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
 
-![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
-
 ## Contents
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
    - [1.1 TLDR](#tldr)
@@ -32,6 +30,7 @@
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
 --- 
+![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
 ## Part 1 – What's the big deal
 
@@ -161,6 +160,7 @@ Here are some other revnets we're helping launch this next year:
 | $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
 
 ---
+![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
 
 ## Part 2 – What are the terms 
 
