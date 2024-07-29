@@ -92,7 +92,7 @@ Think of revnets like Bitcoin's halvening rule. Similar to Bitcoin, revnets are 
 
 A revnet's guarantees are most simply described as a digital vending machine, whose sequence of enforced rules – how much things cost, how to get the money out – are set when it is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue used to issue them.
 
-> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
+> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token – let's call it $REV – at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
 <img width="582" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 59 01" src="https://github.com/user-attachments/assets/6776a77f-acc1-4cdf-92b6-c963592af75d">
 <br>
@@ -120,7 +120,7 @@ Revnets also inherit the best properties of Ethereum:
 - **Auditability**: Impossible to hide, simplifying diligence for all participants.
 - **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 
-Part 2 of this memo includes advanced revnet anatomy, and discusses how we are tuning the $REV revnet for deployment.
+This was the introduction. Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment.
 
 ### 1.4 Why now? Why us?
 
