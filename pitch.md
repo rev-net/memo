@@ -84,7 +84,7 @@ We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from 
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
 
-Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin.
+Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin and Ethereum.
 
 ### 1.3 Anatomy of a revnet | Introduction
 
