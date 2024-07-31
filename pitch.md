@@ -121,7 +121,7 @@ Revnets also inherit the best properties of Ethereum:
 - **Auditability**: Impossible to hide, simplifying diligence for all participants.
 - **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 
-This was the introduction. Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment.
+This was just the introduction. Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment.
 
 ### 1.4 Why now? Why us?
 
@@ -188,7 +188,7 @@ It inherits some useful properties from Juicebox V4:
 - **Multicurrency:** A revnet can accept and hold any number of tokens, though it defines its price in one consistent currency. If it issues 1,000 tokens per ETH and the revnet is paid some USDC, tokens are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its token holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's tokens are backed by the tokens it chooses to hold, inheriting their risks and opportunities. 
 - **Omni-chain:** Revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value. 
 
-Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still takes strategy, risk, storytelling, and execution, amplifying those who follow through. 
+Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still take strategy, risk, storytelling, and execution, amplifying those who follow through. 
 
 Each revnet should consider its own unique circumstances when navigating the following tuning decisions:
 - **Choosing a price:** revnets with infrequent and shallow price decreases leave room for more equal access over time to entice newcomers, but may lack energy from incumbent participants whose contributions are less recognized.
