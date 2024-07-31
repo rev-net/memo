@@ -276,7 +276,7 @@ RRG will also have leverage to charge fees when facilitating access to revnets f
 
 #### Structure 
 
-RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV tokens and the development of the #REV ecosystem. The LLC will have four members: Jango Filip, Aeolian, and KMac. Given its member-managed structure, these individuals will actively participate in the management and decision-making processes of the LLC, ensuring a hands-on approach to both investment strategies and ecosystem development. The primary business activities will include acquiring and holding $REV tokens, as well as fostering growth and innovation within the Revnet ecosystem through various initiatives and partnerships.
+RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV tokens and the development of the #REV ecosystem. The LLC will have four members: Jango, Filip, Aeolian, and KMac. Given its member-managed structure, these individuals will actively participate in the management and decision-making processes of the LLC, ensuring a hands-on approach to both investment strategies and ecosystem development. The primary business activities will include acquiring and holding $REV tokens, as well as fostering growth and innovation within the Revnet ecosystem through various initiatives and partnerships.
 
 #### Onchain management 
 
