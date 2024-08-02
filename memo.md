@@ -2,19 +2,19 @@
 **Add value => grow revenue => become wealthy together.**
 
 This memo makes the case for revnets. It is delivered in 3 parts:
-1. **What's the big deal:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
-2. **What are the terms:** Includes specifics of how you are invited to participate.
+1. **The big deal:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
+2. **The terms:** Includes specifics of how you are invited to participate.
 3. **Examples:** Illustrates the opportunity with case studies and simulations.
 
 ## Contents
-1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
+1. [Part 1 – The big deal](#part-1--the-big-deal)
    - [1.1 TLDR](#tldr)
    - [1.2 Overview](#overview)
    - [1.3 Anatomy of a revnet | Introduction](#anatomy-of-a-revnet-intro)
    - [1.4 Why now? Why us?](#why-now-why-us)
    - [1.5 Call to action](#call-to-action)
    - [1.6 Examples](#examples)
-2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
+2. [Part 2 – The terms](#part-2--the-terms)
    - [2.1 Overview](#overview)
    - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
       - [Tuning](#tuning)
