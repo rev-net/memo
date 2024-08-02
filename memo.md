@@ -12,7 +12,7 @@
    - [1.5 Call to action](#call-to-action)
    - [1.6 Examples](#examples)
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
-   = [2.1 Overview](#overview)
+   - [2.1 Overview](#overview)
    - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
    - [2.3 $REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
