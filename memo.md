@@ -36,9 +36,7 @@
 
 ### 1.1 TLDR
 
-Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture.
-
-This has often led to misallocated resources and capital losses, while creators focused on long-term value creation are left with scraps.
+Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. This has often led to misallocated resources and capital losses.
 
 Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
