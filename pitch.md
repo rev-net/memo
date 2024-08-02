@@ -1,4 +1,4 @@
-# Revnets
+# Revnets for Investors, Entrepreneurs, and Customers of Products and Services on the Open Internet
 **Add value => grow revenue => become wealthy together.**
 
 > _This memo makes the case for revnets. It is delivered in 2 parts: the first part will quickly give context about the problem and how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
@@ -36,7 +36,7 @@
 
 ### 1.1 TLDR
 
-Today's crypto, media, and AI networks have a business model problem, rooted in the tensions between open source productivity and private value capture.
+Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture.
 
 This has often led to misallocated resources and capital losses, while creators focused on long-term value creation are left with scraps.
 
@@ -127,7 +127,7 @@ This was just the introduction. Part 2 of this memo digs in deeper, and discusse
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
-In this era of crypto, media, and AI networks that innovate on internet-native concepts, private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
+In this era of crypto and media networks that innovate on internet-native concepts, private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
 
 We've also seen the negligence and gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using them to progress positive-sum game-theoretic financial applications like revnets is non-trivial, while using them to manipulate the public with hyped-up zero-sum Ponzi schemes is easy and unfortunately all too common.
 
