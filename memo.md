@@ -12,20 +12,21 @@
    - [1.5 Call to action](#call-to-action)
    - [1.6 Examples](#examples)
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
-   - [2.1 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
-   - [2.2 $REV](#rev-1)
+   = [2.1 Overview](#overview)
+   - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
+   - [2.3 $REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
-   - [2.3 Revnet Research Group (RRG)](#revnet-research-group-rrg)
+   - [2.4 Revnet Research Group (RRG)](#revnet-research-group-rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
      - [Onchain management](#onchain-management)
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
-   - [2.4 RF1](#rf1)
-   - [2.5 Investor FAQ](#investor-faq)
+   - [2.5 RF1](#rf1)
+   - [2.6 Investor FAQ](#investor-faq)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
@@ -156,7 +157,7 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 ## Part 2 – What are the terms 
 
-### Overview
+### 2.1 Overview
 
 There are three entities at play:
 - **$REV:** The revnet.
@@ -175,7 +176,11 @@ In summary, they have the following relationships:
 
 This means a revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
-Understanding the specifics first requires elaborating on a revnet's anatomy. Revnets unfold in stages. Each stage specifies five rules that dictate everything about how the revnet operates:
+Understanding the specific terms of the plan first requires elaborating on a revnet's anatomy. 
+
+### 2.2 Anatomy of a revnet | Advanced
+
+Revnets unfold in stages. Each stage specifies five rules that dictate everything about how the revnet operates:
 
 | **Rule**      | **Description**                                                                                                                                                                                                                                                                                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -199,7 +204,7 @@ Each revnet should consider its own unique circumstances when navigating the fol
 
 There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
 
-### 2.2 $REV
+### 2.3 $REV
 
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
 - **Simple:** Its rules should be easy to think about, with occasional important shifts that feel ceremonial.
@@ -320,7 +325,7 @@ The marketing todos include:
 - create a trustworthy brand.
 - run a "This Ad is funded by a revnet" campaign, and other concepts.
 
-### 2.4 RF1
+### 2.5 RF1
 
 There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
@@ -328,7 +333,7 @@ There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund s
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
-### 2.5 Investor FAQ
+### 2.6 Investor FAQ
 
 #### Should I invest in RRG, $REV, or...?
 
