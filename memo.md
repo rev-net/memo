@@ -14,11 +14,13 @@
 2. [Part 2 – What are the terms](#part-2--what-are-the-terms)
    - [2.1 Overview](#overview)
    - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
+      - [Tuning](#tuning)
+      - [Loans](#loans)
    - [2.3 $REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
-   - [2.4 Revnet Research Group (RRG)](#revnet-research-group-rrg)
+   - [2.4 RRG](#rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
@@ -194,6 +196,8 @@ It inherits some useful properties from Juicebox V4:
 - **Multicurrency:** A revnet can accept and hold any number of assets received as revenue, though it defines its $TOKEN price in one consistent currency. If it issues 1,000 $TOKENs per ETH and the revnet is paid some USDC, $TOKENs are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its $TOKEN holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's $TOKENs are backed by the assets it chooses to hold, inheriting their risks and opportunities. 
 - **Omni-chain:** Revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
 
+#### Tuning
+
 Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still take strategy, risk, storytelling, and execution, amplifying those who follow through. 
 
 Each revnet should consider its own unique circumstances when navigating the following tuning decisions:
@@ -202,6 +206,16 @@ Each revnet should consider its own unique circumstances when navigating the fol
 - **Choosing token distribution:** revnets with splits or automints can acknowledge the non-financial forms of participation which are often the subjects around which they revolve, but also can create scoped management burdens requiring more trust.
 
 There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
+
+#### Loans
+
+A revnet can be set to offes its $TOKEN holders loans from its asset base by holding the $TOKENs of the borrower as collateral. This allows for overcollateralized loans at a risk-free rate while also generating revenue, a win-win from the perspective of the revnet's $TOKEN cash out price. 
+
+This means $TOKEN holders are incentivized to prefer that their revnet loans out as much as possible, as each new loan permanently increases the cash out value of all $TOKENs. Every $TOKEN holder has equal access to loans at all times. 
+
+Loans can last a maximum of 10 years. A borrower can choose to pay over time at a rate that linearly increases as the loan duration approaches 10 years, choose to pre-pay for the loan at half the cost, or mixed – prepay for some duration and continue on paying full price if its still not paid off. This revenue goes to the revnet itself, issuing or buying back more $TOKENs for the borrower. 
+
+Loans from all revnets also incur a 2.5% $NANA fee and a 2.5% $REV fee, in addition to this fee charged to the revnet being borrowed from.
 
 ### 2.3 $REV
 
