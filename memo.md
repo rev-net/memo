@@ -1,4 +1,4 @@
-# Revnets | For Investors, Entrepreneurs, and Customers of Products and Services on the Open Internet
+# Revnets | For Investors, Entrepreneurs, and Customers of Products and Services Monetized on the Open Internet
 **Add value => grow revenue => become wealthy together.**
 
 > _This memo makes the case for revnets. It is delivered in 2 parts: the first part will quickly give context about the problem and how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
