@@ -358,8 +358,8 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 [^3] https://www.youtube.com/watch?v=D0ek2yv81Gk
 
 ---
-![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
 
+![image](https://github.com/user-attachments/assets/ac3db796-bdfc-4cb3-be41-78428ecbf586)
 
 ## Part 3 – Examples
 
@@ -380,3 +380,5 @@ The specifics of how each revnet will be tuned is a work in progress. Below are 
 
 ---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
+
+![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
