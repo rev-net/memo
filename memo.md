@@ -1,10 +1,10 @@
 # Revnets | For Investors, Entrepreneurs, and Customers of Products and Services Monetized on the Open Internet
 **Add value => grow revenue => become wealthy together.**
 
-> _This memo makes the case for revnets. It is delivered in 3 parts:
+> This memo makes the case for revnets. It is delivered in 3 parts:
 > 1. Provides context about the problem and how revnets are positioned to play a role in shaping the future.
 > 2. Includes specifics of how you are invited to participate.
-> 3. Illustrates with examples, case studies, and simulations._
+> 3. Illustrates with examples, case studies, and simulations.
 
 ## Contents
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
