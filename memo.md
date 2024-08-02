@@ -1,7 +1,7 @@
 # Revnets | For Investors, Entrepreneurs, and Customers of Products and Services Monetized on the Open Internet
 **Add value => grow revenue => become wealthy together.**
 
-> _This memo makes the case for revnets. It is delivered in 2 parts: the first part will quickly give context about the problem and how revnets are positioned to play a role in shaping the future. The second includes specifics of how you are invited to participate._
+> _This memo makes the case for revnets. It is delivered in 2 parts: the first part will quickly give context about the problem and how revnets are positioned to play a role in shaping the future, the second includes specifics of how you are invited to participate, and the third illustrates with examples, case studies, and simulations._
 
 ## Contents
 1. [Part 1 – What's the big deal](#part-1--whats-the-big-deal)
@@ -41,7 +41,7 @@ Today's crypto and media networks have a business model problem, rooted in the t
 
 Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
-Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance risks or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
+Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
@@ -206,7 +206,7 @@ There is no such thing as an apriori ideal tuning of a revnets rules, just as th
 ### 2.3 $REV
 
 RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
-- **Simple:** Its rules should be easy to think about, with occasional important shifts that feel ceremonial.
+- **Simple:** Its rules play out in 3 stages that should be easy to think about, with occasional important shifts that feel ceremonial.
 - **Self-owned growth:** It should make sure all participants who will sustain its growth – investors, builders, storytellers, fans, donors, fee-paying retail consumers – feel like it benefits them.
 - **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknowledges risks and contributions over time.
 - **Inefficient rent seeking:** It should have a reliable immunity instinct that efficiently protects and rewards productivity.
