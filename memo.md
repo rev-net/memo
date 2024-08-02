@@ -195,9 +195,9 @@ Revnets unfold in stages. Each stage specifies five rules that dictate everythin
 | **Cash out tax**   | How much does the revnet's next potential cash out increase each time a $TOKEN holder cashes out?                                                                                                                                                                                                                                                                       |
 
 It inherits some useful properties from Juicebox V4:
-- **AMM Liquidity:** If $TOKEN holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
+- **AMM Liquidity:** If $TOKEN holders add liquidity to an AMM[^2]and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
 - **Multicurrency:** A revnet can accept and hold any number of assets received as revenue, though it defines its $TOKEN price in one consistent currency. If it issues 1,000 $TOKENs per ETH and the revnet is paid some USDC, $TOKENs are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its $TOKEN holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's $TOKENs are backed by the assets it chooses to hold, inheriting their risks and opportunities. 
-- **Omni-chain:** Revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
+- **Omni-chain:** Revnets can grow to accept money on new EVM-compatible networks[^3] as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
 
 #### Tuning
 
@@ -370,7 +370,6 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 **Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
 
-[^1]: https://www.youtube.com/watch?v=D0ek2yv81Gk
 
 ---
 
@@ -397,3 +396,7 @@ The specifics of how each revnet will be tuned is a work in progress. Below are 
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
 
 ![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
+
+[^1]: https://www.youtube.com/watch?v=D0ek2yv81Gk
+[^2]: https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm
+[^3]: https://ethereum.org/en/developers/docs/evm/
