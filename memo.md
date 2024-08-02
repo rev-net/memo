@@ -172,7 +172,7 @@ In summary, they have the following relationships:
 - $REV's split is operated by RRG.
 - RRG makes and markets tools that help make $REV more successful.
 - RF1 mediates between dollar-based investments and positions in $REV and other renvet $TOKENs it believes in.
-- Juicebox DAO makes, markets, and secures the Juicebox v4 protocol with which all revnets are expressed.
+- Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
 - Each revnet pays a 2.5% cash out fee to $NANA – the fee-token of Juicebox V4 broadly held by Juicebox DAO.
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
