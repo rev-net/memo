@@ -60,14 +60,14 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 
 This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
 
-Blockchain agreements are the correct building block, but today's attempted solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
+Auto-enforceable blockchain agreements are the correct building block on which to build online legitimacy, but today's attempted business model solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
 
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
 - **Revenue sharing:** Tokenized guarantees that sales will be split between certain entities, but with no follow-on incentive for propagating network growth after fees have been extracted.
-- **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from pump and dumps.
+- **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from exhausting pump and dumps.
 - **Custom mechanisms:** Custom tokenization dynamic with a unique set of coded rules that attempt to fulfill a desired set of outcomes, but requiring everyone to learn a new jargon-filled system and trust that it is implemented bug free.
-- **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who benefited financially from the outcomes.
+- **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who directly benefited from the outcomes.
 
 We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
@@ -75,9 +75,9 @@ We think revnets might be it: A win-win-win growth engine for investors, builder
 
 Revnets resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
 
-Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, 'the next generation for markets, the next generation for securities, will be tokenization of securities.' We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
-We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, showcasing how revnets are:
+We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
 
 - **Versitile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
@@ -87,17 +87,25 @@ Projects will choose a revnet business structure when they prefer their outcome 
 
 ### 1.3 Anatomy of a revnet | Introduction
 
-Think of revnets like Bitcoin's halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, instead of the rule being periodic supply shocks that lead to a fixed supply of 21m coins over time, revnets enforce a certain other set of guarantees. 
+Think of revnets like a spicy Bitcoin halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, the rules dont involve proof-of-work with periodic supply shocks that lead to a fixed supply of 21m coins over time. Revnets enforce a certain other set of guarantees affecting inflows and outflows of money.
 
-A revnet's guarantees are most simply described as a digital vending machine, whose sequence of enforced rules – how much things cost, how to get the money out – are set when it is created, and can't be changed after. Each vending machine has its own unique token that it issues when someone pays it, and only releases the revenue it has earned when its tokens are returned. A revnet's tokens are always backed by the underlying value of the revenue used to issue them.
+Think of it as a digital vending machine:
+1. Receives dollar bills from a business's raised funds and future revenues.
+2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifcats (NFTs) in return.
+3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
 
-> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token – let's call it $REV – at a given price, say 1 ETH buys 1,000 $REV. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
+The revnet enforces three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
+– **$TOKEN price:** There is always a price at which its willing to issue new $TOKENs, but it will forward inbound funds to an AMM offering a better rate than the issuance rate. This price can be set to change over time at a customizable rate.
+- **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
+- **Cash out price:** There is always a price at which its willing to distribute its revenue when it receives its $TOKENs back. Each cash out increases the value of the next cash out, by a customizable rate. 
+
+> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $TOKEN. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to each of two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
 <img width="582" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 59 01" src="https://github.com/user-attachments/assets/6776a77f-acc1-4cdf-92b6-c963592af75d">
 <br>
 <br>
 
-> In order to get the 1 ETH back out, a $REV holder has to cash out, which incurs a tax. This means if (5) one of the builders wanted to cash out their 100 $REV right away, they would (6) get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
+> In order to get the 1 ETH back out, a $TOKEN holder has to cash out, which incurs a tax. This means if (5) one of the builders wanted to cash out their 100 $TOKEN right away, they would (6) get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
@@ -119,7 +127,9 @@ Revnets also inherit the best properties of Ethereum:
 - **Auditability**: Impossible to hide, simplifying diligence for all participants.
 - **Composability**: Easy, reliable, and open access to and from other smart contracts, including other revnets for interdependent accounting schemas.
 
-This was just the introduction. Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment.
+As a result of its properties, a revnet's $TOKENs are reliably backed by the underlying value of the revenue used to issue them. This makes $TOKENs great collateral for loans, which each revnet also offers, for a fee paid into itself.
+
+Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment. Part 3 follows with case studies and hypothetical scenarios.
 
 ### 1.4 Why now? Why us?
 
@@ -141,50 +151,44 @@ With revnets, the open internet will win _because_ it best serves creatives, bui
 
 We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win. Read Part 2 of this memo if you're leaning in.
 
-### 1.6 Examples
-
-In Part 2 we'll dig into how $REV is being tuned.
-
-Here are some other revnets we're helping launch this next year:
-
-| **Project** | **Description** | **Status** | **Link** |
-|-------------|-----------------|------------|----------|
-| $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
-| $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
-| $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
-| $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
-| $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
-| $CROPTOP    | Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. | Soon | [croptop.eth.sucks](https://croptop.eth.sucks) |
-| $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
-
 ---
 ![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
 
 ## Part 2 – What are the terms 
 
-There are a few entities at play:
+### Overview
+
+There are three entities at play:
 - **$REV:** The revnet.
 - **Revnet Reserch Group, LLC (RRG):** The split operator of the revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-Before diving into each, it's first important to understand the how revnets works under the hood. 
+It is important to also mention Juicebox DAO ($JBX), a community that has been instrumental to the research and development of revnets. 
 
-### 2.1 Anatomy of a revnet | Advanced
+In summary, they have the following relationships:
+- $REV's split is operated by RRG.
+- RRG makes and markets tools that help make $REV more successful.
+- RF1 mediates between dollar-based investments and positions in $REV and other renvet $TOKENs it believes in.
+- Juicebox DAO makes, markets, and secures the Juicebox v4 protocol with which all revnets are expressed.
+- Each revnet pays a 2.5% cash out fee to $NANA – the fee-token of Juicebox V4 broadly held by Juicebox DAO.
+- $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 
-Each revnet stage specifies five rules which dictate everything about how it operates:
+This means a revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
+
+Understanding the specifics first requires elaborating on a revnet's anatomy. Revnets unfold in stages. Each stage specifies five rules that dictate everything about how the revnet operates:
 
 | **Rule**      | **Description**                                                                                                                                                                                                                                                                                                                                                              |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | How long does the stage last? A revnet’s final stage lasts forever.                                                                                                                                                                                                                                                                                                          |
-| **Price**          | **Starting price:** How much does it cost to buy a single token when the stage begins? The payment's value stays within the revnet and can only be accessed by token holders who cash out. <br> **Price increase:** How frequently, and by how much, does the token's price increase within the stage?                                                                    |
-| **Split**          | What percentage of token issuance (and buybacks) are set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients on that list, changing how the split is allocated within the fixed percentage set for the stage.                                                                                    |
-| **Automint**       | How many tokens get minted to a list of recipients at the start of the stage? This functions like a "pre-mint" only accessible once the stage has started.                                                                                                                                                                                                                   |
-| **Cash out tax**   | How much does the revnet's next potential cash out value increase each time a token holder cashes out?                                                                                                                                                                                                                                                                       |
+| **$TOKEN Price**          | **Starting price:** How much does it cost to buy a single $TOKEN when the stage begins? The payment's value stays within the revnet and can only be accessed by $TOKEN holders who cash out. <br> **Price increase:** How frequently, and by how much, does the $TOKEN's price increase within the stage?                                                                    |
+| **Split**          | What percentage of $TOKEN issuance (and buybacks) are set aside for a list of recipients, and which address is the split operator? The split operator can add, remove, or modify recipients on that list, changing how the split is allocated within the fixed percentage set for the stage.                                                                                    |
+| **Automint**       | How many $TOKENs get minted to a list of recipients at the start of the stage? This functions like a "pre-mint" only accessible once the stage has started.                                                                                                                                                                                                                   |
+| **Cash out tax**   | How much does the revnet's next potential cash out increase each time a $TOKEN holder cashes out?                                                                                                                                                                                                                                                                       |
 
 It inherits some useful properties from Juicebox V4:
-- **AMM Liquidity:** If token holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new tokens. The revnet's split is applied to these buybacks as well.                 
-- **Multicurrency:** A revnet can accept and hold any number of tokens, though it defines its price in one consistent currency. If it issues 1,000 tokens per ETH and the revnet is paid some USDC, tokens are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its token holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's tokens are backed by the tokens it chooses to hold, inheriting their risks and opportunities. 
-- **Omni-chain:** Revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their tokens between chains. When they do, the revnet automatically moves funds to back those tokens to maintain those tokens' value. 
+- **AMM Liquidity:** If $TOKEN holders add liquidity to an [AMM](https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm) and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
+- **Multicurrency:** A revnet can accept and hold any number of assets received as revenue, though it defines its $TOKEN price in one consistent currency. If it issues 1,000 $TOKENs per ETH and the revnet is paid some USDC, $TOKENs are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its $TOKEN holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's $TOKENs are backed by the assets it chooses to hold, inheriting their risks and opportunities. 
+- **Omni-chain:** Revnets can grow to accept money on new [EVM-compatible networks](https://ethereum.org/en/developers/docs/evm/) as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
 
 Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still take strategy, risk, storytelling, and execution, amplifying those who follow through. 
 
@@ -347,7 +351,28 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 [^1]: Other recent examples: the gig economy, DAOs, and remote work.
 [^2]: [Uniswap](https://docs.uniswap.org/concepts/overview) raises funds and employs developers under the for-profit Uniswap Labs, but the Uniswap protocol is governed by $UNI token voting. The competing interests of token holders and Uniswap Labs have led to a number of controversial decisions over Uniswap's fee switch, source code licensing, and cross-chain deployments. Other projects have faced similar controversies when the interests of token holders and developers have diverged.
+[^3] https://www.youtube.com/watch?v=D0ek2yv81Gk
 
 ---
+![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
 
+
+## Part 3 – Examples
+
+Here are some other revnets we're helping launch this next year:
+
+| **Project** | **Description** | **Status** | **Link** |
+|-------------|-----------------|------------|----------|
+| $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
+| $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
+| $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
+| $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
+| $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
+| $CROPTOP    | Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. | Soon | [croptop.eth.sucks](https://croptop.eth.sucks) |
+| $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
+
+The specifics of how each revnet will be tuned is a work in progress. Below are some hypothetical scenarios:
+-blah 
+
+---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
