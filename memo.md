@@ -358,7 +358,7 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 [^3] https://www.youtube.com/watch?v=D0ek2yv81Gk
 
 ---
-![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
+![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
 
 
 ## Part 3 – Examples
