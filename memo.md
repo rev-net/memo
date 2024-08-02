@@ -48,7 +48,7 @@ Join us – a group of active Web3 builders with vivid stories to prove it – i
 
 Openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
-- **Scaled Participation:** Global community with vested interests accelerates growth.
+- **Scaled Participation:** Flexible and potentially global community with vested interests.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
 - **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
 
