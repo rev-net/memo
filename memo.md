@@ -35,7 +35,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
    - [2.6 Investor FAQ](#investor-faq)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-   - [Part 3 – What does it look like?](#part3--what-does-it-look-like)
+3. [Part 3 – What does it look like?](#part3--what-does-it-look-like)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
