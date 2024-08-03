@@ -4,17 +4,17 @@
 This memo makes the case for revnets. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
 2. **What are the terms?:** Includes specifics of how you are invited to participate.
-3. **How does it feel?:** Illustrates the opportunity with examples, case studies, and simulations.
+3. **What does it look like?:** Illustrates the opportunity with examples, case studies, and simulations.
 
 ## Contents
-1. [Part 1 – What's the big deal?](#part-1--the-big-deal)
+1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
    - [1.1 TLDR](#tldr)
    - [1.2 Overview](#overview)
    - [1.3 Anatomy of a revnet | Introduction](#anatomy-of-a-revnet-intro)
    - [1.4 Why now? Why us?](#why-now-why-us)
    - [1.5 Call to action](#call-to-action)
    - [1.6 Examples](#examples)
-2. [Part 2 – What are the terms?](#part-2--the-terms)
+2. [Part 2 – What are the terms?](#part-2--what-are-the-terms)
    - [2.1 Overview](#overview)
    - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
       - [Tuning](#tuning)
@@ -23,6 +23,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
+     - [Accessibility](#accessibility)
    - [2.4 RRG](#rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
@@ -34,7 +35,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
    - [2.6 Investor FAQ](#investor-faq)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-
+   - [Part 3 – What does it look like?](#part3--what-does-it-look-like)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -46,7 +47,7 @@ Today's crypto and media networks have a business model problem, rooted in the t
 
 Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
-Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indy media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
+Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
 Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
@@ -85,9 +86,9 @@ Importantly, revnets aren't just an esoteric tool for obscure internet subcultur
 
 We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
 
-- **Versitile:** This simple financial instrument has the power to support diverse applications.
+- **Versatile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
-- **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competative business landscape. 
+- **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competitive business landscape. 
 
 Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin and Ethereum.
 
@@ -97,7 +98,7 @@ Think of revnets like a spicy Bitcoin halvening rule. Similar to Bitcoin, revnet
 
 Think of it as a digital vending machine:
 1. Receives dollar bills from a business's raised funds and future revenues.
-2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifcats (NFTs) in return.
+2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifacts (NFTs) in return.
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
 
 Revnets enforces three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
@@ -135,7 +136,7 @@ Revnets also inherit the best properties of Ethereum:
 
 As a result of its properties, a revnet's $TOKENs are reliably backed by the underlying value of the revenue used to issue them. This makes $TOKENs great collateral for loans, which each revnet also offers, for a fee paid into itself.
 
-Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment. Part 3 follows with case studies and hypothetical scenarios.
+Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment. Part 3 follows with examples, case studies, and hypothetical scenarios.
 
 ### 1.4 Why now? Why us?
 
@@ -166,7 +167,7 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 There are three entities at play:
 - **$REV:** The revnet.
-- **Revnet Reserch Group, LLC (RRG):** The split operator of the revnet to start.
+- **Revnet Research Group, LLC (RRG):** The split operator of the revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
 It is important to also mention Juicebox DAO ($JBX), a community that has been instrumental to the research and development of revnets. 
@@ -212,7 +213,7 @@ There is no such thing as an apriori ideal tuning of a revnets rules, just as th
 
 #### Loans
 
-A revnet can be set to offes its $TOKEN holders loans from its asset base by holding the $TOKENs of the borrower as collateral. This allows for overcollateralized loans at a risk-free rate while also generating revenue, a win-win from the perspective of the revnet's $TOKEN cash out price. 
+A revnet can be set to offer its $TOKEN holders loans from its asset base by holding the $TOKENs of the borrower as collateral. This allows for overcollateralized loans at a risk-free rate while also generating revenue, a win-win from the perspective of the revnet's $TOKEN cash out price. 
 
 This means $TOKEN holders are incentivized to prefer that their revnet loans out as much as possible, as each new loan permanently increases the cash out value of all $TOKENs. Every $TOKEN holder has equal access to loans at all times. 
 
@@ -271,7 +272,7 @@ _No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashin
 
 > Prospectively, the 10% split will always be burnt.
 
-#### Accessiblity
+#### Accessibility
 
 Anyone can pay into $REV at any time. It also is hardwired to receive a 2.5% network fee whenever someone cashes out from any revnet – thousands of digital vending machines plugged into the $REV vending machine. Both one-off payments and fees are treated the same and used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
