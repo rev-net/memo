@@ -36,6 +36,12 @@ This memo makes the case for revnets. It is delivered in 3 parts:
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 3. [Part 3 – What does it look like?](#part3--what-does-it-look-like)
+   - [3.1 Overview](#overview)
+   - [3.2 Hypotheticals](#hypotheticals)
+      - [Simple](#simple)
+      - [Creative](#creative)
+   - [3.3 Case studies](#case-studies)
+   - [3.4 Real world examples](#real-world-examples)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -117,7 +123,7 @@ Revnets enforces three main customizable rules that can be preset to change over
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
 <br>
-
+ 
 This means revnets are:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds are impossible.
@@ -210,6 +216,17 @@ Each revnet should consider its own unique circumstances when navigating the fol
 - **Choosing token distribution:** revnets with splits or automints can acknowledge the non-financial forms of participation which are often the subjects around which they revolve, but also can create scoped management burdens requiring more trust.
 
 There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
+
+A few effects to specifically note:
+
+1. The scheduled $TOKEN price increases can cause exponential decay in issuance potential:
+<img width="1657" alt="image" src="https://github.com/user-attachments/assets/5632ca24-96ab-49f8-800c-47ac3be04481">
+
+2. A cash out tax (`r`) effects the available reclaimable amount from the revnet at any given time on a curve depending only on outstanding token supply and total funds in the revnet (`reclaimable amount = cashed out $TOKEN amount * revnet balance / total $TOKEN supply * (r + cashed out $TOKEN amount * (1-r) / total $TOKEN supply`):
+<img width="1443" alt="image" src="https://github.com/user-attachments/assets/e2c4d2cb-5eb9-457d-a6a8-edbd40bbb03f">
+
+3. The $TOKEN price and the cash out price together form a price ceiling and a price floor that an AMM can service between:
+<img width="1016" alt="image" src="https://github.com/user-attachments/assets/71c3179c-2d25-4fd6-9c59-26de248022b6">
 
 #### Loans
 
@@ -376,7 +393,72 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 ![image](https://github.com/user-attachments/assets/ac3db796-bdfc-4cb3-be41-78428ecbf586)
 
-## Part 3 – Examples
+## Part 3 – What does it look like?
+
+### Overview
+
+### Hypotheticals
+
+A revnet can be simple, or have dynamism:
+
+#### Single stage
+
+Imagine a Automated Market Maker named Shwap, built by Shwap DAO, that charges a 0.3% fee on trades to a $SHWAP revnet:
+
+There's only one stage, with slightly increasing prices for new tokens to reward earlier fee payers.
+
+**Duration:** forever.
+**$SHWAP price:** 0.001 ETH per $SHWAP, increasing 5% every month.
+**Split:** 50% of $SHWAP issuance and buybacks, operated by a Shwap DAO.
+**Cash out tax:** medium (0.5), prefering those who cash out later. 
+
+As fees come in, fee payers receive $SHWAP that gives them access to either:
+- a small rebate from immediately cashing out.
+- a loan from the revnet in exchange for $SCHWAP that is forfeited if the loan is not paid back.
+- an option to cash out later, meanwhile benefitting from the network's growth, risk-free.
+
+Shwap DAO can use its $SCHWAP balance similarly, either:
+- storing its $SHWAP as a balance sheet asset.
+- distributing its $SHWAP to pay for work.
+- borrowing against its $SCHWAP to pay for work or make other investments.
+
+#### Multi stage
+
+Imagine an AI imaging startup named Bot LLC that charges 0.001 ETH for 200 queries to a $BOT revnet:
+
+The first stage is done pre-product and meant to raise funds non-commitally for 90 days; refunds are available anytime during the stage:
+
+**Duration:** 90 days.
+**$BOT price:** 0.001 ETH per $BOT.
+**Split:** 0%.
+**Cash out tax:** none (0), allowing full refunds. 
+
+The second stage automints $BOT to the team, valuing their pre-product work at 50 ETH. No additional payments are allowed for a year:
+
+**Duration:** 1 year.
+**$BOT price:** 0. 
+**Split:** 0%.
+**Automint:** 50,000 $BOT to Bot LLC.
+**Cash out tax:** low (0.2), slightly prefering those who cash out later. 
+
+The third and stage resumes $BOT issuance at a much more expensive cost, using it to allow new investors and rewarding those contributing to revenue:
+
+**Duration:** forever.
+**$BOT price:** 0.1 ETH per $BOT, decreasing 10% every 3 months.
+**Split:** 20% of $SHWAP issuance and buybacks, operated by a Bot LLC.
+**Cash out tax:** low (0.2), slightly prefering those who cash out later. 
+
+### Edge cases
+
+#### Low a activity
+
+<A revnet dissolves organically if low usage: the team launches a new revnet and rewards previous participants either with splits or automints. if the team abandons a project, the community can take it up>
+
+#### Fork
+
+<A faction of a revnet's holders can pool together to spread the cash out tax between themselves.>
+
+### Real world examples
 
 Here are some other revnets we're helping launch this next year:
 
