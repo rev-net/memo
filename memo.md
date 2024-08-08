@@ -36,11 +36,6 @@ This memo makes the case for revnets. It is delivered in 3 parts:
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 3. [Part 3 – What does it look like?](#part3--what-does-it-look-like)
-   - [3.1 Overview](#overview)
-   - [3.2 Hypotheticals](#hypotheticals)
-      - [Simple](#simple)
-      - [Creative](#creative)
-   - [3.3 Case studies](#case-studies)
    - [3.4 Real world examples](#real-world-examples)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
@@ -236,7 +231,7 @@ This means $TOKEN holders are incentivized to prefer that their revnet loans out
 
 Loans can last a maximum of 10 years. A borrower can choose to pay over time at a rate that linearly increases as the loan duration approaches 10 years, choose to pre-pay for the loan at half the cost, or mixed – prepay for some duration and continue on paying full price if its still not paid off. This revenue goes to the revnet itself, issuing or buying back more $TOKENs for the borrower. 
 
-Loans from all revnets also incur a 2.5% $NANA fee and a 2.5% $REV fee, in addition to this fee charged to the revnet being borrowed from.
+Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addition to this fee charged to the revnet being borrowed from.
 
 ### 2.3 $REV
 
@@ -363,6 +358,7 @@ The marketing todos include:
 
 There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
+More about RF1 soon.
 <!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
@@ -395,69 +391,6 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 ## Part 3 – What does it look like?
 
-### Overview
-
-### Hypotheticals
-
-A revnet can be simple, or have dynamism:
-
-#### Single stage
-
-Imagine a Automated Market Maker named Shwap, built by Shwap DAO, that charges a 0.3% fee on trades to a $SHWAP revnet:
-
-There's only one stage, with slightly increasing prices for new tokens to reward earlier fee payers.
-
-**Duration:** forever.
-**$SHWAP price:** 0.001 ETH per $SHWAP, increasing 5% every month.
-**Split:** 50% of $SHWAP issuance and buybacks, operated by a Shwap DAO.
-**Cash out tax:** medium (0.5), prefering those who cash out later. 
-
-As fees come in, fee payers receive $SHWAP that gives them access to either:
-- a small rebate from immediately cashing out.
-- a loan from the revnet in exchange for $SCHWAP that is forfeited if the loan is not paid back.
-- an option to cash out later, meanwhile benefitting from the network's growth, risk-free.
-
-Shwap DAO can use its $SCHWAP balance similarly, either:
-- storing its $SHWAP as a balance sheet asset.
-- distributing its $SHWAP to pay for work.
-- borrowing against its $SCHWAP to pay for work or make other investments.
-
-#### Multi stage
-
-Imagine an AI imaging startup named Bot LLC that charges 0.001 ETH for 200 queries to a $BOT revnet:
-
-The first stage is done pre-product and meant to raise funds non-commitally for 90 days; refunds are available anytime during the stage:
-
-**Duration:** 90 days.
-**$BOT price:** 0.001 ETH per $BOT.
-**Split:** 0%.
-**Cash out tax:** none (0), allowing full refunds. 
-
-The second stage automints $BOT to the team, valuing their pre-product work at 50 ETH. No additional payments are allowed for a year:
-
-**Duration:** 1 year.
-**$BOT price:** 0. 
-**Split:** 0%.
-**Automint:** 50,000 $BOT to Bot LLC.
-**Cash out tax:** low (0.2), slightly prefering those who cash out later. 
-
-The third and stage resumes $BOT issuance at a much more expensive cost, using it to allow new investors and rewarding those contributing to revenue:
-
-**Duration:** forever.
-**$BOT price:** 0.1 ETH per $BOT, decreasing 10% every 3 months.
-**Split:** 20% of $SHWAP issuance and buybacks, operated by a Bot LLC.
-**Cash out tax:** low (0.2), slightly prefering those who cash out later. 
-
-### Edge cases
-
-#### Low a activity
-
-<A revnet dissolves organically if low usage: the team launches a new revnet and rewards previous participants either with splits or automints. if the team abandons a project, the community can take it up>
-
-#### Fork
-
-<A faction of a revnet's holders can pool together to spread the cash out tax between themselves.>
-
 ### Real world examples
 
 Here are some other revnets we're helping launch this next year:
@@ -473,7 +406,8 @@ Here are some other revnets we're helping launch this next year:
 | $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
 
 The specifics of how each revnet will be tuned is a work in progress. Below are some hypothetical scenarios:
--blah 
+
+ _coming soon_
 
 ---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
