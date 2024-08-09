@@ -36,7 +36,13 @@ This memo makes the case for revnets. It is delivered in 3 parts:
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 3. [Part 3 – What does it look like?](#part3--what-does-it-look-like)
-   - [3.4 Real world examples](#real-world-examples)
+   - [3.1 Overview](#overview)
+   - [3.2 $NANA](#nana)
+   - [3.3 $BANNY](#banny)
+   - [3.4 $SUCKS](#sucks)
+   - [3.5 $CROPTOP](#croptop)
+   - [3.6 $DEFIFA](#defifa)
+   - [3.7 $NANCE](#nance)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -391,23 +397,83 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 ## Part 3 – What does it look like?
 
-### Real world examples
+### 3.1 Overview
 
-Here are some other revnets we're helping launch this next year:
+There are three categories of revnets that we foresee in the near term:
+- **Direct sales:** These revnets' tokens are sought directly from the usage of applications that take fees, or from the sales of goods and services. These can be onchain applications which hardcode and automate the routing of funds to the revnet, or offchain applications which rely on an intermediary entity to manage engagement with the revnet and token distribution on users' behalf.
+- **Subscription fees:** These revnets' tokens are sought because they permit access to certain functionalities onchain or offchain.
+- **Memetic:** These revnets' tokens are sought because holders believe in the network's capacity to aggregate attention and cultural relevance, or because the tokens serve a secondary purpose like signaling loyalty.
 
-| **Project** | **Description** | **Status** | **Link** |
-|-------------|-----------------|------------|----------|
-| $NANA       | Captures revenues from the omnichain Juicebox v4's 2.5% fee. | Very soon | [nana.eth.sucks](https://nana.eth.sucks) |
-| $BANNY      | Captures revenues from Bannyverse mints. | Very soon | [banny.eth.sucks](https://banny.eth.sucks) |
-| $NANCE      | Builds the open-source Nance governance platform for tokenized communities. | Soon | [nance.app](https://nance.app) |
-| $SUCKS      | Captures memetic energy from the distribution of `.eth.sucks` websites. | Soon | [eth.sucks](https://eth.sucks) |
-| $DEFIFA     | Captures revenues from Defifa prediction games. | Soon | [defifa.net](https://defifa.net) |
-| $CROPTOP    | Collects a 2.5% fee on mints from Croptop sites. Croptop is a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. | Soon | [croptop.eth.sucks](https://croptop.eth.sucks) |
-| $SPHINX     | Builds the open-source multichain devops platform Sphinx. JuiceboxDAO uses Sphinx to manage contract deployments. | Soon | N/A |
+A revnet can belong to any number of these categories, and grow into others over time as new ideas emerge and market preferences shift. There are likely other strategies for using revnets that we've yet to explore in depth.
 
-The specifics of how each revnet will be tuned is a work in progress. Below are some hypothetical scenarios:
+Below are some other revnets we're helping launch this next year within each of these categories:
 
- _coming soon_
+### 3.2 $NANA
+|     |       |
+|------|--------|
+| **Site** | [https://nana.eth.sucks](https://bananapus.eth.sucks) |
+| **Category**  |  Direct sales. |
+| **Value Prop**  |  Captures revenues from the omnichain Juicebox V4's 2.5% fee. |
+| **$NANA distribution** | JuiceboxDAO will start out with a large initial supply. JuiceboxDAO will operate the split and retain a percentage of supply as $NANA tokens are issued or bought back. |
+| **Big Bet** | As the omnichain Juicebox V4 ecosystem comes online and growth moves to it from V3, $NANA will benefit increasingly from fee income across all chains. The protocol takes a 2.5% fee from payouts and redeemed tokens of all projects. |
+| **Edge** | If open source protocols with fees outcompete free alternatives and if governance is a burden to productivity, $NANA and JuiceboxDAO are uniquely positioned to capture revenue that regeneratively grows the wealth of its open source financial system. |
+| **Risks** | Unlike V3, V4 has no TVL and has not facilitated high volume transactions. |
+
+### 3.3 $BANNY
+|     |      |
+|------|--------|
+| **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
+| **Category**  |  Direct sales. |
+| **Value Prop**  |  Captures revenues from [Bannyverse mints](https://mint.banny.eth.sucks). |
+| **$BANNY distribution** | Banana Box Office Entertainment (BBO) & JuiceboxDAO will each start out with some initial supply. BBO will retain a percentage of supply as $BANNY are issued or bought back. |
+| **Big Bet** | Banny's relatability and bluntness can make him a modern internet icon, and the production team is ripe to make it happen. If Banny successfully makes modern tech culture's ambitions and hypocrisy relatable through the propagation of stories, assets, and values, the Bannyverse can accompany the growth of the post-platform internet. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
+| **Edge** | If character-based storytelling is key to relatability, $BANNY and BBO are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
+| **Risks** | There's a sea of content out there, it'll likely take persistence and increasingly better writing to break through. |
+
+### 3.4 $SUCKS
+|     |      |
+|------|--------|
+| **Site** | [https://eth.sucks](https://eth.sucks) |
+| **Category**  |  Memetic. |
+| **Value Prop**  |  Captures memetic energy from the distribution of .eth.sucks links. |
+| **$SUCKS distribution** | TBD. |
+| **Big Bet** | IPFS-based peer-to-peer websites are more resilient than centralized alternatives, making them an ideal fit to interact with permissionless smart contracts. These websites can be surfaced from any number of proxy links (eth.limo, eth.sucks, etc), but projects will usually commit to identifying with one such link in their marketing collateral. By choosing eth.sucks, they are propagating the $SUCKS meme, which in turn supports the proxy infrastructure's optimization and maintenance. |
+| **Edge** | If links are where the innovation rubber meets the online distribution road, $SUCKS and the community supporting it are uniquely positioned to capture and recycle the memetic energy contained in domain sharing, while promoting decentralized values in a traditionally centralized value-capture bottleneck. |
+| **Risks** | Maintaining an ENS proxy can be time consuming, expensive, and hard to automate. |
+
+
+### 3.5 $CROPTOP
+|     |      |
+|------|--------|
+| **Site** | [https://croptop.eth.sucks](https://croptop.eth.sucks) |
+| **Category**  |  Direct sales. |
+| **Value Prop**  |  Collects a 2.5% fee from mints made from Croptop templates, a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. |
+| **Big Bet** | In order to be widely adopted, IPFS-based peer-to-peer websites need to be easy to deploy and easy to attach to ENS names. The croptop Mac app fulfills this ease. <br><br>As the template is increasingly used to onboard folks to the decentralized website stack and serve their content, $CROPTOP will benefit from a 2.5% fee taken on all mints originating from it. |
+| **Edge** | If content propegation benefits from being collectable, $CROPTOP and the community supporting it are uniquely positioned to remove barriers from publishing and minting across any number of blockchains. |
+| **Risks** | Croptop templates can be adapted and served as folks wish, there is no way to enforce the fee at a programmatic level. |
+
+
+### 3.6 $DEFIFA
+|     |      |
+|------|--------|
+| **Site** | [https://defifa.eth.sucks](https://defifa.eth.sucks) |
+| **Category**  |  Direct sales. |
+| **Value Prop**  |  Captures revenues from defifa prediction games. |
+| **$DEFIFA Distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
+| **Big Bet** | People enjoy playing games, making predictions, and being a part of cultural moments. Defifa allows prediction games to resolve based only on community engagement, no oracles necessary. The lack of a need for oracles means games can be created around any cultural moment at any time. Games can then be used as a fundraising or revenue component of other networks, adding dimension and interactivity to existing networks. <br><br>As more games are played, $DEFIFA will benefit from a 2.5% fee taken on all paid out funds originating from them.   |
+| **Edge** | If the need for oracles reduce the landscape of playable prediction games onchain, $DEFIFA and the Defifa Research Group are uniquely positioned to open up new niche prediction markets for communities to play that benefit players involved. |
+| **Risks** | Defifa games lean on social consensus to determine outcomes. Games resolve based on the outcome agreed on by players, not necessary the actual real world outcome. Incentives are designed to align these two outcomes, but there are no guarantees.   |
+
+### 3.7 $NANCE
+|     |      |
+|------|--------|
+| **Site** | [https://nance.app](https://nance.app) |
+| **Category**  |  Subscription fees. |
+| **Value Prop**  |  Brokers access to the nance service. |
+| **$NANCE Distribution** | TBD. |
+| **Big Bet** | Onchain organizations often rely on governance processes to make decisions regarding shared resources. Nance offers a unique take on governance that encourages scheduled deliberation and voting periods, adding structure that standardizes expectations therefore minimizing risks of neglect or abuse. <br><br>As more organizations use Nance to facilitate their governance process, $NANCE will benefit from a subscription fee that keeps each organization's instance of the service running.   |
+| **Edge** | If tokenized governance continues to be a sought-after coordination exercise for online groups, Nance has a strong track record of helping organizations manage millions of dollars and is uniquely positioned to guide folks towards best practices that encourage participation while avoiding pitfalls of power struggle. |
+| **Risks** | Nance runs a server-based service, using crypto only for its users' data backups and for its own business model operations. This interaction of web2 and web3 is novel and lacks best practices, we're making intricate decisions involving tradeoffs as we develop tools such as Nance and revnets.     |
 
 ---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
