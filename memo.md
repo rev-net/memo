@@ -411,7 +411,6 @@ There are likely other strategies for using revnets that we've yet to explore in
 Below are some other revnets we're helping launch this next year within each of these categories:
 
 ### 3.2 $NANA
-|     |       |
 |------|--------|
 | **Site** | [https://nana.eth.sucks](https://bananapus.eth.sucks) |
 | **Category**  |  Direct sales. |
@@ -422,7 +421,6 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | Unlike V3, V4 has no TVL and has not facilitated high volume transactions. |
 
 ### 3.3 $BANNY
-|     |      |
 |------|--------|
 | **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
 | **Category**  |  Direct sales. |
@@ -433,7 +431,6 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | There's a sea of content out there, it'll likely take persistence and increasingly better writing to break through. |
 
 ### 3.4 $SUCKS
-|     |      |
 |------|--------|
 | **Site** | [https://eth.sucks](https://eth.sucks) |
 | **Category**  |  Memetic. |
@@ -445,7 +442,6 @@ Below are some other revnets we're helping launch this next year within each of 
 
 
 ### 3.5 $CROPTOP
-|     |      |
 |------|--------|
 | **Site** | [https://croptop.eth.sucks](https://croptop.eth.sucks) |
 | **Category**  |  Direct sales. |
@@ -456,7 +452,6 @@ Below are some other revnets we're helping launch this next year within each of 
 
 
 ### 3.6 $DEFIFA
-|     |      |
 |------|--------|
 | **Site** | [https://defifa.net](https://defifa.net) |
 | **Category**  |  Direct sales. |
@@ -467,12 +462,11 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | Defifa games lean on social consensus to determine outcomes. Games resolve based on the outcome agreed on by players, not necessary the actual real world outcome. Incentives are designed to align these two outcomes, but there are no guarantees.   |
 
 ### 3.7 $NANCE
-|     |      |
 |------|--------|
 | **Site** | [https://nance.app](https://nance.app) |
 | **Category**  |  Subscription fees. |
 | **Value Prop**  |  Brokers access to the nance service. |
-| **$NANCE Distribution** | TBD. |
+| **$NANCE distribution** | TBD. |
 | **Big Bet** | Onchain organizations often rely on governance processes to make decisions regarding shared resources. Nance offers a unique take on governance that encourages scheduled deliberation and voting periods, adding structure that standardizes expectations therefore minimizing risks of neglect or abuse. <br><br>As more organizations use Nance to facilitate their governance process, $NANCE will benefit from a subscription fee that keeps each organization's instance of the service running.   |
 | **Edge** | If tokenized governance continues to be a sought-after coordination exercise for online groups, Nance has a strong track record of helping organizations manage millions of dollars and is uniquely positioned to guide folks towards best practices that encourage participation while avoiding pitfalls of power struggle. |
 | **Risks** | Nance runs a server-based service, using crypto only for its users' data backups and for its own business model operations. This interaction of web2 and web3 is novel and lacks best practices, we're making intricate decisions involving tradeoffs as we develop tools such as Nance and revnets.     |
