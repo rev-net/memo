@@ -404,7 +404,9 @@ There are three categories of revnets that we foresee in the near term:
 - **Subscription fees:** These revnets' tokens are sought because they permit access to certain functionalities onchain or offchain.
 - **Memetic:** These revnets' tokens are sought because holders believe in the network's capacity to aggregate attention and cultural relevance, or because the tokens serve a secondary purpose like signaling loyalty.
 
-A revnet can belong to any number of these categories, and grow into others over time as new ideas emerge and market preferences shift. There are likely other strategies for using revnets that we've yet to explore in depth.
+A revnet can belong to any number of these categories, and grow into others over time as new ideas emerge and market preferences shift. $REV, for example, is best described within the "direct sales" category because it benefits from fees taken directly within the smart contract routines. 
+
+There are likely other strategies for using revnets that we've yet to explore in depth.
 
 Below are some other revnets we're helping launch this next year within each of these categories:
 
@@ -456,7 +458,7 @@ Below are some other revnets we're helping launch this next year within each of 
 ### 3.6 $DEFIFA
 |     |      |
 |------|--------|
-| **Site** | [https://defifa.eth.sucks](https://defifa.eth.sucks) |
+| **Site** | [https://defifa.net](https://defifa.net) |
 | **Category**  |  Direct sales. |
 | **Value Prop**  |  Captures revenues from defifa prediction games. |
 | **$DEFIFA Distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
