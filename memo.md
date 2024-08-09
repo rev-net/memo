@@ -4,7 +4,7 @@
 This memo makes the case for revnets. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
 2. **What are the terms?:** Includes specifics of how you are invited to participate.
-3. **What does it look like?:** Illustrates the opportunity with examples and case studies.
+3. **What do they look like?:** Illustrates the opportunity with examples and case studies.
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
@@ -35,7 +35,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
    - [2.6 Investor FAQ](#investor-faq)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-3. [Part 3 – What does it look like?](#part3--what-does-it-look-like)
+3. [Part 3 – What do they look like?](#part3--what-do-they-look-like)
    - [3.1 Overview](#overview)
    - [3.2 $NANA](#nana)
    - [3.3 $BANNY](#banny)
@@ -395,7 +395,7 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 ![image](https://github.com/user-attachments/assets/ac3db796-bdfc-4cb3-be41-78428ecbf586)
 
-## Part 3 – What does it look like?
+## Part 3 – What do they look like?
 
 ### 3.1 Overview
 
