@@ -176,7 +176,7 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 ### 2.1 Overview
 
-There are three entities at play:
+Investors interested in getting involved in the promise of revnets should know there are three core entities at play:
 - **$REV:** A revnet.
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
@@ -192,9 +192,11 @@ In summary, they have the following relationships:
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
-Understanding the specific terms of the gameplan first requires elaborating on a revnet's anatomy. 
+This section will go through these specifics in detail.
 
 ### 2.2 Anatomy of a revnet | Advanced
+
+Understanding the terms of the gameplan first requires elaborating on a revnet's anatomy. 
 
 Revnets unfold in stages. Each stage specifies five rules that dictate everything about how the revnet operates:
 
