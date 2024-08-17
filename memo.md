@@ -46,7 +46,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
-## Part 1 – What's the big deal
+## Part 1 – What's the big deal?
 
 ### 1.1 TLDR
 
@@ -169,7 +169,7 @@ We're calling on partners who believe in this revenue-forward version of the ope
 ---
 ![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
 
-## Part 2 – What are the terms 
+## Part 2 – What are the terms?
 
 ### 2.1 Overview
 
