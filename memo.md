@@ -293,7 +293,7 @@ _No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashin
 
 #### Accessibility
 
-Anyone can pay into $REV at any time. It also is hardwired to receive a 2.5% network fee whenever someone cashes out from any revnet – thousands of digital vending machines plugged into the $REV vending machine. Both one-off payments and fees are treated the same and used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
+Anyone can pay into $REV at any time. It is also hardwired to receive a 2.5% network fee whenever someone cashes out from any revnet – thousands of digital vending machines plugged into the $REV vending machine. Both one-off payments and fees are treated the same and used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. 
 
 We want to especially encourage investors to join who see potential use for revnets in other areas of their portfolios, and who can help the adoption of the revnet standard. 
 
