@@ -408,7 +408,7 @@ There are three categories of revnet businesses that we foresee in the near term
 We expect these business models to be initially used by three main categories of organizations:
 - **Onchain:** Revnets with zero split percentages, or split percentages going to multisigs and onchain DAOs. 
 - **Campaign:** Revnets with a near-100% split percentage, useful for ongoing fundraises that prefer access to all the capital.
-- **Hybrid:** Revnets with a split percent operated by a for-profit or non-profit corporation or association.
+- **Hybrid:** Revnets with a split percent somewhere in the middle operated by a for-profit or non-profit corporation or association.
 
 A revnet can belong to any number of these categories, and grow into others over time as new ideas emerge and market preferences shift. $REV, for example, is best described within the "direct sales" category because it benefits from fees taken directly within the smart contract routines. 
 
