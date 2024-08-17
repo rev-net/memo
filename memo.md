@@ -220,7 +220,7 @@ Each revnet should consider its own unique circumstances when navigating the fol
 
 There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
 
-A few effects to specifically note:
+Three effects to visually note:
 
 1. The scheduled $TOKEN price increases can cause exponential decay in issuance potential:
 <img width="1657" alt="image" src="https://github.com/user-attachments/assets/5632ca24-96ab-49f8-800c-47ac3be04481">
