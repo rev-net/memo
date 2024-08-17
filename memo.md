@@ -104,8 +104,8 @@ Projects will choose a revnet business structure when they prefer their outcome 
 
 Think of revnets like a spicy Bitcoin halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, the rules dont involve proof-of-work with periodic supply shocks that lead to a fixed supply of 21m coins over time. Revnets enforce a certain other set of guarantees affecting inflows and outflows of money.
 
-Think of it as a digital vending machine:
-1. Receives dollar bills from a business's raised funds and future revenues.
+These guarentees can be visualized as a digital vending machine that:
+1. Receives dollar bills from a business's raised funds and revenues.
 2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifacts (NFTs) in return.
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
 
@@ -125,7 +125,7 @@ Revnets enforces three main customizable rules that can be preset to change over
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
 <br>
- 
+
 This means revnets are:
 
 - **Governance-free**: Governance inefficiencies and takeovers of funds are impossible.
@@ -154,17 +154,17 @@ In this era of crypto and media networks that innovate on internet-native concep
 
 We've also seen the negligence and gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using them to progress positive-sum game-theoretic financial applications like revnets is non-trivial, while using them to manipulate the public with hyped-up zero-sum Ponzi schemes is easy and unfortunately all too common.
 
-Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects to hit the gas with confidence and without incumbent tradeoffs. 
+Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects – many of our own – to hit the gas with confidence and without incumbent tradeoffs. 
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
 ### 1.5 Call to action
 
-Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives, meanwhile helping incumbent businesses transition to the more powerful open internet.
+Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives, meanwhile helping incumbent businesses – for-profit and non-profit corporations and associations – transition to the more powerful open internet.
 
-With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
+With revnets, the open internet will outcompete private alternatives _because_ it best serves creatives, builders, investors, and consumers alike.
 
-We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win. Read Part 2 of this memo if you're leaning in.
+We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win, the more the open internet wins. Read Part 2 of this memo if you're leaning in.
 
 ---
 ![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
@@ -181,7 +181,7 @@ There are three entities at play:
 It is important to also mention Juicebox DAO ($JBX), a community that has been instrumental to the research and development of revnets. 
 
 In summary, they have the following relationships:
-- $REV's split is operated by RRG.
+- $REV's split is operated by RRG, described below.
 - RRG makes, secures, and markets tools that help make $REV more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other renvet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
@@ -189,7 +189,7 @@ In summary, they have the following relationships:
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
-Understanding the specific terms of the plan first requires elaborating on a revnet's anatomy. 
+Understanding the specific terms of the gameplan first requires elaborating on a revnet's anatomy. 
 
 ### 2.2 Anatomy of a revnet | Advanced
 
@@ -242,7 +242,7 @@ Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addit
 
 ### 2.3 $REV
 
-RRG is setting up $REV's revnet rules in hopes of emphasizing the following principles: 
+RRG is setting up $REV's revnet rules attempting to emphasize the following principles: 
 - **Simple:** Its rules play out in 3 stages that should be easy to think about, with occasional important shifts that feel ceremonial.
 - **Self-owned growth:** It should make sure all participants who will sustain its growth – investors, builders, storytellers, fans, donors, fee-paying retail consumers – feel like it benefits them.
 - **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknowledges risks and contributions over time.
@@ -251,43 +251,43 @@ RRG is setting up $REV's revnet rules in hopes of emphasizing the following prin
 
 #### $REV stage 1
 
-_Price doubles every 90 days. 40% of issuance and buybacks to Revnet Research Group. Automint an initial supply to acknowledge pre-net work. Cashing out leaves money on the table._
+_Price increases by 50% every 90 days. 40% of issuance and buybacks to Revnet Research Group. Automint an initial supply to acknowledge pre-net work. Cashing out leaves some money on the table._
 
 | **Rule**      | **Value**                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | 720 days (~2 years).                                                                                                                                                                                                                                      |
 | **Initial price**  | 1 $REV costs 0.001 ETH.                                                                                                                                                                                                                                   |
-| **Price increase** | Doubles every 90 days.                                                                                                                                                                                                                                    |
+| **Price increase** | Increase by 50% every 90 days.                                                                                                                                                                                                                            |
 | **Split**          | 40% split of issuance and buybacks operated by `rrg.eth`.  |                                                                                                                   
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
-| **Cash out tax**   | Medium-high (0.6). The network consolidates when holders cash out.                                                                                                                                                                                         |
+| **Cash out tax**   | Medium (0.5). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
 > RRG can shape the split distribution within the hardwired 40% over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will have 27% routed to `rrg.eth`, and 13% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
 
 ##### $REV stage 2
 
-_Starts 2 years after the revnet is deployed. Price continues doubling every 180 days. 40% of issuance and buybacks continue to Revnet Research Group. Automint a vested supply to acknowledge pre-net work. Cashing out still leaves money on the table._
+_Starts 2 years after the revnet is deployed. Price continues increase by 50% every 180 days. 40% of issuance and buybacks continue to Revnet Research Group. Automint a vested supply to acknowledge pre-net work. Cashing out still leaves some money on the table._
 
 | **Rule**      | **Value**                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | 6,480 days. (~18 years)                                                                                                                                                                                                                                   |
 | **Initial price**  | Where stage 1 left off.                                                                                                                                                                                                                                    |
-| **Price increase** | Doubling every 180 days.         |
+| **Price increase** | Increase by 50% every 180 days.         |
 | **Split**          | No change. 40% of issuance and buybacks operated by `rrg.eth`.                                                                                                                    |
 | **Automint**       | 127,000 $REV to `rrg.eth` for pre-net work.           |
-| **Cash out tax**   | No change. Medium-high (0.6).                                                                                                                                                                                                                              |
+| **Cash out tax**   | No change. Medium (0.5).                                                                                                                                                                                                                              |
 
 > Prospectively, the 40% split will be have 8% burnt, 20% routed to `rrg.eth`, 12% to `dao.jbx.eth`. The 127,000 automint will have 35,000 sent to `dao.jbx.eth`, 20,000 to `breadfruit.eth`, 20,000 to `filipv.eth`, 20,000 to `codalabs.eth`, 10,000 to `openesquire.eth`, 5,000 to `kmacb.eth`, 5,000 to `0xba5ed.eth`, 5,000 to `noobwonder.eth`, 5,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.  
 
 ##### $REV stage 3
-_No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashing out still leaves money on the table._
+_No more issuance. 10% of issuance and buybacks to Revnet Research Group. Cashing out leaves less money on the table._
 
 | **Rule**      | **Value**                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Duration**       | Forever.                                                                                                                                                                                                                                                  |
 | **Initial price**  | 0. No more issuance.                                                                                                                                                                                                                                       |
 | **Split**          | 10% of buybacks operated by `rrg.eth`.                                                                                                                                                                                    |
-| **Cash out tax**   | No change. Medium-high (0.6).    
+| **Cash out tax**   | No change. Small (0.2).    
 
 > Prospectively, the 10% split will always be burnt.
 
@@ -301,19 +301,19 @@ Both token-comfortable people interacting directly from their favorite EVM block
 
 ### 2.3 Revnet Research Group (RRG)
 
-We'll use an LLC named RRG to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We'll use an LLC named Revnet Research Group to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
 We think it's important for RRG to set an example of how a corporate partnership can be successful as a scoped subcomponent of a public onchain revnet structure, in this case $REV. 
 
 #### RRG Mission
 
-RRG will serve the growth and sustainability of open internet economies through revnets. We're shooting for $1 billion of assets locked in revnets in 4 years.
+RRG will serve the growth and sustainability of open internet economies through revnets. We think its realistic to expect $1 billion of assets locked in revnets in 4 years.
 
-In the short term, we need to make sure the upcoming revnets have a great chance at being wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future. 
+In the short term, we need to make sure the upcoming revnets have a great chance at being successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future. 
 
 #### Bottom line
 
-RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, leverage its $REV balance towards marketing and ecosystem development, and accelerating new revnets in dynamic ways.
+RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, leverage its $REV balance towards marketing and ecosystem development, and accelerating new revnets with consulting, funding, tools, and staff.
 
 RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
@@ -348,7 +348,7 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 #### Spend
 
-RRG will use the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets. We will staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and rob (legal). 
+RRG will use the $REV it earns to support the launch, security, and distribution of revnet.app and associated revnets. We will staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and rob (legal). 
 
 The technical and product todos include:
 - iterate on revnet.app to best serve revnet participation and creation.
@@ -366,7 +366,6 @@ The marketing todos include:
 There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
 More about RF1 soon.
-<!-- TODO: We should add pre-money/post-money to the SAFE above. Also, we should just use "safe", though it also implies gnosis. -->
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
@@ -400,10 +399,15 @@ There are four core entities in play: $REV, RRG LLC, RF1 LLC, and JuiceboxDAO ($
 
 ### 3.1 Overview
 
-There are three categories of revnets that we foresee in the near term:
+There are three categories of revnet businesses that we foresee in the near term:
 - **Direct sales:** These revnets' tokens are sought directly from the usage of applications that take fees, or from the sales of goods and services. These can be onchain applications which hardcode and automate the routing of funds to the revnet, or offchain applications which rely on an intermediary entity to manage engagement with the revnet and token distribution on users' behalf.
 - **Subscription fees:** These revnets' tokens are sought because they permit access to certain functionalities onchain or offchain.
 - **Memetic:** These revnets' tokens are sought because holders believe in the network's capacity to aggregate attention and cultural relevance, or because the tokens serve a secondary purpose like signaling loyalty.
+
+We expect these business models to be initially used by three main categories of organizations:
+- **Onchain:** Revnets with zero split percentages, or split percentages going to multisigs and onchain DAOs. 
+- **Campaign:** Revnets with a near-100% split percentage, useful for ongoing fundraises that prefer access to all the capital.
+- **Hybrid:** Revnets with a split percent operated by a for-profit or non-profit corporation or association.
 
 A revnet can belong to any number of these categories, and grow into others over time as new ideas emerge and market preferences shift. $REV, for example, is best described within the "direct sales" category because it benefits from fees taken directly within the smart contract routines. 
 
@@ -415,10 +419,11 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://nana.eth.sucks](https://bananapus.eth.sucks) |
-| **Category**  |  Direct sales. |
-| **Value Prop**  |  Captures revenues from the omnichain Juicebox V4's 2.5% fee. |
+| **Business model category**  |  Direct sales |
+| **Organizational category**  |  Onchain |
+| **Value prop**  |  Captures revenues from the omnichain Juicebox V4's 2.5% fee. |
 | **$NANA distribution** | JuiceboxDAO will start out with a large initial supply. JuiceboxDAO will operate the split and retain a percentage of supply as $NANA tokens are issued or bought back. |
-| **Big Bet** | As the omnichain Juicebox V4 ecosystem comes online and growth moves to it from V3, $NANA will benefit increasingly from fee income across all chains. The protocol takes a 2.5% fee from payouts and redeemed tokens of all projects. |
+| **Big bet** | As the omnichain Juicebox V4 ecosystem comes online and growth moves to it from V3, $NANA will benefit increasingly from fee income across all chains. The protocol takes a 2.5% fee from payouts and redeemed tokens of all projects. |
 | **Edge** | If open source protocols with fees outcompete free alternatives and if governance is a burden to productivity, $NANA and JuiceboxDAO are uniquely positioned to capture revenue that regeneratively grows the wealth of its open source financial system. |
 | **Risks** | Unlike V3, V4 has no TVL and has not facilitated high volume transactions. |
 
@@ -426,10 +431,11 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
-| **Category**  |  Direct sales. |
-| **Value Prop**  |  Captures revenues from [Bannyverse mints](https://mint.banny.eth.sucks). |
+| **Business model category**  |  Direct sales |
+| **Organizational category**  |  Hybrid |
+| **Value prop**  |  Captures revenues from [Bannyverse mints](https://mint.banny.eth.sucks). |
 | **$BANNY distribution** | Banana Box Office Entertainment (BBO) & JuiceboxDAO will each start out with some initial supply. BBO will retain a percentage of supply as $BANNY are issued or bought back. |
-| **Big Bet** | Banny's relatability and bluntness can make him a modern internet icon, and the production team is ripe to make it happen. If Banny successfully makes modern tech culture's ambitions and hypocrisy relatable through the propagation of stories, assets, and values, the Bannyverse can accompany the growth of the post-platform internet. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
+| **Big bet** | Banny's relatability and bluntness can make him a modern internet icon, and the production team is ripe to make it happen. If Banny successfully makes modern tech culture's ambitions and hypocrisy relatable through the propagation of stories, assets, and values, the Bannyverse can accompany the growth of the post-platform internet. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
 | **Edge** | If character-based storytelling is key to relatability, $BANNY and BBO are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
 | **Risks** | There's a sea of content out there, it'll likely take persistence and increasingly better writing to break through. |
 
@@ -437,10 +443,11 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://eth.sucks](https://eth.sucks) |
-| **Category**  |  Memetic. |
-| **Value Prop**  |  Captures memetic energy from the distribution of .eth.sucks links. |
+| **Business model category**  |  Memetic |
+| **Organizational category**  |  Onchain |
+| **Value prop**  |  Captures memetic energy from the distribution of .eth.sucks links. |
 | **$SUCKS distribution** | TBD. |
-| **Big Bet** | IPFS-based peer-to-peer websites are more resilient than centralized alternatives, making them an ideal fit to interact with permissionless smart contracts. These websites can be surfaced from any number of proxy links (eth.limo, eth.sucks, etc), but projects will usually commit to identifying with one such link in their marketing collateral. By choosing eth.sucks, they are propagating the $SUCKS meme, which in turn supports the proxy infrastructure's optimization and maintenance. |
+| **Big bet** | IPFS-based peer-to-peer websites are more resilient than centralized alternatives, making them an ideal fit to interact with permissionless smart contracts. These websites can be surfaced from any number of proxy links (eth.limo, eth.sucks, etc), but projects will usually commit to identifying with one such link in their marketing collateral. By choosing eth.sucks, they are propagating the $SUCKS meme, which in turn supports the proxy infrastructure's optimization and maintenance. |
 | **Edge** | If links are where the innovation rubber meets the online distribution road, $SUCKS and the community supporting it are uniquely positioned to capture and recycle the memetic energy contained in domain sharing, while promoting decentralized values in a traditionally centralized value-capture bottleneck. |
 | **Risks** | Maintaining an ENS proxy can be time consuming, expensive, and hard to automate. |
 
@@ -449,9 +456,10 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://croptop.eth.sucks](https://croptop.eth.sucks) |
-| **Category**  |  Direct sales. |
-| **Value Prop**  |  Collects a 2.5% fee from mints made from Croptop templates, a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. |
-| **Big Bet** | In order to be widely adopted, IPFS-based peer-to-peer websites need to be easy to deploy and easy to attach to ENS names. The croptop Mac app fulfills this ease. <br><br>As the template is increasingly used to onboard folks to the decentralized website stack and serve their content, $CROPTOP will benefit from a 2.5% fee taken on all mints originating from it. |
+| **Business model category**  |  Direct sales |
+| **Organizational category**  |  Onchain |
+| **Value prop**  |  Collects a 2.5% fee from mints made from Croptop templates, a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. |
+| **Big bet** | In order to be widely adopted, IPFS-based peer-to-peer websites need to be easy to deploy and easy to attach to ENS names. The croptop Mac app fulfills this ease. <br><br>As the template is increasingly used to onboard folks to the decentralized website stack and serve their content, $CROPTOP will benefit from a 2.5% fee taken on all mints originating from it. |
 | **Edge** | If content propegation benefits from being collectable, $CROPTOP and the community supporting it are uniquely positioned to remove barriers from publishing and minting across any number of blockchains. |
 | **Risks** | Croptop templates can be adapted and served as folks wish, there is no way to enforce the fee at a programmatic level. |
 
@@ -460,10 +468,11 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://defifa.net](https://defifa.net) |
-| **Category**  |  Direct sales. |
-| **Value Prop**  |  Captures revenues from defifa prediction games. |
-| **$DEFIFA Distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
-| **Big Bet** | People enjoy playing games, making predictions, and being a part of cultural moments. Defifa allows prediction games to resolve based only on community engagement, no oracles necessary. The lack of a need for oracles means games can be created around any cultural moment at any time. Games can then be used as a fundraising or revenue component of other networks, adding dimension and interactivity to existing networks. <br><br>As more games are played, $DEFIFA will benefit from a 2.5% fee taken on all paid out funds originating from them.   |
+| **Business model category**  |  Direct sales |
+| **Organizational category**  |  Hybrid |
+| **Value prop**  |  Captures revenues from defifa prediction games. |
+| **$DEFIFA distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
+| **Big bet** | People enjoy playing games, making predictions, and being a part of cultural moments. Defifa allows prediction games to resolve based only on community engagement, no oracles necessary. The lack of a need for oracles means games can be created around any cultural moment at any time. Games can then be used as a fundraising or revenue component of other networks, adding dimension and interactivity to existing networks. <br><br>As more games are played, $DEFIFA will benefit from a 2.5% fee taken on all paid out funds originating from them.   |
 | **Edge** | If the need for oracles reduce the landscape of playable prediction games onchain, $DEFIFA and the Defifa Research Group are uniquely positioned to open up new niche prediction markets for communities to play that benefit players involved. |
 | **Risks** | Defifa games lean on social consensus to determine outcomes. Games resolve based on the outcome agreed on by players, not necessary the actual real world outcome. Incentives are designed to align these two outcomes, but there are no guarantees.   |
 
@@ -471,10 +480,11 @@ Below are some other revnets we're helping launch this next year within each of 
 |      |        |
 |------|--------|
 | **Site** | [https://nance.app](https://nance.app) |
-| **Category**  |  Subscription fees. |
-| **Value Prop**  |  Brokers access to the nance service. |
+| **Business model category**  |  Subscription fees |
+| **Organizational category**  |  Onchain |
+| **Value prop**  |  Brokers access to the nance service. |
 | **$NANCE distribution** | TBD. |
-| **Big Bet** | Onchain organizations often rely on governance processes to make decisions regarding shared resources. Nance offers a unique take on governance that encourages scheduled deliberation and voting periods, adding structure that standardizes expectations therefore minimizing risks of neglect or abuse. <br><br>As more organizations use Nance to facilitate their governance process, $NANCE will benefit from a subscription fee that keeps each organization's instance of the service running.   |
+| **Big bet** | Onchain organizations often rely on governance processes to make decisions regarding shared resources. Nance offers a unique take on governance that encourages scheduled deliberation and voting periods, adding structure that standardizes expectations therefore minimizing risks of neglect or abuse. <br><br>As more organizations use Nance to facilitate their governance process, $NANCE will benefit from a subscription fee that keeps each organization's instance of the service running.   |
 | **Edge** | If tokenized governance continues to be a sought-after coordination exercise for online groups, Nance has a strong track record of helping organizations manage millions of dollars and is uniquely positioned to guide folks towards best practices that encourage participation while avoiding pitfalls of power struggle. |
 | **Risks** | Nance runs a server-based service, using crypto only for its users' data backups and for its own business model operations. This interaction of web2 and web3 is novel and lacks best practices, we're making intricate decisions involving tradeoffs as we develop tools such as Nance and revnets.     |
 
