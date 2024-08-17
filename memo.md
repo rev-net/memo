@@ -176,7 +176,7 @@ We're calling on partners who believe in this revenue-forward version of the ope
 
 ### 2.1 Overview
 
-Investors interested in getting involved in the promise of revnets should know there are three core entities at play:
+Investors interested in the promise of revnets should know there are three core entities at play:
 - **$REV:** A revnet.
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
