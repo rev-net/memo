@@ -178,7 +178,7 @@ There are three entities at play:
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-It is important to also mention Juicebox DAO ($JBX), a community that has been instrumental to the research and development of revnets. 
+It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets. 
 
 In summary, they have the following relationships:
 - $REV's split is operated by RRG, described below.
