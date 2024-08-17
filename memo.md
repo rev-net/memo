@@ -104,7 +104,7 @@ Projects will choose a revnet business structure when they prefer their outcome 
 
 Think of revnets like a spicy Bitcoin halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, the rules dont involve proof-of-work with periodic supply shocks that lead to a fixed supply of 21m coins over time. Revnets enforce a certain other set of guarantees affecting inflows and outflows of money.
 
-These guarentees can be visualized as a digital vending machine that:
+These guarentees can be visualized as a digital vending machine:
 1. Receives dollar bills from a business's raised funds and revenues.
 2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifacts (NFTs) in return.
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
