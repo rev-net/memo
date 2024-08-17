@@ -60,7 +60,7 @@ Join us – a group of active Web3 builders with vivid stories to prove it – i
 
 ### 1.2 Overview
 
-With today's societal demand for mobility, open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
+With today's societal demand for mobility[^1], open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
 - **Scaled Participation:** Flexible and potentially global community with vested interests.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
@@ -90,7 +90,7 @@ We think revnets might be it: A win-win-win growth engine for investors, builder
 
 Revnets are easy to use, a bicycle for online economies. They resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
 
-Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^1] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^2] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
 We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
 
@@ -150,7 +150,7 @@ Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV rev
 
 Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
 
-In this era of crypto and media networks that innovate on internet-native concepts, private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
+In this era of crypto and media networks that innovate on internet-native concepts, and with societal demand for mobility[^1], private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
 
 We've also seen the negligence and gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using them to progress positive-sum game-theoretic financial applications like revnets is non-trivial, while using them to manipulate the public with hyped-up zero-sum Ponzi schemes is easy and unfortunately all too common.
 
@@ -204,9 +204,9 @@ Revnets unfold in stages. Each stage specifies five rules that dictate everythin
 | **Cash out tax**   | How much does the revnet's next potential cash out increase each time a $TOKEN holder cashes out?                                                                                                                                                                                                                                                                       |
 
 It inherits some useful properties from Juicebox V4:
-- **AMM Liquidity:** If $TOKEN holders add liquidity to an AMM[^2]and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
+- **AMM Liquidity:** If $TOKEN holders add liquidity to an AMM[^3] and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
 - **Multicurrency:** A revnet can accept and hold any number of assets received as revenue, though it defines its $TOKEN price in one consistent currency. If it issues 1,000 $TOKENs per ETH and the revnet is paid some USDC, $TOKENs are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its $TOKEN holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's $TOKENs are backed by the assets it chooses to hold, inheriting their risks and opportunities. 
-- **Omni-chain:** Revnets can grow to accept money on new EVM-compatible networks[^3] as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
+- **Omni-chain:** Revnets can grow to accept money on new EVM-compatible networks[^4] as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
 
 #### Tuning
 
@@ -493,6 +493,7 @@ Ethereum is one of a kind. We have incredible respect and gratitude for the work
 
 ![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
 
-[^1]: https://www.youtube.com/watch?v=D0ek2yv81Gk
-[^2]: https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm
-[^3]: https://ethereum.org/en/developers/docs/evm/
+[^1]: Increased demand for mobility due to mobile productivity, ease of airtravel, global media marketing, lifestyle desires, climate change risk mitigation, political preferences, the emergence of borderless money and identification, and likely other reasons.
+[^2]: https://www.youtube.com/watch?v=D0ek2yv81Gk
+[^3]: https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm
+[^4]: https://ethereum.org/en/developers/docs/evm/
