@@ -3,7 +3,7 @@
 
 This memo makes the case for revnets. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
-2. **What are the terms?:** Includes specifics of how you are invited to participate.
+2. **What are the terms?:** Includes specifics of how you are invited to participate as investors, and an FAQ.
 3. **What do they look like?:** Illustrates the opportunity with examples and case studies.
 
 ## Contents
@@ -60,7 +60,7 @@ Join us – a group of active Web3 builders with vivid stories to prove it – i
 
 ### 1.2 Overview
 
-Openly accounted-for fundraises and revenues should outcompete everything by enabling:
+With today's societal demand for mobility, open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
 - **Scaled Participation:** Flexible and potentially global community with vested interests.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
@@ -72,9 +72,9 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 - **Moat Dilemma:** The work and strategies of open businesses can be copied without inheriting the baggage of the original, meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the original.
 - **Dependency Dilemma:** Many profitable businesses rely deeply on open source components, yet don't have clarity on how to foster a productive financial relationship with their communities, or motivation to do so unless developed in-house.
 
-This makes realizing open ideals, especially for open source initiatives, reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
+This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
 
-Auto-enforceable blockchain agreements are the correct building block on which to build online legitimacy, but today's attempted business model solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
+Auto-enforceable blockchain agreements are the correct building block on which to build legitimate decentralized value networks, but today's attempted business model solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
 
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
@@ -82,16 +82,17 @@ Auto-enforceable blockchain agreements are the correct building block on which t
 - **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from exhausting pump and dumps.
 - **Custom mechanisms:** Custom tokenization dynamic with a unique set of coded rules that attempt to fulfill a desired set of outcomes, but requiring everyone to learn a new jargon-filled system and trust that it is implemented bug free.
 - **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who directly benefited from the outcomes.
+- **No progress:** Take investments and fees to a centralized wallet to operate from, as usual.
+  
+We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, simple, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
-We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
+We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience designing, building, securing, and distributing Ethereum-based tokenization infrastructure.
 
-We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience building, securing, and marketing Ethereum-based tokenization infrastructure.
-
-Revnets resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
+Revnets are easy to use, a bicycle for online economies. They resolve the three dilemmas above by creating openly accounted-for financial networks with clearly bounded risks that reliably benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^1] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
-We're deploying a $REV revnet that'll capture 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
+We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
 
 - **Versatile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
