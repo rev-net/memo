@@ -110,6 +110,7 @@ These guarentees can be visualized as a digital vending machine:
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
 
 Revnets enforces three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
+
 – **$TOKEN price:** There is always a price at which its willing to issue new $TOKENs, but it will forward inbound funds to an AMM offering a better rate than the issuance rate. This price can be set to change over time at a customizable rate.
 - **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
 - **Cash out price:** There is always a price at which its willing to distribute its revenue when it receives its $TOKENs back. Each cash out increases the value of the next cash out, by a customizable rate. 
