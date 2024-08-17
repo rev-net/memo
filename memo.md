@@ -159,6 +159,8 @@ Revnets are the next step. They are an expression of the Juicebox language we kn
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
+We've been working on revnets conceptually since late 2023. They're now implemented and ready for showtime.
+
 ### 1.5 Call to action
 
 Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives, meanwhile helping incumbent businesses – for-profit and non-profit corporations and associations – transition to the more powerful open internet.
