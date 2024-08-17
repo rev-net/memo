@@ -173,8 +173,8 @@ We're calling on partners who believe in this revenue-forward version of the ope
 ### 2.1 Overview
 
 There are three entities at play:
-- **$REV:** The revnet.
-- **Revnet Research Group, LLC (RRG):** The split operator of the revnet to start.
+- **$REV:** A revnet.
+- **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
 It is important to also mention Juicebox DAO ($JBX), a community that has been instrumental to the research and development of revnets. 
