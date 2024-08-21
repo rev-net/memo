@@ -381,7 +381,7 @@ Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 Revnets can complement and enhance traditional equity structures, making them applicable not only to crypto-native companies but also to more conventional corporations and organizations.
 
-Corporations and associations like C-Corps, LLCs, UNAs, DAOs, and 501(c)(3) nonprofits can benefit from their own revnet. By involving customers and community members as active participants in their growth, these entities can drive new revenue streams and increase engagement. For instance, a traditional company could hold revnet tokens, aligning the success of the revnet with its own financial performance.
+Corporations and associations like C-Corps, LLCs, UNAs, DAOs, and 501(c)(3) nonprofits can benefit from their own revnet by involving customers and community members as active participants in their growth. The revnet can be used to drive new revenue streams, increase engagement, and aligning the success of the revnet with its own financial performance.
 
 These organizations can act as both token holders and split operators. As a token holder, a corporation benefits directly from the growth of the revnet, as its tokens appreciate in value. As a split operator, the organization can determine how much control it wants over the token supply:
 
@@ -389,7 +389,7 @@ These organizations can act as both token holders and split operators. As a toke
 - **No Control:** Alternatively, it could choose to receive 0% of the tokens, relinquishing control to the broader community to encourage decentralized growth.
 - **Partial control:** The organization might opt for a middle ground, controlling a portion of the token supply for a set period.
 
-This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals.
+This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals. Meanwhile, the revnet remains resiliant to being rugged by the entity, as doing so will incure the exit tax and benefit remaining holders most. Everyone involved is incentivizes to grow the revnet, even if there also exits other incentives alongside to grow a for-profit or non-profit traditional organization – in ideal cases these go hand-in-hand.
 
 Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of the $REV revnet. This means RRG retains a significant stake in the revnet's growth while leaving 60% of the tokens to the broader community, incentivizing collective participation and shared success.
 
