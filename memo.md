@@ -186,7 +186,7 @@ It is important to also mention Juicebox DAO ($JBX), the community instrumental 
 
 In summary, they have the following relationships:
 - $REV's split is operated by RRG, described below.
-- RRG makes, secures, and markets tools that help make $REV more successful.
+- RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other renvet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
 - Each revnet pays a 2.5% cash out fee to $NANA – the fee-token of Juicebox V4 broadly held by Juicebox DAO.
