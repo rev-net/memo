@@ -374,7 +374,7 @@ More about RF1 soon.
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
-### 2.6 Investor FAQ
+### 2.6 FAQ
 
 #### Should I invest in RRG, $REV, or...?
 
