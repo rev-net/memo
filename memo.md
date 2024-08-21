@@ -33,6 +33,7 @@ This memo makes the case for revnets. It is delivered in 3 parts:
      - [Spend](#spend)
    - [2.5 RF1](#rf1)
    - [2.6 FAQ](#faq)
+     - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
@@ -375,6 +376,22 @@ More about RF1 soon.
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 ### 2.6 FAQ
+
+#### How would revnets work in the context of traditional capitalization structures?
+
+Revnets can complement and enhance traditional equity structures, making them applicable not only to crypto-native companies but also to more conventional corporations and organizations.
+
+Corporations and associations like C-Corps, LLCs, UNAs, DAOs, and 501(c)(3) nonprofits can benefit from their own revnet. By involving customers and community members as active participants in their growth, these entities can drive new revenue streams and increase engagement. For instance, a traditional company could hold revnet tokens, aligning the success of the revnet with its own financial performance.
+
+These organizations can act as both token holders and split operators. As a token holder, a corporation benefits directly from the growth of the revnet, as its tokens appreciate in value. As a split operator, the organization can determine how much control it wants over the token supply:
+
+- **Full control:** The organization could set up the revnet to receive 100% of the tokens, allowing it to maintain full control over the token distribution and benefits.
+- **No Control:** Alternatively, it could choose to receive 0% of the tokens, relinquishing control to the broader community to encourage decentralized growth.
+- **Partial control:** The organization might opt for a middle ground, controlling a portion of the token supply for a set period.
+
+This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals.
+
+Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of the $REV revnet. This means RRG retains a significant stake in the revnet's growth while leaving 60% of the tokens to the broader community, incentivizing collective participation and shared success.
 
 #### Should I invest in RRG, $REV, or...?
 
