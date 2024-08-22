@@ -179,7 +179,8 @@ Revnets can power millions of startups to become global movements, high net-wort
 
 With revnets, the open internet will outcompete private alternatives _because_ it best serves creatives, builders, investors, and consumers alike.
 
-We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win, the more the open internet wins. Read Part 2 of this memo if you're leaning in.
+We're calling on partners who believe in this revenue-forward version of the open internet to join the $REV network. The more we help each emergent revnet win, the more we win, the more the open internet wins. Read Part 2 of this memo if you're leaning in, and join the $REV testnet https://www.revnet.app/sepolia/net/2.
+
 
 ---
 ![image](https://github.com/user-attachments/assets/01ba051e-cb0d-4364-8539-76199512eed6)
