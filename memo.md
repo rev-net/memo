@@ -39,13 +39,8 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
-   - [3.1 Overview](#overview)
-   - [3.2 $NANA](#nana)
-   - [3.3 $BANNY](#banny)
-   - [3.4 $SUCKS](#sucks)
-   - [3.5 $CROPTOP](#croptop)
-   - [3.6 $DEFIFA](#defifa)
-   - [3.7 $NANCE](#nance)
+   - [3.1 Upcoming revnets](#upcoming-revnets)
+   - [3.2 Hypotheticals](#hypotheticals)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -448,9 +443,11 @@ A revnet can belong to any number of these categories, and grow into others over
 
 There are likely other strategies for using revnets that we've yet to explore in depth.
 
+### 3.2 Upcoming revnets
+
 Below are some other revnets we're helping launch this next year within each of these categories:
 
-### 3.2 $NANA
+### $NANA
 |      |        |
 |------|--------|
 | **Site** | [https://nana.eth.sucks](https://bananapus.eth.sucks) |
@@ -462,7 +459,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Edge** | If open source protocols with fees outcompete free alternatives and if governance is a burden to productivity, $NANA and JuiceboxDAO are uniquely positioned to capture revenue that regeneratively grows the wealth of its open source financial system. |
 | **Risks** | Unlike V3, V4 has no TVL and has not facilitated high volume transactions. |
 
-### 3.3 $BANNY
+### $BANNY
 |      |        |
 |------|--------|
 | **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
@@ -474,7 +471,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Edge** | If character-based storytelling is key to relatability, $BANNY and BBO are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
 | **Risks** | There's a sea of content out there, it'll likely take persistence and increasingly better writing to break through. |
 
-### 3.4 $SUCKS
+### $SUCKS
 |      |        |
 |------|--------|
 | **Site** | [https://eth.sucks](https://eth.sucks) |
@@ -487,7 +484,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | Maintaining an ENS proxy can be time consuming, expensive, and hard to automate. |
 
 
-### 3.5 $CROPTOP
+### $CROPTOP
 |      |        |
 |------|--------|
 | **Site** | [https://croptop.eth.sucks](https://croptop.eth.sucks) |
@@ -499,7 +496,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | Croptop templates can be adapted and served as folks wish, there is no way to enforce the fee at a programmatic level. |
 
 
-### 3.6 $DEFIFA
+### $DEFIFA
 |      |        |
 |------|--------|
 | **Site** | [https://defifa.net](https://defifa.net) |
@@ -511,7 +508,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Edge** | If the need for oracles reduce the landscape of playable prediction games onchain, $DEFIFA and the Defifa Research Group are uniquely positioned to open up new niche prediction markets for communities to play that benefit players involved. |
 | **Risks** | Defifa games lean on social consensus to determine outcomes. Games resolve based on the outcome agreed on by players, not necessary the actual real world outcome. Incentives are designed to align these two outcomes, but there are no guarantees.   |
 
-### 3.7 $NANCE
+### $NANCE
 |      |        |
 |------|--------|
 | **Site** | [https://nance.app](https://nance.app) |
@@ -522,6 +519,35 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Big bet** | Onchain organizations often rely on governance processes to make decisions regarding shared resources. Nance offers a unique take on governance that encourages scheduled deliberation and voting periods, adding structure that standardizes expectations therefore minimizing risks of neglect or abuse. <br><br>As more organizations use Nance to facilitate their governance process, $NANCE will benefit from a subscription fee that keeps each organization's instance of the service running.   |
 | **Edge** | If tokenized governance continues to be a sought-after coordination exercise for online groups, Nance has a strong track record of helping organizations manage millions of dollars and is uniquely positioned to guide folks towards best practices that encourage participation while avoiding pitfalls of power struggle. |
 | **Risks** | Nance runs a server-based service, using crypto only for its users' data backups and for its own business model operations. This interaction of web2 and web3 is novel and lacks best practices, we're making intricate decisions involving tradeoffs as we develop tools such as Nance and revnets.     |
+
+### 3.3 Hypotheticals
+
+Below are some made up examples to supplement the above.
+
+### $MY_TRACKS
+
+An artist could use a revnet to receive revenues from sales of its records, splitting most $MY_TRACKS to themselves for access to revenues and loans, and some to the record's buyers. The $MY_TRACKS will always be backed by the revenue at the minimum, and can also be speculated on with AMMs up to the revnet's current issuance price. This gives collectors liquidity that scales at the rate of distribution.
+
+### $SAVE_THE_BANANAS
+
+An ongoing campaign could use a revnet to receive donations, with a large 99% split automatically shared between a few different organizations that support the desired outcome. The 1% little bit of $SAVE_THE_BANANAS can float to donators, useful for an immediate rebate, or a liquid community meme asset. 
+
+### $FILIPS_NAIL_SALON
+
+A nail shop could accept crypto payment to its revnet, with a fairly large 80% split to Filip used to run the shop. The 20% of $FILIPS_NAIL_SALON is the growth budget that rewards Filip's clients with incentives to keep coming back and spread the word and. Filip could also take cash and interact with the revnet on clients' behalf, keeping a spreadsheet of how many $FILIPS_NAIL_SALON each cash-paying customer has. Maybe some day they'll come to you with a wallet address to claim them from you.
+
+### $KMACS_BIG_IDEA
+
+KMACs startup could use a revnet to fundraise, perhaps keeping a 50% split for operating costs. This lets investors measure their contributions maintain some liquidity with a clear path to growth. Anyone – KMAC, investors, community – can stand up new revenue sources routed to the revnet for everyone's benefit. If KMACs startup proves successful, he can opt to relinquish its role as split operator to an automated module that redistributes the split to stakers of $KMACS_BIG_IDEA. If the startup proves to be a failure, KMAC can burn any unused $TOKENs to make more funds available to investors, and investors can cash out as desired. KMAC could also hand the split operator role back to the investors.
+
+### $JETFLIX
+
+An airplane exclusive subscription video service could use a revnet to issue tokens that prove wanna-be viewers paid the price to watch, with a tiny issuance price reduction over time. I pay 0.001 ETH and get 100 $JETFLIX => i try to watch the movie Airplane which costs 50 $JETFLIX => the system keeps track that I have used 50 $JETFLIX, which it can compare to my balance at the time i next want to pay for a movie. In a year, i might instead need to pay I pay 0.0015 ETH for 100 $JETFLIX. This gives users incentive to buy more access early, and support the ecosystems growth as they use the system.
+
+### $BOOP
+
+10,000 $BOOP per ETH, halvening every 14 days. 1% split to your favorite onchain cause. pointless otherwise.
+
 
 ---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
