@@ -449,27 +449,27 @@ There are likely other strategies for using revnets that we've yet to explore in
 
 Below are some made up examples to supplement the above.
 
-### $MY_TRACKS
+#### $MY_TRACKS
 
 An artist could use a revnet to receive revenues from sales of its records, splitting most $MY_TRACKS to themselves for access to revenues and loans, and some to the record's buyers. The $MY_TRACKS will always be backed by the revenue at the minimum, and can also be speculated on with AMMs up to the revnet's current issuance price. This gives collectors liquidity that scales at the rate of distribution.
 
-### $SAVE_THE_BANANAS
+#### $SAVE_THE_BANANAS
 
 An ongoing campaign could use a revnet to receive donations, with a large 99% split automatically shared between a few different organizations that support the desired outcome. The 1% little bit of $SAVE_THE_BANANAS can float to donators, useful for an immediate rebate, or a liquid community meme asset. 
 
-### $FILIPS_NAIL_SALON
+#### $FILIPS_NAIL_SALON
 
 A nail shop could accept crypto payment to its revnet, with a fairly large 80% split to Filip used to run the shop. The 20% of $FILIPS_NAIL_SALON is the growth budget that rewards Filip's clients with incentives to keep coming back and spread the word and. Filip could also take cash and interact with the revnet on clients' behalf, keeping a spreadsheet of how many $FILIPS_NAIL_SALON each cash-paying customer has. Maybe some day they'll come to you with a wallet address to claim them from you.
 
-### $KMACS_BIG_IDEA
+#### $KMACS_BIG_IDEA
 
 KMACs startup could use a revnet to fundraise, perhaps keeping a 50% split for operating costs. This lets investors measure their contributions maintain some liquidity with a clear path to growth. Anyone – KMAC, investors, community – can stand up new revenue sources routed to the revnet for everyone's benefit. If KMACs startup proves successful, he can opt to relinquish its role as split operator to an automated module that redistributes the split to stakers of $KMACS_BIG_IDEA. If the startup proves to be a failure, KMAC can burn any unused $TOKENs to make more funds available to investors, and investors can cash out as desired. KMAC could also hand the split operator role back to the investors.
 
-### $JETFLIX
+#### $JETFLIX
 
 An airplane exclusive subscription video service could use a revnet to issue tokens that prove wanna-be viewers paid the price to watch, with a tiny issuance price reduction over time. I pay 0.001 ETH and get 100 $JETFLIX => i try to watch the movie Airplane which costs 50 $JETFLIX => the system keeps track that I have used 50 $JETFLIX, which it can compare to my balance at the time i next want to pay for a movie. In a year, i might instead need to pay I pay 0.0015 ETH for 100 $JETFLIX. This gives users incentive to buy more access early, and support the ecosystems growth as they use the system.
 
-### $BOOP
+#### $BOOP
 
 10,000 $BOOP per ETH, halvening every 14 days. 1% split to your favorite onchain cause. pointless otherwise.
 
