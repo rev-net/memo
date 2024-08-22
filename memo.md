@@ -120,13 +120,18 @@ Revnets enforces three main customizable rules that can be preset to change over
 - **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
 - **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnets revenues to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out. 
 
-> For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $TOKEN. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to each of two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
+> For example:
+> 1. A revnet can be paid in ETH (or other tokens).
+> 2. Payments generate its own tokens at a given price, say 1 dollar buys 1,000 $TOKEN (shown as an $R).
+> 3. A revnet can have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $TOKEN goes to each of two builders and 80% goes to the payer of the 1 dollar.
+> 4. The dollars stay in the vending machine.
 
 <img width="582" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 59 01" src="https://github.com/user-attachments/assets/6776a77f-acc1-4cdf-92b6-c963592af75d">
 <br>
 <br>
 
-> In order to get the 1 ETH back out, a $TOKEN holder has to cash out, which incurs a tax. This means if (5) one of the builders wanted to cash out their 100 $TOKEN right away, they would (6) get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
+> 5. In order to get the 1 dollar back out, a $TOKEN holder has to cash out, which incurs a tax.
+> 6. This means if one of the builders wanted to cash out their 100 $TOKENs right away, they would get less than the proportional 0.1 dollars if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
