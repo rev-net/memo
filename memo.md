@@ -251,7 +251,7 @@ Three effects to visually note:
 
 Since each revnet's $TOKENs have a cash out value that can never decrease, the tokens make for great loan collateral. Instead of cashing out, $TOKEN holders might prefer to use them as collateral for a loan they can pay back over time to access their $TOKENs again. The loan provider can cash out the collateral if the loan isn't paid back.
 
-Revnets themselves offer these loans to its $TOKEN holders by lending out its asset base in exchange for holding onto the borrower's $TOKENs as collateral. This allows for overcollateralized loans at a risk-free rate while also generating revenue by putting its assets to work, a win ultimately for the revnet $TOKEN's cash out price. 
+Revnets themselves offer these loans to its $TOKEN holders by lending out its asset base in exchange for holding onto the borrower's $TOKENs as collateral. This allows for overcollateralized loans at a risk-free rate while also generating revenue by putting its assets to work, a win ultimately for the revnet $TOKEN's cash out price. Each revnet has loans as a baked in revenue model by default.
 
 $TOKEN holders are incentivized to prefer that their revnet loans out as much as possible, as each new loan permanently increases the cash out value of all $TOKENs. Every $TOKEN holder has equal access to loans at all times, at a rate equivalent to the cash out rate. 
 
