@@ -131,7 +131,9 @@ Revnets enforces three main customizable rules that can be preset to change over
 <br>
 
 > 5. In order to get the 1 ETH back out, a $TOKEN holder has to cash out, which incurs a tax.
-> 6. This means if one of the builders wanted to cash out their 100 $TOKENs right away, they would get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later. The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
+> 6. This means if one of the builders wanted to cash out their 100 $TOKENs right away, they would get less than the proportional 0.1 ETH if a tax was in place, leaving revenue on the table for those who cash out later.
+>    
+> The specifics of the issuance price, split, and cash out tax are set as a sequence of fixed-duration stages that are all specified when the revnet is deployed.
 
 <img width="599" style="margin-bottom: 20px;" alt="Screenshot_2024-01-21_at_17 58 43" src="https://github.com/user-attachments/assets/a591cd88-ca9a-4f09-9621-57d8fb28f436">
 <br>
