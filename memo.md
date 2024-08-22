@@ -191,14 +191,14 @@ Investors interested in the promise of revnets should know there are three core 
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets. 
+It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets. It's upcoming Juicebox V4 protocol on which revnets are built will host a fee collecting project under the ticker $NANA, itself a revnet, which will be broadly held by Juicebox DAO. Think of $NANA as a unit of account that accrues to $JBX governance.
 
 In summary, they have the following relationships:
 - $REV's split is operated by RRG, described below.
 - RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
-- Each revnet pays a 2.5% cash out fee to $NANA – the fee token of Juicebox V4 broadly held by Juicebox DAO ($JBX). Think of $NANA as a unit of account that accrues to $JBX. 
+- Each revnet pays a 2.5% cash out fee to $NANA.  
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
