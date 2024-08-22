@@ -169,7 +169,7 @@ Revnets are the next step. They are an expression of the Juicebox language we kn
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
-We've been working on revnets conceptually since late 2023, they're now implemented and ready for showtime. Importantly, revnets are built using Juicebox V4, whose fee collecting project will itself be modeled as a revnet that issues $NANA, split largely to Juicebox DAO ($JBX). Juicebox V4's main innovation is enabling omnichain projects, meanning each revnet can exist across any number of blockchains and extend to new ones as they emerge and prove legitimate.
+We've been working on revnets conceptually since late 2023, they're now implemented and ready for showtime. Importantly, revnets are built using Juicebox V4, whose fee collecting project will itself be modeled as a revnet. Juicebox V4's main innovation is enabling omnichain projects, meanning each revnet can exist across any number of blockchains and extend to new ones as they emerge and prove legitimate. Part 2 digs deeper into how these entities relate.
 
 ### 1.5 Call to action
 
