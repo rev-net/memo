@@ -6,7 +6,7 @@ This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 2. **What are the terms?:** Includes specifics of how you are invited to participate as investors, and an FAQ.
 3. **What do they look like?:** Illustrates the opportunity with examples and case studies.
 
-Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet using the $NANA ticker.
+Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet.
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
@@ -59,7 +59,7 @@ Revnets offer a promising solution, as a hands-free all-in-one tokenized incenti
 
 Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
-Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV and $NANA networks, which operate as revenue-generating revnets themselves.
+Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV network, which operates as revenue-generating revnet itself.
 
 ### 1.2 Overview
 
