@@ -152,6 +152,8 @@ Revnets also inherit the best properties of Ethereum:
 
 As a result of its properties, a revnet's $TOKENs are reliably backed by the underlying value of the revenue used to issue them. This makes $TOKENs great collateral for loans, which each revnet also offers, for a fee paid into itself.
 
+<todo: add a 1 minute video demoing revnets end-to-end using mint.banny.eth.sucks and revnet.app>
+
 Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV revnet for deployment. Part 3 follows with examples, case studies, and hypothetical scenarios.
 
 ### 1.4 Why now? Why us?
