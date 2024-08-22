@@ -202,6 +202,8 @@ In summary, they have the following relationships:
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
+<todo: add a diagram showing the relationships>
+
 This section will go through these specifics in detail.
 
 ### 2.2 Anatomy of a revnet | Advanced
