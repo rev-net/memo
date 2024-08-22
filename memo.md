@@ -121,8 +121,8 @@ Revnets enforces three main customizable rules that can be preset to change over
 - **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnet's revenues back to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out, rewarding those who stick around longer. 
 
 > For example:
-> 1. A revnet can be paid in ETH, and/or other tokens (shown below as dollar bills).
-> 2. Payments generate its own tokens at a given price, say 1 ETH buys 1,000 $TOKEN (shown as an $R).
+> 1. A revnet can be paid in ETH, and/or other tokens (shown below as green dollar bills).
+> 2. Payments generate its own tokens at a given price, say 1 ETH buys 1,000 $TOKEN (shown as orange $Rs). The payment may also yield an NFT artifact (shown as blue cards).
 > 3. A revnet can have a split in place that automatically sends a percentage of these new $TOKENs to a set of pre-established entities, say 20% split so that 100 $TOKEN goes to each of two builders and 80% goes to the payer of the 1 ETH.
 > 4. The ETH stay in the vending machine.
 
