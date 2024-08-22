@@ -1,10 +1,12 @@
 # Revnets | For Investors, Entrepreneurs, and Customers of Products and Services Monetized on the Open Internet
 **Add value => grow revenue => become wealthy openly and welcomely together.**
 
-This memo makes the case for revnets. It is delivered in 3 parts:
+This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
 2. **What are the terms?:** Includes specifics of how you are invited to participate as investors, and an FAQ.
 3. **What do they look like?:** Illustrates the opportunity with examples and case studies.
+
+Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet using the $NANA ticker.
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
@@ -57,7 +59,7 @@ Revnets offer a promising solution, as a hands-free all-in-one tokenized incenti
 
 Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
-Join us – a group of active Web3 builders with vivid stories to prove it – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
+Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV and $NANA networks, which operate as revenue-generating revnet themselves.
 
 ### 1.2 Overview
 
@@ -112,9 +114,9 @@ These guarentees can be visualized as a digital vending machine:
 
 Revnets enforces three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
 
-- **$TOKEN price:** There is always a price at which it is willing to issue new $TOKENs, and it will instead forward inbound funds to an AMM offering a better rate than the issuance rate if one exists. This price can be set to change over time at a customizable rate.
+- **$TOKEN price:** There is always a price at which the revnet is willing to issue new $TOKENs, and it will instead forward inbound funds to an AMM offering a better rate than the issuance rate if one exists. This price can be set to change over time at a customizable rate.
 - **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
-- **Cash out price:** There is always a price at which its willing to distribute its revenue when it receives its $TOKENs back. Each cash out increases the value of the next cash out, by a customizable rate. 
+- **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnets revenues to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out. 
 
 > For example, A revnet can be (1) paid in ETH (or other tokens), which (2) generates its own token at a given price, say 1 ETH buys 1,000 $TOKEN. A revnet can (3) have a split in place that automatically sends a percentage of these new $REV to a set of pre-established entities, say 20% split so that 100 $REV goes to each of two builders and 80% goes to the payer of the 1 ETH, which (4) stays in the vending machine.
 
@@ -160,7 +162,7 @@ Revnets are the next step. They are an expression of the Juicebox language we kn
 
 Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
-We've been working on revnets conceptually since late 2023. They're now implemented and ready for showtime.
+We've been working on revnets conceptually since late 2023, they're now implemented and ready for showtime. Importantly, revnets are built using Juicebox V4, whose fee collecting project will itself be modeled as a revnet that issues $NANA, split largely to Juicebox DAO ($JBX). Juicebox V4's main innovation is enabling omnichain projects, meanning each revnet can exist across any number of blockchains and extend to new ones as they emerge and prove legitimate.
 
 ### 1.5 Call to action
 
@@ -189,7 +191,7 @@ In summary, they have the following relationships:
 - RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
-- Each revnet pays a 2.5% cash out fee to $NANA – the fee-token of Juicebox V4 broadly held by Juicebox DAO.
+- Each revnet pays a 2.5% cash out fee to $NANA – the fee token of Juicebox V4 broadly held by Juicebox DAO ($JBX). Think of $NANA as a unit of account that accrues to $JBX. 
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
 
