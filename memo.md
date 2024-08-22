@@ -59,7 +59,7 @@ Revnets offer a promising solution, as a hands-free all-in-one tokenized incenti
 
 Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
-Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV and $NANA networks, which operate as revenue-generating revnet themselves.
+Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV and $NANA networks, which operate as revenue-generating revnets themselves.
 
 ### 1.2 Overview
 
@@ -95,11 +95,13 @@ Revnets are easy to use, a bicycle for online economies. They resolve the three 
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^2] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
-We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for ten other spectacular projects we've been working with, demonstrating how revnets are:
+We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for six other spectacular projects we've been working with, demonstrating how revnets are:
 
 - **Versatile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competitive business landscape. 
+
+We're also deploying a $NANA revnet as the fee collecting project of the Juicebox V4 protocol, which will act more as a revenue-generating unit of account stewarded by $JBX governance – a token network now active for over 3 years.
 
 Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin and Ethereum.
 
