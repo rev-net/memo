@@ -80,7 +80,7 @@ Auto-enforceable blockchain agreements are the correct building block on which t
 - **NFT memberships:** Rare tokenized artifacts whose value will speculatively increase as the issuing entity becomes popularized, but with no liquidity apart from exhausting pump and dumps.
 - **Custom mechanisms:** Custom tokenization dynamic with a unique set of coded rules that attempt to fulfill a desired set of outcomes, but requiring everyone to learn a new jargon-filled system and trust that it is implemented bug free.
 - **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who directly benefited from the outcomes.
-- **No progress:** Take investments and fees to a centralized wallet to operate from just like traditional capital structures, with no networked benefits from the tools at our disposal.
+- **No progress:** Take investments and fees to a centralized wallet to operate from just like traditional capital structures, with no networked benefits from the tools at our disposal apart perhaps from automated vesting, airdrops of meme tokens not actually backed by revenue, or tokenized accounting of its own books.
   
 We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, simple, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
