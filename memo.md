@@ -453,6 +453,7 @@ Below are some made up examples to supplement the above.
 
 An artist could use a revnet to receive revenues from sales of its records, splitting most $MY_TRACKS to themselves for access to revenues and loans, and some to the record's buyers. The $MY_TRACKS will always be backed by the revenue at the minimum, and can also be speculated on with AMMs up to the revnet's current issuance price. This gives collectors liquidity that scales at the rate of distribution.
 
+
 #### $SAVE_THE_BANANAS
 
 An ongoing campaign could use a revnet to receive donations, with a large 99% split automatically shared between a few different organizations that support the desired outcome. The 1% little bit of $SAVE_THE_BANANAS can float to donators, useful for an immediate rebate, or a liquid community meme asset. 
@@ -472,6 +473,10 @@ An airplane exclusive subscription video service could use a revnet to issue tok
 #### $BOOP
 
 10,000 $BOOP per ETH, halvening every 14 days. 1% split to your favorite onchain cause. pointless otherwise.
+
+#### $CHAIN_GAME
+
+An onchain game can route a fee from its smart contracts to a revnet, splitting a fee to the game developer community and the rest to fee payers, guarenteed.
 
 ### 3.3 Upcoming revnets
 
