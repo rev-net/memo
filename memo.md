@@ -561,7 +561,7 @@ Ethereum is one of a kind. We have incredible respect and gratitude for the work
 
 ![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
 
-[^1]: Increased demand for mobility due to mobile productivity, ease of travel, internet-scale social networks, global media marketing, lifestyle desires, climate change risk mitigation, political preferences, the emergence of borderless money and identification, and likely other reasons.
+[^1]: Increased demand for mobility due to mobile productivity, ease of travel, internet-scale social networks, airbnbs, digital nomadship, global media marketing, lifestyle desires, climate change risk mitigation, political preferences, the emergence of borderless money and identification, and likely other reasons.
 [^2]: https://www.youtube.com/watch?v=D0ek2yv81Gk
 [^3]: https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm
 [^4]: https://ethereum.org/en/developers/docs/evm/
