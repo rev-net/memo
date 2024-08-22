@@ -118,10 +118,10 @@ Revnets enforces three main customizable rules that can be preset to change over
 
 - **$TOKEN price:** There is always a price at which the revnet is willing to issue new $TOKENs, and it will instead forward inbound funds to an AMM offering a better rate than the issuance rate if one exists. This price can be set to change over time at a customizable rate.
 - **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
-- **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnets revenues to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out. 
+- **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnet's revenues back to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out, rewarding those who stick around longer. 
 
 > For example:
-> 1. A revnet can be paid in ETH, and/or other tokens (shown here as dollar bills).
+> 1. A revnet can be paid in ETH, and/or other tokens (shown below as dollar bills).
 > 2. Payments generate its own tokens at a given price, say 1 ETH buys 1,000 $TOKEN (shown as an $R).
 > 3. A revnet can have a split in place that automatically sends a percentage of these new $TOKENs to a set of pre-established entities, say 20% split so that 100 $TOKEN goes to each of two builders and 80% goes to the payer of the 1 ETH.
 > 4. The ETH stay in the vending machine.
