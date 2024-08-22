@@ -458,7 +458,7 @@ An artist could use a revnet to receive revenues from sales of its records, spli
 
 #### $SAVE_THE_BANANAS
 
-An ongoing campaign could use a revnet to receive donations, with a large 99% split automatically shared between a few different organizations that support the desired outcome. The 1% little bit of $SAVE_THE_BANANAS can float to donators, useful for an immediate rebate, or a liquid community meme asset. 
+An ongoing campaign could use a revnet to receive donations, with a large 99% split automatically shared between a few different organizations that support the desired outcome. The 1% little bit of $SAVE_THE_BANANAS can float to donors, useful for an immediate rebate, or a liquid community meme asset. 
 
 #### $FILIPS_NAIL_SALON
 
