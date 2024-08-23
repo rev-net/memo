@@ -34,13 +34,14 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
    - [2.5 RF1](#rf1)
-   - [2.6 FAQ](#faq)
+3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
+   - [3.1 Overview](#overview)
+   - [3.2 Cartoon hypotheticals](#cartoon-hypotheticals)
+   - [3.3 Real upcoming revnets](#real-upcoming-revnets)
+   - [3.4 FAQ](#faq)
      - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
-   - [3.1 Cartoon hypotheticals](#cartoon-hypotheticals)
-   - [3.2 Real upcoming revnets](#real-upcoming-revnets)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -388,48 +389,6 @@ More about RF1 soon.
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
-### 2.6 FAQ
-
-#### How would revnets work in the context of traditional capitalization structures?
-
-Revnets can complement and enhance traditional equity structures, making them applicable not only to crypto-native companies but also to more conventional corporations and organizations.
-
-Corporations and associations like C-Corps, LLCs, UNAs, DAOs, and 501(c)(3) nonprofits can benefit from their own revnet by involving customers and community members as active participants in their growth. The revnet can be used to drive new revenue streams, increase engagement, and aligning the success of the revnet with its own financial performance.
-
-These organizations can act as both token holders and split operators. As a token holder, a corporation benefits directly from the growth of the revnet, as its tokens appreciate in value. As a split operator, the organization can determine how much control it wants over the token supply:
-
-- **Full control:** The organization could set up the revnet to receive 100% of the tokens, allowing it to maintain full control over the token distribution and benefits.
-- **No Control:** Alternatively, it could choose to receive 0% of the tokens, relinquishing control to the broader community to encourage decentralized growth.
-- **Partial control:** The organization might opt for a middle ground, controlling a portion of the token supply for a set period.
-
-This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals. Meanwhile, the revnet remains resiliant to being rugged by the entity, as doing so will incure the exit tax and benefit remaining holders most. Everyone involved is incentivizes to grow the revnet, even if there also exits other incentives alongside to grow a for-profit or non-profit traditional organization – in ideal cases these go hand-in-hand.
-
-Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of the $REV revnet. This means RRG retains a significant stake in the revnet's growth while leaving 60% of the tokens to the broader community, incentivizing collective participation and shared success.
-
-#### Should I invest in RRG, $REV, or...?
-
-There are five core entities in play: $REV, RRG LLC, RF1 LLC, $NANA, and JuiceboxDAO ($JBX).
-
-- For those onchain, build direct exposure to $REV to benefit from revenue growth without proxies.
-- RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
-- RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
-- Also for those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. It is expected to receive a split of $REV issuance and buybacks, making it a great proxy to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entity's governance process. You can learn more [here](https://docs.juicebox.money/dao/).
-- $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is likely a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
-
-#### What are the risks I should be aware of?
-
-**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exist across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
-
-**Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to pursue emergent opportunities. Engaging with either RRG or $JBX should warrant due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
-
-**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decision that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
-
-**Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
-
-#### I'm not sure exactly how revnets might fit my project, can I bounce ideas off someone?
-
-Yes absolutely, each project can have unique and important properties to design towards, and in the beginning we don't have many examples to follow. The Revnet telegram is a great place to reach out @revnet_eth, or discord at https://discord.gg/vhVxwh8aD9. If revnets don't turn out to fit your needs, you can always use the juicebox protocol directly for a more hands-on project that can be adapted over time.
-
 ---
 
 ![image](https://github.com/user-attachments/assets/ac3db796-bdfc-4cb3-be41-78428ecbf586)
@@ -452,7 +411,7 @@ A revnet can belong to any number of these categories, and grow into others over
 
 There are likely other strategies for using revnets that we've yet to explore in depth.
 
-### 3.3 Cartoon hypotheticals
+### 3.2 Cartoon hypotheticals
 
 Below are some made up examples to supplement the above.
 
@@ -562,6 +521,47 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Edge** | If tokenized governance continues to be a sought-after coordination exercise for online groups, Nance has a strong track record of helping organizations manage millions of dollars and is uniquely positioned to guide folks towards best practices that encourage participation while avoiding pitfalls of power struggle. |
 | **Risks** | Nance runs a server-based service, using crypto only for its users' data backups and for its own business model operations. This interaction of web2 and web3 is novel and lacks best practices, we're making intricate decisions involving tradeoffs as we develop tools such as Nance and revnets.     |
 
+### 3.4 FAQ
+
+#### How would revnets work in the context of traditional capitalization structures?
+
+Revnets can complement and enhance traditional equity structures, making them applicable not only to crypto-native companies but also to more conventional corporations and organizations.
+
+Corporations and associations like C-Corps, LLCs, UNAs, DAOs, and 501(c)(3) nonprofits can benefit from their own revnet by involving customers and community members as active participants in their growth. The revnet can be used to drive new revenue streams, increase engagement, and aligning the success of the revnet with its own financial performance.
+
+These organizations can act as both token holders and split operators. As a token holder, a corporation benefits directly from the growth of the revnet, as its tokens appreciate in value. As a split operator, the organization can determine how much control it wants over the token supply:
+
+- **Full control:** The organization could set up the revnet to receive 100% of the tokens, allowing it to maintain full control over the token distribution and benefits.
+- **No Control:** Alternatively, it could choose to receive 0% of the tokens, relinquishing control to the broader community to encourage decentralized growth.
+- **Partial control:** The organization might opt for a middle ground, controlling a portion of the token supply for a set period.
+
+This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals. Meanwhile, the revnet remains resiliant to being rugged by the entity, as doing so will incure the exit tax and benefit remaining holders most. Everyone involved is incentivizes to grow the revnet, even if there also exits other incentives alongside to grow a for-profit or non-profit traditional organization – in ideal cases these go hand-in-hand.
+
+Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of the $REV revnet. This means RRG retains a significant stake in the revnet's growth while leaving 60% of the tokens to the broader community, incentivizing collective participation and shared success.
+
+#### Should I invest in RRG, $REV, or...?
+
+There are five core entities in play: $REV, RRG LLC, RF1 LLC, $NANA, and JuiceboxDAO ($JBX).
+
+- For those onchain, build direct exposure to $REV to benefit from revenue growth without proxies.
+- RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
+- RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
+- Also for those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. It is expected to receive a split of $REV issuance and buybacks, making it a great proxy to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entity's governance process. You can learn more [here](https://docs.juicebox.money/dao/).
+- $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is likely a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
+
+#### What are the risks I should be aware of?
+
+**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exist across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
+
+**Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to pursue emergent opportunities. Engaging with either RRG or $JBX should warrant due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
+
+**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decision that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
+
+**Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
+
+#### I'm not sure exactly how revnets might fit my project, can I bounce ideas off someone?
+
+Yes absolutely, each project can have unique and important properties to design towards, and in the beginning we don't have many examples to follow. The Revnet telegram is a great place to reach out @revnet_eth, or discord at https://discord.gg/vhVxwh8aD9. If revnets don't turn out to fit your needs, you can always use the juicebox protocol directly for a more hands-on project that can be adapted over time.
 
 ---
 Ethereum is one of a kind. We have incredible respect and gratitude for the work of our peers that make our contributions possible.
