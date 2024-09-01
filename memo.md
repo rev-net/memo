@@ -42,7 +42,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
-     - [Which blockchains?](#what-blockchains)
+     - [Which blockchains?](#which-blockchains)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
