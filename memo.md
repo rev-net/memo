@@ -51,7 +51,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
 
 Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. This has often led to misallocated resources and capital losses.
 
-Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
+Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, AI-agents, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
 Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
@@ -61,9 +61,9 @@ Join us – a group of Web3 builders who have helped facilitate over $180 millio
 
 With today's societal demand for mobility[^1], open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
-- **Scaled Participation:** Flexible and potentially global community with vested interests.
+- **Scaled Participation:** Flexible and potentially-global community with vested interests.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
-- **Cost Efficiency:** Many managerial expenses are not needed when there are no secrets or artificial barriers to progress.
+- **Cost Efficiency:** Many managerial and other expenses are not needed when there are no secrets or artificial barriers to progress.
 
 They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
 
@@ -83,7 +83,7 @@ Auto-enforceable blockchain agreements are the correct building block on which t
 - **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who directly benefited from the outcomes.
 - **No progress:** Take investments and fees to a centralized wallet to operate from just like traditional capital structures, with no networked benefits from the tools at our disposal apart perhaps from automated vesting, airdrops of meme tokens not actually backed by revenue, or tokenized accounting of its own books.
   
-We need a better place to put our money. A revenue-forward growth-oriented solution that is sustainable, reliable, simple, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
+We need a better place to put our entrepreneurial capital and use it effectively. A revenue-forward growth-oriented solution that is sustainable, reliable, simple, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
 We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience designing, building, securing, and distributing Ethereum-based tokenization infrastructure.
 
