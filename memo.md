@@ -34,6 +34,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
    - [2.5 RF1](#rf1)
+   - [2.6 Visual flows](#visual-flows)
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
    - [3.1 Overview](#overview)
    - [3.2 Cartoon hypotheticals](#cartoon-hypotheticals)
@@ -391,6 +392,14 @@ There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund s
 More about RF1 soon.
 
 Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
+
+### 2.6 Visual flows
+
+The following pay flow, cash out flow, and borrow flow illustrate how tokens move and how fees are taken.
+
+<img width="1023" alt="image" src="https://github.com/user-attachments/assets/e3b334aa-cf71-4785-860d-c0a81cc11fe0">
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/55c2c1a4-d935-412e-b31a-660cd79ac20a">
+<img width="1037" alt="image" src="https://github.com/user-attachments/assets/58170ca2-2c74-4bb9-9252-bccd1b94b9dc">
 
 ---
 
