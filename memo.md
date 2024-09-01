@@ -42,6 +42,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
+     - [Which blockchains?](#what-blockchains)
 --- 
 ![image](https://github.com/user-attachments/assets/da371e2b-e834-45ae-bd2e-db5242fc1dde)
 
@@ -560,6 +561,10 @@ There are five core entities in play: $REV, RRG LLC, RF1 LLC, $NANA, and Juicebo
 **Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decision that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
 
 **Immutability risk**: Though a revnet's immutability is its core value proposition, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
+
+#### Which blockchains?
+
+Revnets are built using the Juicebox V4 protocol, which can extend to any new blockchain that can accomodate its "Sucker" interfaces. We're starting on Ethereum, Optimism, Arbitrum, and Base because the Ethereum ecosystem prioritizes immutability and decentralizations more than most, they have the most financial liquidity, and they extend most simply from the previous versions of Juicebox which was Ethereum mainnet only. In order to deploy on Solana, for example, we'd first want to build a Solana version of Juicebox V4 – doable but not a priority right now. 
 
 #### I'm not sure exactly how revnets might fit my project, can I bounce ideas off someone?
 
