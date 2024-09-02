@@ -268,8 +268,7 @@ The following pay flow, cash out flow, and borrow flow illustrate each user jour
 
 <img width="1211" alt="image" src="https://github.com/user-attachments/assets/a4693d54-84cf-45cb-bf52-1448a20cbfc2">
 <img width="1205" alt="image" src="https://github.com/user-attachments/assets/915d5a71-3e6d-47b2-b5fd-70dbb85c57f1">
-<img width="1209" alt="image" src="https://github.com/user-attachments/assets/44f6616b-dfbf-4abd-87b6-ad9a44293993">
-
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/017bb4af-6f9d-4d13-b7f7-e59decb81b86">
 
 
 ### 2.4 $REV
