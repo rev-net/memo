@@ -266,9 +266,10 @@ Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addit
 
 The following pay flow, cash out flow, and borrow flow illustrate each user journey and how fees are taken.
 
-<img width="1023" alt="image" src="https://github.com/user-attachments/assets/e3b334aa-cf71-4785-860d-c0a81cc11fe0">
-<img width="1037" alt="image" src="https://github.com/user-attachments/assets/55c2c1a4-d935-412e-b31a-660cd79ac20a">
-<img width="1037" alt="image" src="https://github.com/user-attachments/assets/7f05e68e-8d01-4854-b85b-660c52d495af">
+<img width="1211" alt="image" src="https://github.com/user-attachments/assets/a4693d54-84cf-45cb-bf52-1448a20cbfc2">
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/51f723bb-0227-40da-a348-78ee01b6b7de">
+<img width="1209" alt="image" src="https://github.com/user-attachments/assets/44f6616b-dfbf-4abd-87b6-ad9a44293993">
+
 
 
 ### 2.4 $REV
