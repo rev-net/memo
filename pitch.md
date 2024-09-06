@@ -1,37 +1,43 @@
 ## Contents
 1. [Overview](#overview)
-2. [Thesis](#thesis) 
-3. [Context](#context)
-4. [Problem](#problem)
-5. [Big bet](#big-bet)
-6. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
-    - [Mission](#mission)
+2. [Context](#context)
+3. [Thesis](#thesis) 
+4. [Revnet Research Group (RRG)](#revnet-research-group-rrg)
+    - [RRG Mission](#rrg-mission)
     - [Bottom line](#bottom-line)
     - [Pitch to investors](#pitch-to-investors)
-    - [Fundraising operations](#fundraising-operations)
     - [Structure](#structure)
     - [Onchain management](#onchain-management)
     - [Offchain management](#offchain-management)
     - [Ideal partners](#ideal-partners)
     - [Roadmap](#roadmap)
-7. [$REV](#rev)
+    - [Spend](#spend)
+5. [$REV](#rev)
     - [Anatomy of a revnet](#anatomy-of-a-revnet)
     - [$REV stage 1](#rev-stage-1)
     - [$REV stage 2](#rev-stage-2)
     - [$REV stage 3](#rev-stage-3)
-8. [Legal](#legal)
-9. [Examples of revnets](#examples-of-revnets)
-10. [Investor FAQ](#investor-faq)
+6. [Legal](#legal)
+7. [Examples of revnets](#examples-of-revnets)
+8. [Investor FAQ](#investor-faq)
     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
     - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
 
 ## Overview
 
-Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new financial structures that fit the contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limited liability corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
+Technological breakthroughs push entrepreneurs, capital providers, and regulators to create and use new standard financial structures that fit the contours of progress. It isn't a coincidence that [joint-stock companies](https://en.wikipedia.org/wiki/Joint-stock_company) were the defining structure of the mercantile era, that [limiting liability of corporations](https://www.jstor.org/stable/764920) played the same role during the Industrial Revolution, or that today's Silicon Valley startups are defined by the use of broad-based equity compensation like [Y-Combinator's Safe financing documents](https://www.ycombinator.com/documents/).[^1]
 
-This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. But for many internet-native businesses, especially crypto projects who champion open source and are innovating on internet-based contracts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers. Several major players, like Uniswap, ENS, Maker, Arbitrum, and Compound have tried to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. In practice, governance and capital allocation is hard, and often leads to vulnerabilities and power struggles.[^2] 
+This decade has seen major progress across many technological domains. Some of these domains, like genomics, are well-served by traditional corporate-stock models. For other internet-native businesses, especially AI and crypto projects who champion open source and are innovating on internet-native concepts, traditional models have clear shortcomings for entrepreneurs, consumers, and capital providers.
 
-**We needed a better financial structure to use for our own upcoming revenue-forward projects we will be fundraising for. We think we've come across a structure that can be broadly productive. We call it a revnet.**
+We think revnets will emerge as the standard for internet businesses and economies. Revnets are a new financial structure made for capitalizing and growing internet-native money relationships. Blackrock CEO Larry Finck says the necessary and inevitable tokenization of everything will enhance the landscape of finance, we think revnets will participate by being the most productive structure for both large organizations and small businesses to tokenize revenues and fundraises throughout the globe. Revnets are the SAFE and C-Corp agreements of this economy but 100x better.
+
+## Context
+
+When planning the upcoming release of several revenue-forward projects of ours, it was clear organizing with traditional models would have clear shortcomings for us as entrepreneurs, for our consumers, and for those interested in allocating capital productively. We've also been observing major crypto players Uniswap, ENS, Maker, Arbitrum, Compound to name a few – try to address these shortcomings by combining standard for-profit companies with tradable tokens and experimental govrenance structures like DAOs. We've noticed that in practice, decentralized governance and capital allocation is hard and often leads to vulnerabilities, inefficiencies, and power struggles. [^2]
+
+We sought a better way given the tools we knew well. Revnets are expressed using the upcoming Juicebox V4 protocol, which is built in large part by the team behind revnets. The team comes from having deployed and progressed the Juicebox protocol over the past 4 years, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network.
+
+This is the same Juicebox that facilitated Constitution DAO, Assage DAO, Shark DAO, Moon DAO, Cryo DAO, the fundraisor for the legal defense of the the tornado cash developers, and payments to 1,331 other projects, facilitating over $185 million in ETH payments. We've witnessed the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tools at our disposal intimately well, and we understand the legal moment when it comes to growing onchain organizations using various types of agreement.
 
 Revnets are a **fully pre-configured** financial structure – although they can evolve over time, they do so according to rules which are set in place at the time of their creation. Think of it like a fancy Bitcoin halvening rule. This means:
 
@@ -40,78 +46,53 @@ Revnets are a **fully pre-configured** financial structure – although they can
 - **Deterministic**: Investors, builders, community, and customers know that each revnet's rules will be enforced programmatically from start to finish.
 - **Familiar**: Transparency and diligence are simple. Once one revnet's workings makes sense, all revnets make sense.
 
-In the same way that standardized traditional legal agreements allow investors to fund offchain startups without adding unnecessary risk each time, a standardized (but configurable) onchain financial structure like revnets, encoded through smart contracts, allows capital providers to confidently fund a wide variety of cryptocurrency projects without the need to separately audit each one's scheme and code.
-
-Revnets also inherit the best properties of smart contracts:
+Revnets also inherit the best properties of the Juicebox V4 smart contracts:
 
 - **Immediacy**: They encode sophisticated financial relationships between global participants which would be impractical to manage with traditional contracts.
 - **Clarity**: They allow for ownership and access rules that can't be subjectively misinterpretted.
-- **Certainty**: They express clear rules which cannot be broken, as opposed to the soft guarantees of legal agreements (which can be difficult to enforce).
+- **Certainty**: They express clearly scheduled rules which cannot be broken.
 - **Auditability**: They are impossible to hide, simplifying diligence for all participants.
+- **Everywhere**: They allow organizations to tokenize their revenue and fundraises on any EVM blockchain, expanding to new ones as they emerge and prove their legitimacy.  
 
 ## Thesis
 
-We're doubling down on revnets as a vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. We're open to partners who can help propel this thesis forward.
+Revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
 
-## Context
+With revnets, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike.
 
-The team behind revnets comes from building Juicebox.
-
-[In July 2021](https://docs.juicebox.money/updates/juicebox-deployed/) Jango and Peri launched [Juicebox](https://juicebox.money) – a programmable financial model which allows anyone to accept and manage funds, issue tokens and NFTs to supporters, and offer hard guarantees, without third parties, secured by its smart contracts. Juicebox exposes a handful of tunable levers that allow for open ended expression of financial relationships – commonly used for fundraisers and indy projects. Revnets are one such expression of the Juicebox language.
-
-As of June 2024, Juicebox has facilitated $185,539,642 in ETH payments to 1,331 projects. Importantly, Juicebox has been built and maintained by a group of sudo-anonymous people on internet organized under JuiceboxDAO, which is itself organized using the Juicebox model. At its core, the experiment has been to create tools that facilitate business models of the future, starting with $JBX – the protocol's fee-collecting token.
-
-We've witnessed the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tools at our disposal intimately well, and we understand the legal barriers to growing onchain organizations using status quo agreements.
-
-## Problem
-
-Over the last 4 years building Juicebox, we've seen compelling consumer crypto offerings emerge around us, but few have struck [onchain](https://ethereum.org/en/glossary/#on-chain) sustainability. Despite their audience, many organizations continue relying only on traditional cap tables, term sheets, payrolls, and rent-seeking fee structures because productive and safe onchain alternatives haven't been well-demonstrated. Others stick to a public goods narrative that sidesteps conversations about risks and incentives altogether. 
-
-As we considered how we'd set up a juicebox today to manage fundraises and incoming revnues for upcoming projects of ours, we felt certain one governed by a group of people – however tokenized and democratic – wasn't ideal.
-
-Even the best onchain organizational expirements still suffer from governance and management risks that take dedicated attention to make worthwhile. A few meaningful governance processes can be great, but at scale we need more sustainable and regenerative value-capture that doesn't introduce more and more governance. We need a structure that unlocks the value of capitalizing fundraises and revenues onchain, but doesn't create new fragilities that require perpetual attention.
-
-## Big bet
-
-We think revnets can power millions of startups to become global movements, high net-worth interconnected economies, and retail-owned brands that outcompete traditional private alternatives.
-
-If we're right, the open internet will win _because_ it best serves creatives, builders, investors, and consumers alike. The future econonics of cryptocurrency economies, social media platforms, and AI models – who each benefit from mass consumer interaction as much as consumers benefit from being a part of them – is bright.
-
-<!-- TODO: Should we have a graphic here? -->
+We're open to partners who can help propel this thesis forward.
 
 ## Revnet Research Group (RRG)
 
-We'd like to begin a dedicated Revnet Research Group (RRG) corporation to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We're starting a dedicated Revnet Research Group (RRG) LLC to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
-We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev).
+We think it's important for RRG to set an example of how a corporate entity can be successful as a scoped subcomponent of a public onchain revnet structure, in this case [$REV (see below)](#rev). 
 
-### Mission
+### RRG Mission
 
-Bet on revnets to encourage the growth and sustainability of open internet economies.
+Encourage the growth and sustainability of open internet economies – large and small – through revnets. We're shooting for $1 billion of assets locked in revnets in 4 years.
+
+In the short term, we've got 10 game changing projects ready to use revnets, including the fee-collecting project of the Juicebox V4 protocol. We need to make sure they are all wildly successful, delivering revnets as the clear vision of how wealth will be most productively created and distributed in our future characterized by digital networks and cryptographic identities. 
 
 ### Bottom line
 
-RRG accumulates $REV and adds value to it in three ways: making web tools like [revnet.app](https://revnet.app) that let anyone browse and participate in revnets, building dev tools that make revnets easier to integrate, and accelerating new revnets.
+RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, building dev tools that make revnets easier to integrate within financial and white labeled applications, and accelerating new revnets in dynamic ways.
 
-The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. 
+While doing so, RRG will accumulate $REV. The $REV revnet receives a 2.5% network fee whenever someone cashes out from any revnet. The fee is used to either issue new $REV from its revnet or buyback $REV from the market, depending on which is a better deal. RRG receives a portion of both $REV issuance and buybacks as the fees come in. More on this [below](#rev). 
 
-RRG will also charge fees to help facilitate access to revnets by traditional finance and tech organizations.
+RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
 ### Pitch to investors
 
-We're raising $5m by selling 10% of the company Revnet Research Group at a $50m valuation.
+We encourage investors to participate directly in the $REV revnet from their favorite EVM chain, see [below](#rev) for details. The first 90 days of revnet will favor grassroots investors.
 
-We will use the bulk of this money to support the launch and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the money to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead).
-
-### Fundraising operations
-
-We will use a SAFE.
+For those investors who prefer interacting with a corporation in fiat instead of accessing $REV directly, RRG can facilitate access while also charging a 1% management fee per year of management, paid in $REV.
 
 <!-- TODO: This is YC Safe and not Gnosis, right? We should specify which kind (post-money MFN no cap no discount?) and combine with the prior section. -->
 
 ### Structure 
 
-RRG is a Delaware C corporation – 51% owned by Jango, 39% reserved for staff, 10% sold to investors.
+RRG is an LLC owned by Jango, Filip, Aeolian, KMac, and Rob. RRG is a [$REV](#rev) token holder alongside other holders.
 
 ### Onchain management 
 
@@ -140,13 +121,19 @@ Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a gro
 
 ### Ideal partners
 
-We're open to partners who want to help with growth strategies. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+Anyone is welcome, though we want to especially encourage partners who want to help with growth strategies and could see themselves using revnets in other areas of their portfolio. We (folks from around the Juicebox community) are about to deploy Juicebox v4 and the first [cohort of production revnets](#examples-of-revnets). We're looking for partners who believe in the mission, believe in the team, and can help make this launch chapter successful.
+
+We want to invite both token-confortable people to interact directly from their favorite EVM blockchain, and token-curious people to interact through RRG.
 
 ### Roadmap
 
 1. Grow by facilitating growth. Help revnets accept more money by building great products like [revnet.app](https://www.revnet.app) and offering services to offchain institutions which allow them to participate in revnets. 
-2. In 8 years, once there are hundreds of billion dollar networks running as revnets, IPO to give conventional financial markets exposure to $REV.
-3. In 15 years, consider cashing out of $REV positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders. 
+2. In 8 years, once there are hundreds of billion dollar networks running as revnets, consider either heading towards an IPO explicitly to give conventional financial markets exposure to $REV and the rest of RRG's revnet-based portfolio, or skipping to step 3.
+3. In 15 years, consider cashing out of $REV and other positions and offering buybacks – doing so will consolidate the $REV network's value towards remaining holders.
+
+### Spend
+
+RRG will use the bulk of the $REV it earns to support the launch, security, and marketing of revnet.app and associated revnets over the next 3 years. We will use some of the $REV to staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), rob (legal).
 
 ## $REV
 
@@ -170,9 +157,9 @@ Built using Juicebox v4, revnets can grow to accept money on new [EVM-compatible
 
 ### $REV stage 1
 
-_Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
+_Inaugural 90 day $REV sale ⏩. Your payments are worth 2.5x what they'll be worth in stage 2. Mint the first of two batches of tokens to honor pre-launch work._
 
-- **Duration:** 77 days.
+- **Duration:** 90 days.
 - **Initial price:** 1 $REV costs 0.001 ETH.
 - **Price increase:** None.
 - **Split:** 20% split of issuance and buybacks operated by `rrg.rev.eth`. 10% routed to `rrg.rev.eth` (RRG), and 10% to `dao.jbx.eth` (JuiceboxDAO).
@@ -181,12 +168,12 @@ _Inaugural 77 day $REV sale ⏩. Your payments are worth 2.5x what they'll be wo
 
 ### $REV stage 2
 
-_The price of issuing new $REV is doubled every 77 days for 770 days._
+_The price of issuing new $REV is doubled every 180 days for 720 days._
 
-- **Duration:** 770 days (~2 years).
+- **Duration:** 720 days (~2 years).
 - **Initial price:** 1 $REV costs 0.002 ETH, double the price of stage 1.
-- **Price increase:** 100% (double) every 77 days, “halving”.
-- **Split:** 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
+- **Price increase:** 100% (double) every 180 days, “halving”.
+- **Split:** 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** none.
 - **Cash out tax:** No change. Medium-high (0.6).
 
@@ -194,10 +181,10 @@ _The price of issuing new $REV is doubled every 77 days for 770 days._
 
 _Vest last $REV for pre-net work._
 
-- **Duration:** 7777 days. (~22 years)
+- **Duration:** 7_200 days. (~20 years)
 - **Initial price:** Where stage 2 left off.
-- **Price increase:** Continue doubling every 77 days.
-- **Split:** No change. 38% of issuance and buybacks operated by `rrg.rev.eth`. 19% routed to `rrg.rev.eth`, 19% to `dao.jbx.eth`.
+- **Price increase:** Doubling every 360 days.
+- **Split:** No change. 20% of issuance and buybacks operated by `rrg.rev.eth`. 6% burnt, 7% routed to `rrg.rev.eth`, 7% to `dao.jbx.eth`.
 - **Automint:** 128_000 $REV to `rrg.rev.eth` for pre-net work. Of this $REV, 35_000 will be sent to `dao.jbx.eth`, 20_000 to `breadfruit.eth`, 20_000 to `filipv.eth`, 20_000 to `codalabs.eth`, 10_000 to `openesquire.eth`, 5_000 to `kmacb.eth`, 5_000 to `0xba5ed.eth`, 5_000 to `noobwonder.eth`, 5_000 to [Peel](https://juicebox.money/@peel), 1_000 to `drgorilla.eth`, 1_000 to [Juicecast](https://juicebox.money/@juicecast), 1_000 to `peacenode.eth`, and 1_000 to LJ.
 - **Cash out tax:** No change. Medium-high (0.6).
 
@@ -240,11 +227,11 @@ Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
 
 ### Should I invest in RRG, $REV, or...?
 
-There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
+There are three core entities in play: $REV, RRG LLC, and JuiceboxDAO ($JBX). According to the $REV specs above, RRG and JuiceboxDAO are both expected to receive a split of $REV issuance and buybacks, making them great proxies to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with each entities' governance process.
 
-- RRG Corporation is the only way to access the ecosystem for participants who don't want to access tokens directly onchain.
+- The only current way to access the ecosystem for participants who don't want to access tokens directly onchain is through RRG. RRG will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee. RRG is not investible directly.
 - For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, it may be advantageous to build direct exposure to $REV to bet on revenue growth without proxies.
+- Also for those onchain, build direct exposure to $REV to benefit from revenue growth without proxies.
 
 ### What are the risks I should be aware of?
 
@@ -252,7 +239,7 @@ There are three core entities in play: $REV, RRG Corporation, and JuiceboxDAO ($
 
 **Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to persue emergent opportunities. Engaging in either RRG or $JBX should warrent due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
 
-**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to bet on their success. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up to, and will lean on $REV energy to help us reach critical mass.
+**Market risk**: RRG is a for-profit organization that will look to build its $REV exposure and harness its specialization in revnets to become successful. We believe revnets are marketable and can outcompete alternative organizational structures, but this is an unproven thesis with projects outside of our own. Choosing an organizational token structure is a big decisions that each project tends to make only once and stick to forever afterward. It's hard to become the standard structure, but once the standard is set it tends to stick. At first, the revnet sales cycle will likely be long, we'll want to observe how the structure provides value both as a supportive component of already-existing organizations, and as the core piece of new orgs starting up. We'll lead the way with great examples of successful revnets folks can look up, starting with $REV, whose energy will help us reach critical mass.
 
 **Immutability risk**: Though a revnet's immutability is its core value prop, some might also view this as a risk. A revnet is impossible to course correct once deployed and legitimacy has been established. Mainly, the $REV specification that determines issuance policy could turn out to not motivate activity as much as intended. A perfect revnet configuration is hard to know ahead of time, and there aren't many levers that expose control within its ruleset – like bitcoin, the hardcoded rules can only teleologically be deemed productive if the network proves itself in competition with forked alternatives. The two variables that do offer control and flexibility within the $REV revnet specs are the 38% split that rrg.rev.eth will operate, and the autominted tokens. RRG can play a part in reorienting priorities using the split in order to stimulate some desired behavior, and can reasonably expect the autominted token holders to act in the best interest of the network's growth.
 
