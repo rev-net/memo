@@ -346,19 +346,25 @@ RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV 
 
 #### Onchain management 
 
-Onchain, RRG will manage its $REV with a 2/3 multisig at `rrg.eth`. The multisig is controlled by:
+Onchain, RRG will manage its $REV with a 2/4 multisig at `rrg.eth`. The multisig is controlled by:
 
 - `breadfruit.eth` (jango)
+- `0xBa5ed.eth` (0xBa5ed)
 - `dao.jbx.eth` (JuiceboxDAO)
 - `openesquire.eth` (Robert Leonhard)
 
 #### Offchain management
 
-Offchain management of the corporation will be led by Jango, with legal counsel from Robert and with help from other members of the Juicebox community:
+Offchain management of the corporation will be led by Jango, with legal counsel from Robert and with help from other members of the Juicebox community, including 0xBa5ed and Nowonder – among those most knowledgable about Juicebox smart contracts.
 
 [Jango](https://jango.eth.sucks) cofounded and has developed the [Juicebox](https://juicebox.money) protocol to support organizational money experiments on the public internet over the past 4 years.
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
+
+0xBa5ed has been working on Juicebox since 2022, helping to author and secure the protocol's smart contracts, with a focus on its cross-chain aspects.
+
+Nowonder has been working on Juicebox since 2023, helping to write a complete testing suit for the JuiceboxV4 protocol and all of its contractual components.
+
 
 #### Spend
 
