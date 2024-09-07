@@ -197,7 +197,7 @@ Investors interested in the promise of revnets should know there are three core 
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets – revnets are built using Juicebox V4 after all. $JBX is the mothership and will continue to be the juicebox ecosystem's governance token that invests in its development while managing and allocating a book of assets, largely juicebox-based and revnet-based tokens it holds such as $NANA and $REV. $NANA is the upcoming Juicebox V4 protocol's fee collecting project, itself a revnet, which will be broadly held by Juicebox DAO. Think of $NANA as a unit of account capturing protocol revenues from V4 that accrue to $JBX governance. 
+It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets – revnets are built using Juicebox V4 after all. $JBX is the mothership and will continue to be the juicebox ecosystem's governance token that invests in its development while managing and allocating a book of assets, largely juicebox-based and revnet-based tokens it holds such as $NANA, $REV, $BANNY, etc. $NANA and $BANNY are explained in section 3 of this memo, $REV is explained below.
 
 In summary, they have the following relationships:
 - $REV's split is operated by RRG, described below.
@@ -380,7 +380,7 @@ The technical and product todos include:
 
 The marketing todos include:
 - tell the revnet story.
-- support the success of the initial cohort of revnets by telling each of their stories.
+- support the success of the initial cohort of revnets by telling each of their stories. See section 3 for examples.
 - create a trustworthy brand.
 - run a "This Ad is funded by a revnet" campaign, and other concepts.
 
@@ -460,7 +460,7 @@ An onchain game can route a fee from its smart contracts to a revnet, splitting 
 
 ### 3.3 Upcoming revnets
 
-Below are some other revnets we're helping launch this next year within each of these categories:
+Below are some other revnets we're helping launch this next year within each of these categories. They are game changers.
 
 ### $NANA
 |      |        |
@@ -480,10 +480,10 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
 | **Business model category**  |  Direct sales |
 | **Organizational category**  |  Hybrid |
-| **Value prop**  |  Captures revenues from [Bannyverse mints](https://mint.banny.eth.sucks). |
-| **$BANNY distribution** | Banana Box Office Entertainment (BBO) & JuiceboxDAO will each start out with some initial supply. BBO will retain a percentage of supply as $BANNY are issued or bought back. |
-| **Big bet** | Banny's relatability and bluntness can make him a modern internet icon, and the production team is ripe to make it happen. If Banny successfully makes modern tech culture's ambitions and hypocrisy relatable through the propagation of stories, assets, and values, the Bannyverse can accompany the growth of the post-platform internet. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
-| **Edge** | If character-based storytelling is key to relatability, $BANNY and BBO are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
+| **Value prop**  |  Captures revenues from [Banny mints](https://mint.banny.eth.sucks). |
+| **$BANNY distribution** | Banny Looks, LLC (BLLC) & JuiceboxDAO will each start out with some initial supply. BLLC will retain a percentage of supply as $BANNY are issued or bought back. |
+| **Big bet** | Banny's relatability and bluntness can make him/her a modern internet fashion icon, and the BLLC production team is ripe to make it happen. If Banny successfully reflects internet culture back to itself, making modern tech culture's ambitions and hypocrisy relatable through the propagation of fashion, stories, and values, Banny can be the hero of post-platform internet fashion. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
+| **Edge** | If character-based storytelling is key to relatability, $BANNY and BLLC are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
 | **Risks** | There's a sea of content out there, it'll likely take persistence and increasingly better writing to break through. |
 
 ### $SUCKS
