@@ -398,10 +398,9 @@ More about RF1 soon.
 
 The following pay flow, cash out flow, and borrow flow illustrate each user journey and how fees are taken.
 
-<img width="1075" alt="image" src="https://github.com/user-attachments/assets/0bc14f45-77a6-4c47-8511-0f7ad9768721">
-<img width="1205" alt="image" src="https://github.com/user-attachments/assets/915d5a71-3e6d-47b2-b5fd-70dbb85c57f1">
-<img width="1072" alt="image" src="https://github.com/user-attachments/assets/017bb4af-6f9d-4d13-b7f7-e59decb81b86">
-
+<img width="1162" alt="image" src="https://github.com/user-attachments/assets/a56877cd-10d4-4b90-a1aa-57145e3e3449">
+<img width="1289" alt="image" src="https://github.com/user-attachments/assets/a62bc03a-15a4-4900-9fa1-15f9452a65a9">
+<img width="1289" alt="image" src="https://github.com/user-attachments/assets/e2eb26e0-5fbd-4d41-a620-a4e2bf4b2108">
 
 ---
 
