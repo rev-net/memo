@@ -344,7 +344,7 @@ In the short term, we need to make sure the upcoming revnets have a great chance
 
 #### Bottom line
 
-RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, leverage its $REV balance towards marketing and ecosystem development, and accelerating new revnets with consulting, funding, tools, and staff.
+RRG will achieve its mission in three ways: build and market a great [revnet.app](https://revnet.app) – the trusted web link to browse and participate in revnets through, leverage its $REV balance towards marketing and ecosystem development, and accelerate new revnets with consulting, funding, tools, and staff.
 
 RRG will also have leverage to charge fees when facilitating access to revnets for traditional institutions.
 
