@@ -26,7 +26,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
      - [Accessibility](#accessibility)
-   - [2.4 RRG](#2.4-rrg)
+   - [2.4 Revnet Research Group (RRG)](#2.4-revnet-research-group-rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
