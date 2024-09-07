@@ -342,36 +342,39 @@ RRG will also have leverage to charge fees when facilitating access to revnets f
 
 #### Structure 
 
-RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV tokens and the development of the #REV ecosystem. The LLC will have four members: Jango, Filip, Aeolian, and KMac. Given its member-managed structure, these individuals will actively participate in the management and decision-making processes of the LLC, ensuring a hands-on approach to both investment strategies and ecosystem development. The primary business activities will include acquiring and holding $REV tokens, as well as fostering growth and innovation within the Revnet ecosystem through various initiatives and partnerships.
+RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV tokens and the development of the #REV ecosystem. The LLC will be a single member LLC: Jango. Given its member-managed structure, these individuals will actively participate in the management and decision-making processes of the LLC, ensuring a hands-on approach to both investment strategies and ecosystem development. The primary business activities will include acquiring and holding $REV tokens, as well as fostering growth and innovation within the Revnet ecosystem through various initiatives and partnerships.
 
 #### Onchain management 
 
-Onchain, RRG will manage its $REV with a 3/6 multisig at `rrg.eth`. The multisig is controlled by:
+Onchain, RRG will manage its $REV with a 2/3 multisig at `rrg.eth`. The multisig is controlled by:
 
 - `breadfruit.eth` (jango)
-- `filipv.eth` (Filip)
-- `codalabs.eth` (Aeolian)
-- `kmac.eth` (Kmac)
 - `dao.jbx.eth` (JuiceboxDAO)
 - `openesquire.eth` (Robert Leonhard)
 
 #### Offchain management
 
-Offchain management of the corporation will be led by Jango, Filip, Aeolian, KMac, Robert, and other members of the Juicebox community:
+Offchain management of the corporation will be led by Jango, with legal counsel from Robert and with help from other members of the Juicebox community:
 
-[Jango](https://jango.eth.sucks) founded and has developed the [Juicebox](https://juicebox.money) protocol to support organizational money experiments on the public internet.
-
-[Filip](https://filip.world) has been working on Juicebox since November 2021, focusing on documentation, off-chain tools and services, and frontend development, as well as directly supporting many Juicebox project creators.
-
-[Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
-
-[KMac](https://kmacb.eth.limo) is an experienced entrepreneur who has been contributing to multiple DAOs including Solace, Purple, Juicebox and Defifa.
+[Jango](https://jango.eth.sucks) cofounded and has developed the [Juicebox](https://juicebox.money) protocol to support organizational money experiments on the public internet over the past 4 years.
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
 #### Spend
 
-RRG will use the $REV it earns to support the launch, security, and distribution of revnet.app and associated revnets. We will staff jango (project/tech lead), filip (ops/tech lead), aeolian (consumer/tech lead), kmac (marketing/tech lead), and rob (legal). 
+RRG will use the $REV it earns to support the launch, security, and distribution of revnet.app and associated revnets. We will 
+
+1. staff jango (project/contract/tech lead).
+2. look to hire a client-side lead for revnet.app (since aeolian will be handing off development once deployed).
+3. look to hire an operations lead (since filip will be handing off ops responsibilities once deployed).
+4. retain rob (legal).
+5. retain kmac (advisor, helper).
+
+[Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
+
+[Filip](https://filip.world) has been working on Juicebox since November 2021, focusing on documentation, off-chain tools and services, and frontend development, as well as directly supporting many Juicebox project creators.
+
+[KMac](https://kmacb.eth.limo) is an experienced entrepreneur who has been contributing to multiple DAOs including Solace, Purple, Juicebox and Defifa.
 
 The technical and product todos include:
 - iterate on revnet.app to best serve revnet participation and creation.
@@ -383,6 +386,11 @@ The marketing todos include:
 - support the success of the initial cohort of revnets by telling each of their stories. See section 3 for examples.
 - create a trustworthy brand.
 - run a "This Ad is funded by a revnet" campaign, and other concepts.
+
+The partnership todos include:
+- make the case to founders, DAOs, and VCs that they should be structuring their deals as revnets.
+- mediate between offchain interactions and onchain revnet transactions on behalf of traditional partners. 
+- build relationships with the support structures of each blockchain revnets operate on.
 
 #### Contact
 
