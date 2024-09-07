@@ -465,7 +465,7 @@ Below are some other revnets we're helping launch this next year within each of 
 ### $NANA
 |      |        |
 |------|--------|
-| **Site** | [https://nana.eth.sucks](https://bananapus.eth.sucks) |
+| **Site** | [https://nana.eth.sucks](https://nana.eth.sucks) |
 | **Business model category**  |  Direct sales |
 | **Organizational category**  |  Onchain |
 | **Value prop**  |  Captures revenues from the omnichain Juicebox V4's 2.5% fee. |
