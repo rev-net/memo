@@ -4,7 +4,7 @@
 This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
 2. **What are the terms?:** Includes specifics of how you are invited to participate as investors, and an FAQ.
-3. **What do they look like?:** Illustrates the opportunity with examples and case studies.
+3. **What do they look like?:** Illustrates the opportunity with examples, case studies, and a peak into various game changing revnets being planned. 
 
 Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet.
 
