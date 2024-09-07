@@ -21,20 +21,21 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
    - [2.2 Anatomy of a revnet | Advanced](#anatomy-of-a-revnet-advanced)
       - [Tuning](#tuning)
       - [Loans](#loans)
-   - [2.3 Visual flows](#visual-flows)
-   - [2.4 $REV](#rev-1)
+   - [2.3 $REV](#rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
      - [Accessibility](#accessibility)
-   - [2.5 RRG](#rrg)
+   - [2.4 RRG](#rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
      - [Onchain management](#onchain-management)
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
-   - [2.6 RF1](#rf1)
+   - [2.5 RF1](#rf1)
+   - [2.6 Visual flows](#visual-flows)
+
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
    - [3.1 Overview](#overview)
    - [3.2 Cartoon hypotheticals](#cartoon-hypotheticals)
@@ -262,16 +263,7 @@ Loans can last a maximum of 10 years. A borrower can choose to pay over time at 
 
 Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addition to this fee charged to the revnet being borrowed from.
 
-### 2.3 Visual flows
-
-The following pay flow, cash out flow, and borrow flow illustrate each user journey and how fees are taken.
-
-<img width="1075" alt="image" src="https://github.com/user-attachments/assets/0bc14f45-77a6-4c47-8511-0f7ad9768721">
-<img width="1205" alt="image" src="https://github.com/user-attachments/assets/915d5a71-3e6d-47b2-b5fd-70dbb85c57f1">
-<img width="1072" alt="image" src="https://github.com/user-attachments/assets/017bb4af-6f9d-4d13-b7f7-e59decb81b86">
-
-
-### 2.4 $REV
+### 2.3 $REV
 
 RRG is setting up $REV's revnet rules attempting to emphasize the following principles: 
 - **Simple:** Its rules play out in 3 stages that should be easy to think about, with occasional important shifts that feel ceremonial.
@@ -330,7 +322,7 @@ We want to especially encourage investors to join who see potential use for revn
 
 Both token-comfortable people interacting directly from their favorite EVM blockchain, and token-curious people interacting using traditional methods through RF1, are welcome. 
 
-### 2.5 Revnet Research Group (RRG)
+### 2.4 Revnet Research Group (RRG)
 
 We'll use an LLC named Revnet Research Group to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
 
@@ -392,13 +384,24 @@ The marketing todos include:
 - create a trustworthy brand.
 - run a "This Ad is funded by a revnet" campaign, and other concepts.
 
-### 2.6 RF1
+#### Contact
+
+Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
+
+### 2.5 RF1
 
 There will also be a Rev Fund 1, LLC, a Delaware-based private investment fund structured as a limited liability company. Its primary focus will be on investing in $REV projects, with an investment mandate managed by a registered investment advisor (RIA). The fund will target private investors who meet the standard accreditation and qualification criteria, complying with the 3(c)(1) exemption under the Investment Company Act. Capital will be raised through a private placement offering, with investors committing to specified minimum investment amounts. The RIA managing the fund will charge a 2% management fee, ensuring dedicated oversight and strategic investment in the $REV ecosystem. This fee structure aligns with industry standards, providing transparency and incentivizing effective fund management.
 
 More about RF1 soon.
 
-Learn more and reach us from RRG at [rev.eth.sucks](https://rev.eth.sucks).
+### 2.6 Visual flows
+
+The following pay flow, cash out flow, and borrow flow illustrate each user journey and how fees are taken.
+
+<img width="1075" alt="image" src="https://github.com/user-attachments/assets/0bc14f45-77a6-4c47-8511-0f7ad9768721">
+<img width="1205" alt="image" src="https://github.com/user-attachments/assets/915d5a71-3e6d-47b2-b5fd-70dbb85c57f1">
+<img width="1072" alt="image" src="https://github.com/user-attachments/assets/017bb4af-6f9d-4d13-b7f7-e59decb81b86">
+
 
 ---
 
