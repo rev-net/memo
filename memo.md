@@ -346,10 +346,11 @@ RRG, LLC will be a Delaware-based entity primarily engaged in investing in $REV 
 
 #### Onchain management 
 
-Onchain, RRG will manage its $REV with a 2/4 multisig at `rrg.eth`. The multisig is controlled by:
+Onchain, RRG will manage its $REV with a 3/5 multisig at `rrg.eth`. The multisig is controlled by:
 
 - `breadfruit.eth` (jango)
 - `0xBa5ed.eth` (0xBa5ed)
+- `noobwonder.eth` (nowonder)
 - `dao.jbx.eth` (JuiceboxDAO)
 - `openesquire.eth` (Robert Leonhard)
 
@@ -370,7 +371,7 @@ Nowonder has been working on Juicebox since 2023, helping to write a complete te
 
 RRG will use the $REV it earns to support the launch, security, and distribution of revnet.app and associated revnets. We will 
 
-1. staff jango (project/contract/tech lead).
+1. staff jango (project/contract/tech lead), 0xBa5ed (tooling lead), Nowonder (testing lead).
 2. look to hire a client-side lead for revnet.app (since aeolian will be handing off development once deployed).
 3. look to hire an operations lead (since filip will be handing off ops responsibilities once deployed).
 4. retain rob (legal).
