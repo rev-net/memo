@@ -10,37 +10,37 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
-   - [1.1 TLDR](#1-1-tldr)
-   - [1.2 Overview](#1-2-overview)
-   - [1.3 Anatomy of a revnet | Introduction](#1-3-anatomy-of-a-revnet-intro)
-   - [1.4 Why now? Why us?](#1-4-why-now-why-us)
-   - [1.5 Call to action](#1-5-call-to-action)
-   - [1.6 Examples](#1-6-examples)
+   - [1.1 TLDR](#1.1-tldr)
+   - [1.2 Overview](#1.2-overview)
+   - [1.3 Anatomy of a revnet | Introduction](#1.3-anatomy-of-a-revnet-intro)
+   - [1.4 Why now? Why us?](#1.4-why-now-why-us)
+   - [1.5 Call to action](#1.5-call-to-action)
+   - [1.6 Examples](#1.6-examples)
 2. [Part 2 – What are the terms?](#part-2--what-are-the-terms)
-   - [2.1 Overview](#2-1-overview)
-   - [2.2 Anatomy of a revnet | Advanced](#2-2-anatomy-of-a-revnet-advanced)
+   - [2.1 Overview](#2.1-overview)
+   - [2.2 Anatomy of a revnet | Advanced](#2.2-anatomy-of-a-revnet-advanced)
       - [Tuning](#tuning)
       - [Loans](#loans)
-   - [2.3 $REV](#2-3-rev-1)
+   - [2.3 $REV](#2.3-rev-1)
      - [$REV stage 1](#rev-stage-1)
      - [$REV stage 2](#rev-stage-2)
      - [$REV stage 3](#rev-stage-3)
      - [Accessibility](#accessibility)
-   - [2.4 Revnet Research Group (RRG)](#2-4-revnet-research-group-rrg)
+   - [2.4 Revnet Research Group (RRG)](#2.4-revnet-research-group-rrg)
      - [RRG Mission](#rrg-mission)
      - [Bottom line](#bottom-line)
      - [Structure](#structure)
      - [Onchain management](#onchain-management)
      - [Offchain management](#offchain-management)
      - [Spend](#spend)
-   - [2.5 RF1](#2-5-rf1)
-   - [2.6 Visual flows](#2-6-visual-flows)
+   - [2.5 RF1](#2.5-rf1)
+   - [2.6 Visual flows](#2.6-visual-flows)
 
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
-   - [3.1 Overview](#3-1-overview)
-   - [3.2 Cartoon hypotheticals](#3-2-cartoon-hypotheticals)
-   - [3.3 Real upcoming revnets](#3-3-real-upcoming-revnets)
-   - [3.4 FAQ](#3-4-faq)
+   - [3.1 Overview](#3.1-overview)
+   - [3.2 Cartoon hypotheticals](#3.2-cartoon-hypotheticals)
+   - [3.3 Real upcoming revnets](#3.3-real-upcoming-revnets)
+   - [3.4 FAQ](#3.4-faq)
      - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
      - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
@@ -170,7 +170,12 @@ We've also seen the negligence and gross extractive tendencies that over-leverag
 
 Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects – many of our own – to hit the gas with confidence and without incumbent tradeoffs. 
 
-Their time is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
+For those already familiar with Juicebox, note that revnets are just Juicebox projects with three special traits:
+- **No Ownership:** They are owned by a special smart contract that enforces rules throughout the project's life, as opposed to being owned by an entity that can influence changes over time. This contract grants a few scoped permissions to the address initially specified as the revnet's split operator.
+- **No Payouts:** They have no payouts, meaning all funds stay in the treasury backing the value of the project's tokens, and can only be accessed by token holders themselves. 
+- **Revnet fee:** They incur an extra 2.5% fee on cash outs (redemptions), accruing to $REV.
+
+The time for revnets is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
 Speculatively, if AI-agent networks continue to gain adoption, revnets will exist to enrich users of AI-produced goods and serviecs who's marginal cost of work tends toward zero, in contrast to incumbent models that extract from users to enrich AIs and their centralized creators.
 
@@ -285,7 +290,7 @@ _Price increases by 50% every 90 days. 40% of issuance and buybacks to Revnet Re
 | **Automint**       | 69,000 $REV to `rrg.eth` for pre-launch work. |
 | **Cash out tax**   | Medium (0.5). The network consolidates when holders cash out.                                                                                                                                                                                         |
 
-> RRG can shape the split distribution within the hardwired 40% over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will have 32% routed to `rrg.eth`, and 8% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
+> RRG can shape the split distribution within the hardwired 40% over time (or relinquish the power), and will receive the initial automint. Prospectively, the 40% split will have 42% routed to `rrg.eth`, and 8% to `dao.jbx.eth`. The 69,000 automint will have 25,000 sent to `dao.jbx.eth` (JuiceboxDAO), 10,000 to `breadfruit.eth`, 10,000 to `filipv.eth`, 10,000 to `codalabs.eth`, 4,000 to `openesquire.eth`, 2,000 to `kmacb.eth`, 2,000 to `0xba5ed.eth`, 2,000 to `noobwonder.eth`, 2,000 to [Peel](https://juicebox.money/@peel), 1,000 to `drgorilla.eth`, 1,000 to `peacenode.eth`, 500 to [Juicecast](https://juicebox.money/@juicecast), and 500 to LJ.
 
 ##### $REV stage 2
 
@@ -351,18 +356,23 @@ Onchain, RRG will manage its $REV with a 3/5 multisig at `rrg.eth`. The multisig
 - `breadfruit.eth` (jango)
 - `0xBa5ed.eth` (0xBa5ed)
 - `noobwonder.eth` (nowonder)
+- `johnnyd.eth` (johnnyd)
 - `dao.jbx.eth` (JuiceboxDAO)
 - `openesquire.eth` (Robert Leonhard)
 
 #### Offchain management
 
-Offchain management of the corporation will be led by Jango, with legal counsel from Robert and with help from other members of the Juicebox community, including 0xBa5ed and Nowonder – among those most knowledgable about Juicebox smart contracts.
+Offchain management of the corporation will be led by Jango, with legal counsel from Robert and with help from other members of the Juicebox community, including 0xBa5ed, JohnnyD, Wraeth, Nowonder – among those most knowledgable about Juicebox smart contracts and client-side SDKs.
 
 [Jango](https://jango.eth.sucks) cofounded and has developed the [Juicebox](https://juicebox.money) protocol to support organizational money experiments on the public internet over the past 4 years.
 
 Robert Leonhard is the co-founder of [Open Esquire](https://openesq.tech), a group of legal engineers serving Ethereum projects and many Juicebox projects.
 
 0xBa5ed has been working on Juicebox since 2022, helping to author and secure the protocol's smart contracts, with a focus on its cross-chain aspects.
+
+JohnnyD has been working on Juicebox since 2022, helping write the juicebox.money ecosystem explorer.
+
+Wraeth has been working on Juicebox since 2022, helping write the juicebox.money ecosystem explorer.
 
 Nowonder has been working on Juicebox since 2023, helping to write a complete testing suit for the JuiceboxV4 protocol and all of its contractual components.
 
@@ -371,11 +381,12 @@ Nowonder has been working on Juicebox since 2023, helping to write a complete te
 
 RRG will use the $REV it earns to support the launch, security, and distribution of revnet.app and associated revnets. We will 
 
-1. staff jango (project/contract/tech lead), 0xBa5ed (tooling lead), Nowonder (testing lead).
-2. look to hire a client-side lead for revnet.app (since aeolian will be handing off development once deployed).
+1. staff jango (project/contract/tech lead).
+2. staff 0xBa5ed and Nowonder as dev tooling and contract security leads.
+2. staff JohnnyD and Wraeth as client-side leads for revnet.app (since aeolian will be handing off development once deployed).
 3. look to hire an operations lead (since filip will be handing off ops responsibilities once deployed).
+5. staff kmac (bizdev).
 4. retain rob (legal).
-5. retain kmac (advisor, helper).
 
 [Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
 
@@ -494,7 +505,7 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Site** | [https://banny.eth.sucks](https://banny.eth.sucks) |
 | **Business model category**  |  Direct sales |
 | **Organizational category**  |  Hybrid |
-| **Value prop**  |  Captures revenues from [Banny mints](https://mint.banny.eth.sucks). |
+| **Value prop**  |  Captures revenues from the [Banny shop](https://shop.banny.eth.sucks). |
 | **$BANNY distribution** | Banny Looks, LLC (BLLC) & JuiceboxDAO will each start out with some initial supply. BLLC will retain a percentage of supply as $BANNY are issued or bought back. |
 | **Big bet** | Banny's relatability and bluntness can make him/her a modern internet fashion icon, and the BLLC production team is ripe to make it happen. If Banny successfully reflects internet culture back to itself, making modern tech culture's ambitions and hypocrisy relatable through the propagation of fashion, stories, and values, Banny can be the hero of post-platform internet fashion. <br><br>In turn, JuiceboxDAO, $NANA, and $REV benefit from the productive use of its protocols and the distribution of a Banny brand that's rooted in Juicebox lore, from V4 activity that adds value to $NANA, and revnet activity that adds value to $REV.  |
 | **Edge** | If character-based storytelling is key to relatability, $BANNY and BLLC are uniquely positioned to distribute the values that Banny has grown synonymous with over the years, while making the novel token-based concepts it's associated with approachable. |
@@ -578,6 +589,7 @@ Here's a good overview of this topic approached more from the $JBX and $REV pers
 - RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
 - RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
 - $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is certainly a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
+
 
 #### What are the risks I should be aware of?
 
