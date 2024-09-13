@@ -271,7 +271,7 @@ $TOKEN holders are incentivized to prefer that their revnet loans out as much as
 
 Loans can last a maximum of 10 years. A borrower can choose to pay over time at a rate that linearly increases as the loan duration approaches 10 years, choose to pre-pay for the loan at half the cost, or mixed – prepay for some duration and continue on paying full price if its still not paid off. This revenue goes to the revnet itself, issuing or buying back more $TOKENs for the borrower. 
 
-Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addition to this fee charged to the revnet being borrowed from.
+Loans from all revnets also incur a 2.5% $NANA fee and a 0.5% $REV fee, in addition to the afore mentioned fee charged to the revnet being borrowed from.
 
 ### 2.3 $REV
 
