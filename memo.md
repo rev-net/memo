@@ -35,6 +35,7 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
      - [Spend](#spend)
    - [2.5 RF1](#2.5-rf1)
    - [2.6 Visual flows](#2.6-visual-flows)
+   - [2.7 Decisions](#2.7-decisions)
 
 3. [Part 3 – What do they look like?](#part-3--what-do-they-look-like)
    - [3.1 Overview](#3.1-overview)
@@ -42,7 +43,6 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
    - [3.3 Real upcoming revnets](#3.3-real-upcoming-revnets)
    - [3.4 FAQ](#3.4-faq)
      - [How would revnets work in the context of traditional capitalization structures?](#how-would-revnets-work-in-the-context-of-traditional-capitalization-structures)
-     - [Should I invest in RRG, $REV, or...?](#should-i-invest-in-rrg-rev-or)
      - [What are the risks I should be aware of?](#what-are-the-risks-i-should-be-aware-of)
      - [Which blockchains?](#which-blockchains)
 --- 
@@ -199,19 +199,21 @@ We're calling on all who believe in this revenue-forward version of the open int
 ### 2.1 Overview
 
 Investors interested in the promise of revnets should know there are three core entities at play:
-- **$REV:** A revnet.
+- **$REV:** A revnet benefiting from the growth of revnets.
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
 It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets – revnets are built using Juicebox V4 after all. $JBX is the mothership and will continue to be the juicebox ecosystem's governance token that invests in its development while managing and allocating a book of assets, largely juicebox-based and revnet-based tokens it holds.
 
-Juicebox V4's fee collecting token will also be a revnet with the ticker $NANA. It will act as a revenue-generating unit of account stewarded by Juicebox DAO.
+Juicebox V4's fee collecting token will also be a revnet with the ticker $NANA. It will act as a revenue-generating unit of account owned in large part by Juicebox DAO.
 
-In summary, they have the following relationships:
+Out of these, $JBX and $REV are the only interesting investments for onchain allocators. RF1 is the only interesting investment for offchain allocators.
+
+In summary, they all have the following relationships:
 - $REV's split is operated by RRG, described below.
 - RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
-- Juicebox DAO makes, secures, and markets the Juicebox v4 protocol with which all revnets are expressed.
+- Juicebox DAO makes, secures, and markets the Juicebox V4 protocol with which all revnets are expressed.
 - Each revnet pays a 2.5% cash out fee to $NANA.  
 - $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
 - The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
@@ -431,6 +433,20 @@ The following pay flow, cash out flow, and borrow flow illustrate each user jour
 <img width="1289" alt="image" src="https://github.com/user-attachments/assets/a62bc03a-15a4-4900-9fa1-15f9452a65a9">
 <img width="1289" alt="image" src="https://github.com/user-attachments/assets/e2eb26e0-5fbd-4d41-a620-a4e2bf4b2108">
 
+### 2.7 Decisions
+
+You'll have to do your own further research to decide if you should invest in $REV, $JBX, RF1, or others.
+
+In summary:
+
+- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years – the revnet project and several others were informally incubated from within Juicebox DAO. It is expected to receive a split of $REV issuance and buybacks from RRG, likely making it a good proxy to build ongoing exposure to $REV's revenue growth – albeit subject to RRG's discretion and to the risks associated with Juicebox DAO's governance process. You can learn more [here](https://docs.juicebox.money/dao/).
+- Also for those onchain, $REV benefits from revnet revenue growth without governance proxies, while also aligning fully with RRG and providing direct operating capital to RRG.
+- RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
+- RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
+- $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is certainly a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
+
+For another overview of this topic, see this post by Jango: [https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/](https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/)
+
 ---
 
 ![image](https://github.com/user-attachments/assets/ac3db796-bdfc-4cb3-be41-78428ecbf586)
@@ -580,21 +596,6 @@ These organizations can act as both token holders and split operators. As a toke
 This flexibility allows traditional organizations to tailor the revnet to their specific needs and goals. Meanwhile, the revnet remains resiliant to being rugged by the entity, as doing so will incure the exit tax and benefit remaining holders most. Everyone involved is incentivizes to grow the revnet, even if there also exits other incentives alongside to grow a for-profit or non-profit traditional organization – in ideal cases these go hand-in-hand.
 
 Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of the $REV revnet. This means RRG retains a significant stake in the revnet's growth while leaving 60% of the tokens to the broader community, incentivizing collective participation and shared success.
-
-#### Should I invest in RRG, $REV, or...?
-
-There are five core entities in play: $REV, RRG LLC, RF1 LLC, $NANA, and JuiceboxDAO ($JBX).
-
-Here's a good overview of this topic: [https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/](https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/)
-
-In summary:
-
-- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. It is expected to receive a split of $REV issuance and buybacks from RRG, likely making it a good proxy to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with its governance process. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, build direct exposure to $REV to benefit from revenue growth without governance proxies, while also aligning fully with RRG and providing direct operating capital to RRG.
-- RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
-- RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
-- $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is certainly a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
-
 
 #### What are the risks I should be aware of?
 
