@@ -174,10 +174,9 @@ We've also seen the negligence and gross extractive tendencies that over-leverag
 
 Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects – many of our own – to hit the gas with confidence and without incumbent tradeoffs. 
 
-For those already familiar with Juicebox, note that revnets are just Juicebox projects with three special traits:
+For those already familiar with Juicebox, note that revnets are Juicebox projects with two main restrictions:
 - **No Ownership:** They are owned by a special smart contract that enforces rules throughout the project's life, as opposed to being owned by an entity that can influence changes over time. This contract grants a few scoped permissions to the address initially specified as the revnet's split operator.
 - **No Payouts:** They have no payouts, meaning all funds stay in the treasury backing the value of the project's tokens, and can only be accessed by token holders themselves. 
-- **Revnet fee:** They incur an extra 2.5% fee on cash outs (redemptions), accruing to $REV.
 
 The time for revnets is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money and rules was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
