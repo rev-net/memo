@@ -70,7 +70,7 @@ Open source and openly accounted-for fundraises and revenues should outcompete e
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
 - **Cost Efficiency:** Many managerial and other expenses are not needed when there are no secrets or artificial barriers to progress.
 
-They struggle to enforce revenue-generation to pay for innovation, maintenance, and growth due to three core dilemmas:
+They struggle to enforce revenue generation to pay for innovation, maintenance, and growth due to three core dilemmas:
 
 - **Monetization Dilemma:** Establishing and justifying debt obligations, growth expenditures, and profit margins on revenue is difficult as an open business scales.
 - **Moat Dilemma:** The work and strategies of open businesses can be copied without inheriting the baggage of the original, meaning cheaper alternatives can emerge easily, devaluing the various costs borne by the original.
@@ -96,7 +96,7 @@ We think revnets might be it: A win-win-win growth engine for investors, builder
 
 Revnets are easy to use, a bicycle for online economies. They resolve the three dilemmas above by creating openly accounted-for financial networks with bounded risks that benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
 
-Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^2] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses to tokenize revenues, fundraises, compensation, and financial partnerships globally. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
+Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^2] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses who will need to have their revenues, fundraises, compensation, and global financial partnerships tokenized in order to better serve their customers. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
 We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fundraises and revenues from all revnets. We invite you to take part in $REV, the first 90 days favor grassroots investors on equal terms. We're also supporting the launch of revnets for six other spectacular projects we've been working with, demonstrating how revnets are:
 
@@ -110,7 +110,7 @@ Projects will choose a revnet business structure when they prefer their outcome 
 
 Think of revnets like a spicy Bitcoin halvening rule. Similar to Bitcoin, revnets are a fully pre-configured financial structure – although they can evolve over time, they do so according to rules that are set in place at the time of their creation. Unlike Bitcoin, the rules dont involve proof-of-work with periodic supply shocks that lead to a fixed supply of 21m coins over time. Revnets enforce a certain other set of guarantees affecting inflows and outflows of money.
 
-These guarentees can be visualized as a digital vending machine:
+These guarantees can be visualized as a digital vending machine:
 1. Receives dollar bills from a business's raised funds and revenues.
 2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifacts (NFTs) in return.
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
@@ -234,7 +234,7 @@ Revnets unfold in stages. Each stage specifies five rules that dictate everythin
 | **Automint**       | How many $TOKENs get minted to a list of recipients at the start of the stage? This functions like a "pre-mint" only accessible once the stage has started.                                                                                                                                                                                                                   |
 | **Cash out tax**   | How much does the revnet's next potential cash out increase each time a $TOKEN holder cashes out? This means each revnet always quotes a cash out exchange rate that gets better as others cash out, take out loans, or new funds come in. The cash out tax is specified with a number 0-1, with 0.99 being the most intense tax and 0 being no tax.                                                                                                                                                                                                                                                                 |
 
-Revnets inherits some useful properties from Juicebox V4:
+Revnets inherit some useful properties from Juicebox V4:
 - **AMM Liquidity:** If $TOKEN holders add liquidity to an AMM[^3] and it offers a better price than the revnet, the revnet will route incoming payments to that market instead of issuing new $TOKENs. The revnet's split is applied to these buybacks as well.                 
 - **Multicurrency:** A revnet can accept and hold any number of assets received as revenue, though it defines its $TOKEN price in one consistent currency. If it issues 1,000 $TOKENs per ETH and the revnet is paid some USDC, $TOKENs are issued given the current USDC/ETH price. The revnet can be set up to either hold the USDC received and allow its $TOKEN holders to cash out from this balance, or auto-swap the USDC for an asset it prefers to hold. The network's $TOKENs are backed by the assets it chooses to hold, inheriting their risks and opportunities. 
 - **Omni-chain:** Revnets can grow to accept money on new EVM-compatible networks[^4] as they emerge, and also offer cash outs on those networks. Holders can move their $TOKENs between chains. When they do, the revnet automatically moves its assets so that the $TOKENs maintain their underlying value. 
