@@ -3,8 +3,8 @@
 
 This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
-2. **What are the terms?:** Includes specifics of how you are invited to participate as investors, and an FAQ.
-3. **What do they look like?:** Illustrates the opportunity with examples, case studies, and a peak into various game changing revnets being planned. 
+2. **What are the terms?:** Includes specifics of how you are invited to participate as investors.
+3. **What do they look like?:** Illustrates the opportunity with examples, case studies, and a peak into various game changing revnets being planned.
 
 Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet.
 
@@ -52,9 +52,11 @@ Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX
 
 ### 1.1 TLDR
 
-Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. This has often led to misallocated resources and capital losses.
+Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, AI-agents, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
+As the web rapidly tends towards being more open – with financial agreements expressed as crypto protocols on public blockchains, and AIs able to generate code and information of just about anything – we need a value capture system that resolves this tension and reorients us towards collaborative growth.
+
+Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
 Revnets are an openly accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
 
@@ -62,7 +64,7 @@ Join us – a group of Web3 builders who have helped facilitate over $180 millio
 
 ### 1.2 Overview
 
-With today's societal demand for mobility[^1], open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
+Open source and openly accounted-for fundraises and revenues should outcompete everything by enabling:
 
 - **Scaled Participation:** Flexible and potentially-global community with vested interests.
 - **Full Transparency:** Public code and accounting is more trustworthy and easier to cooperate with.
@@ -76,7 +78,7 @@ They struggle to enforce revenue-generation to pay for innovation, maintenance, 
 
 This makes realizing open ideals reliant on free and inconsistent labor, donations, grants, or corporate sponsorship, when this should instead be the most investable and rewarding category of internet business.
 
-Auto-enforceable blockchain agreements are the correct building block on which to build legitimate decentralized value networks, but today's attempted business model solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
+Web3's auto-enforceable blockchain agreements are the correct building block on which to build legitimate decentralized value networks, but today's attempted business model solutions are incomplete and come with unsustainable tradeoffs. Businesses and investors currently have the following options for monetizing onchain:
 
 - **Liquidity farming:** Tokenized models marketed as open and yield providing, but with implicit or explicit backdoors for insiders to dump on retail once they've filled their bags. 
 - **Governance DAOs:** Tokenized voting systems that decide how raised funds and revenues should be spent, creating power struggles that get in the way of effective capital allocation.
@@ -85,7 +87,9 @@ Auto-enforceable blockchain agreements are the correct building block on which t
 - **Custom mechanisms:** Custom tokenization dynamic with a unique set of coded rules that attempt to fulfill a desired set of outcomes, but requiring everyone to learn a new jargon-filled system and trust that it is implemented bug free.
 - **Grants and donations:** No tokenized monetization strategy, just builders and investors with an expectation that their value creation, if done openly, will be retroactively rewarded by altruists who directly benefited from the outcomes.
 - **No progress:** Take investments and fees to a centralized wallet to operate from just like traditional capital structures, with no networked benefits from the tools at our disposal apart perhaps from automated vesting, airdrops of meme tokens not actually backed by revenue, or tokenized accounting of its own books.
-  
+
+These have often led to misallocated resources and capital losses.
+
 We need a better place to put our entrepreneurial capital and use it effectively. A revenue-forward growth-oriented solution that is sustainable, reliable, simple, and massively scalable to help every value-creating business with an online growth presence – local and global – realize their potential in the upcoming tokenized economy.
 
 We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience designing, building, securing, and distributing Ethereum-based tokenization infrastructure.
@@ -614,7 +618,7 @@ Ethereum is one of a kind. We have incredible respect and gratitude for the work
 
 ![image](https://github.com/user-attachments/assets/38465715-5f4e-4c9d-8259-4595959447be)
 
-[^1]: Increased demand for mobility due to mobile productivity, post-covid remote work leniance, ease of travel, internet-scale social networks, airbnbs, digital nomadship, global media marketing, lifestyle desires, climate change risk mitigation, political preferences, the emergence of borderless money and identification, online education, globalism, increase in cross-cultural families, and likely other reasons.
-[^2]: https://www.youtube.com/watch?v=D0ek2yv81Gk
+[^1]: https://www.youtube.com/watch?v=D0ek2yv81Gk
+[^2]: Increased demand for mobility due to mobile productivity, post-covid remote work leniance, ease of travel, internet-scale social networks, airbnbs, digital nomadship, global media marketing, lifestyle desires, climate change risk mitigation, political preferences, the emergence of borderless money and identification, online education, globalism, increase in cross-cultural families, and likely other reasons.
 [^3]: https://docs.uniswap.org/concepts/uniswap-protocol#order-book-vs-amm
 [^4]: https://ethereum.org/en/developers/docs/evm/
