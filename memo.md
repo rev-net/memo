@@ -6,7 +6,7 @@ This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 2. **What are the terms?:** Includes specifics of how you are invited to participate as investors.
 3. **What do they look like?:** Illustrates the opportunity with examples, case studies, and a peak into various game changing revnets being planned.
 
-Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet. 
+In so doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet. 
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
@@ -115,7 +115,7 @@ These guarantees can be visualized as a digital vending machine:
 2. Dispenses its unique tokens (henceforth $TOKENs) and optionally digital artifacts (NFTs) in return.
 3. The only way to access the dollar bills the machine has earned is to give it its $TOKENs back.
 
-Revnets enforces three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
+Revnets enforce three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
 
 - **$TOKEN price:** There is always a price at which the revnet is willing to issue new $TOKENs. If there exists an AMM offering a better rate than the $TOKEN issuance price, the revnet will instead forward inbound funds to the AMM. This price can be set to change over time at a customizable rate.
 - **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
@@ -164,7 +164,7 @@ Part 2 of this memo digs in deeper, and discusses how we are tuning the $REV rev
 
 ### 1.4 Why now? Why us?
 
-Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser, and 1,331 other projects, facilitating over $185 million in ETH payments.
+Those of us developing revnets have been contributors to the Ethereum ecosystem over the past 4 years, most notably having helped build the Juicebox protocol, the juicebox.money app, and the Juicebox DAO community driven by the $JBX network. Juicebox is public infrastructure that provides a tokenized language for expressing various organizational financial guarantees. It has been fundamental to the making of Constitution DAO, Assange DAO, Shark DAO, Moon DAO, Cryo DAO, Juicebox DAO, the Tornado Cash developer legal defense fundraiser and 1,331 other projects, facilitating over $185 million in ETH payments.
 
 In this era of crypto and media networks that innovate on internet-native concepts, and with societal demand for mobility[^1], private corporate-stock models of centralized organization are anachronistic. We've experienced the demand for tokenized fundraising and revenue first hand, we know the tradeoffs of the tokenization tools at our disposal intimately well, and we know how cultural narratives around tokens work. We've been consistently one step ahead of the curve and steadfast in our values.
 
@@ -245,10 +245,10 @@ Notice, revnets can be tuned to achieve various outcomes. They are not cheatcode
 
 Each revnet should consider its own unique circumstances when navigating the following tuning decisions:
 - **Choosing a price:** revnets with infrequent and shallow price decreases leave room for more equal access over time to entice newcomers, but may lack energy from incumbent participants whose contributions are less recognized.
-- **Choosing a cash out tax:** revnets with a larger cash out tax reward more committed participants, but give everyone less access to liquidity.
+- **Choosing a cash out tax:** revnets with a larger cash out tax reward more committed participants, but give everyone less access to liquidity and loans.
 - **Choosing token distribution:** revnets with splits or automints can acknowledge the non-financial forms of participation which are often the subjects around which they revolve, but also can create scoped management burdens requiring more trust.
 
-There is no such thing as an apriori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
+There is no such thing as an a priori ideal tuning of a revnets rules, just as there was never an apriori perfect Bitcoin halvening timeframe or fixed supply number. A successful tuning is one that manages to convey the right incentives – either on purpose or on accident – to stimulate growth over time.
 
 Three effects to visually note:
 
@@ -599,7 +599,7 @@ Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of t
 
 #### What are the risks I should be aware of?
 
-**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exist across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
+**Smart contract risk**: Revnets are built using the Juicebox V4 protocol which can exist across multiple EVM blockchains. Though it is a fork and iteration of Juicebox V3 that secures tens of millions of dollars in locked value on Ethereum mainnet, there is the possibility of smart contract bugs that cause the system to collapse. JuiceboxDAO has spent the better part of the last year's time and budget on testing, documentation, and hiring third party auditors, though it is always encouraging more eyes on the open source code base. Ultimately, smart contract security comes from production lindiness while managing funds at risk.
 
 **Organizational risk**: $REV runs on its own and has no organizational risk. RRG and $JBX on the other hand, do have organizational risks exposed through the same governance means that affords them certain flexibilities to pursue emergent opportunities. Engaging with either RRG or $JBX should warrant due diligence to understand how decisions have been made and how they'll likely continue to be made within those organizations.
 
