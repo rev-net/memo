@@ -6,7 +6,7 @@ This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 2. **What are the terms?:** Includes specifics of how you are invited to participate as investors.
 3. **What do they look like?:** Illustrates the opportunity with examples, case studies, and a peak into various game changing revnets being planned.
 
-Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet.
+Inso doing, it'll also lay out the strategy for the future of Juicebox DAO ($JBX), whose upcoming Juicebox V4 protocol will host a fee collecting project modeled as a revnet. 
 
 ## Contents
 1. [Part 1 – What's the big deal?](#part-1--whats-the-big-deal)
@@ -103,8 +103,6 @@ We're deploying a $REV revnet that'll earn 2.5% of all funds cashed out from fun
 - **Versatile:** This simple financial instrument has the power to support diverse applications.
 - **Standardized:** They create a familiar business interaction standard, leading to a positive feedback loop for all revnet-based projects.
 - **Interoperable:** They have the ability to relate financial outcomes between each other, encouraging more collaboration within a competitive business landscape. 
-
-We're also deploying a $NANA revnet as the fee collecting project of the Juicebox V4 protocol, which will act more as a revenue-generating unit of account stewarded by $JBX governance – a token network now active for over 3 years.
 
 Projects will choose a revnet business structure when they prefer their outcome to be oriented towards maximizing the network's self-propagation while minimizing the potential of any party with privileged access and exploitable liabilites. They'll understand their work to have value while also understanding a network's preference to work for itself once instigated, like Bitcoin and Ethereum.
 
@@ -205,7 +203,9 @@ Investors interested in the promise of revnets should know there are three core 
 - **Revnet Research Group, LLC (RRG):** The split operator of the $REV revnet to start.
 - **Revnet Fund 1, LLC (RF1):** A fund that interfaces between traditional limited partners and onchain revnets.
 
-It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets – revnets are built using Juicebox V4 after all. $JBX is the mothership and will continue to be the juicebox ecosystem's governance token that invests in its development while managing and allocating a book of assets, largely juicebox-based and revnet-based tokens it holds such as $NANA, $REV, $BANNY, etc. $NANA and $BANNY are explained in section 3 of this memo, $REV is explained below.
+It is important to also mention Juicebox DAO ($JBX), the community instrumental to the research and development of revnets – revnets are built using Juicebox V4 after all. $JBX is the mothership and will continue to be the juicebox ecosystem's governance token that invests in its development while managing and allocating a book of assets, largely juicebox-based and revnet-based tokens it holds.
+
+Juicebox V4's fee collecting token will also be a revnet with the ticker $NANA. It will act as a revenue-generating unit of account stewarded by Juicebox DAO.
 
 In summary, they have the following relationships:
 - $REV's split is operated by RRG, described below.
@@ -585,10 +585,12 @@ Revnet Research Group (RRG) exemplifies this approach by taking a 40% split of t
 
 There are five core entities in play: $REV, RRG LLC, RF1 LLC, $NANA, and JuiceboxDAO ($JBX).
 
-Here's a good overview of this topic approached more from the $JBX and $REV perspectives: [https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/](https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/)
+Here's a good overview of this topic: [https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/](https://jango.eth.sucks/703DEF83-5E38-4294-8D68-196F8AE4F686/)
 
-- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. It is expected to receive a split of $REV issuance and buybacks, making it a great proxy to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with its governance process. You can learn more [here](https://docs.juicebox.money/dao/).
-- Also for those onchain, build direct exposure to $REV to benefit from revenue growth without governance proxies, while also providing direct operating capital to RRG.
+In summary:
+
+- For those comfortable accessing tokens onchain, $JBX is a fixed-supply governance token which has been on the market for several years, now utilizing its treasury to build out the Juicebox ecosystem – the revnet project and several others were informally incubated from within JuiceboxDAO. It is expected to receive a split of $REV issuance and buybacks from RRG, likely making it a good proxy to build ongoing exposure to $REV's revenue growth – albeit subject to the risks associated with its governance process. You can learn more [here](https://docs.juicebox.money/dao/).
+- Also for those onchain, build direct exposure to $REV to benefit from revenue growth without governance proxies, while also aligning fully with RRG and providing direct operating capital to RRG.
 - RRG LLC is an operational group whose mission is to grow $REV. It is not directly investable.
 - RF1 LLC is the only current way to access the ecosystem for participants who don't want to access tokens directly onchain. RF1 will facilitate revnet interactions on traditional investors' behalf, albeit for a management fee.
 - $NANA benefits from broad Juicebox V4 growth, including but not limited to revnets. It welcomes direct participation without proxies, though it will be largely held by Juicebox DAO. $JBX is certainly a better vehicle for broad ecosystem exposure if you're comfortable with its current governance risks.
