@@ -1,5 +1,5 @@
 # Revnets | For Investors, Entrepreneurs, and Customers of Products and Services Monetized on the Open Internet
-**Add value => grow revenue => become wealthy openly and welcomely together.**
+**A growth engine for the open internet.**
 
 This memo makes the case for revnets and $REV. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
