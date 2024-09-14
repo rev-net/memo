@@ -246,7 +246,7 @@ Revnets inherit some useful properties from Juicebox V4:
 Notice, revnets can be tuned to achieve various outcomes. They are not cheatcodes for entrepreneurs and investors lacking earnest real world insight, nor capital magnets for those expecting a free lunch. They still take strategy, risk, storytelling, and execution, amplifying those who follow through. 
 
 Each revnet should consider its own unique circumstances when navigating the following tuning decisions:
-- **Choosing a price:** revnets with infrequent and shallow price decreases leave room for more equal access over time to entice newcomers, but may lack energy from incumbent participants whose contributions are less recognized.
+- **Choosing a price:** revnets with infrequent and shallow price decreases leave room for more equal access over time to entice newcomers, but may lack energy from incumbent participants whose contributions and timing are less distinguished.
 - **Choosing a cash out tax:** revnets with a larger cash out tax reward more committed participants, but give everyone less access to liquidity and loans.
 - **Choosing token distribution:** revnets with splits or automints can acknowledge the non-financial forms of participation which are often the subjects around which they revolve, but also can create scoped management burdens requiring more trust.
 
