@@ -1,4 +1,4 @@
-# Revnets | A Growth Engine for the Open Internet
+# Revnets | A Growth Engine for the Unstoppable Open Internet
 
 This memo makes the case for revnets and $REV for investors, entrepreneurs, and customers of products and services monetized on the open internet. It is delivered in 3 parts:
 1. **What's the big deal?:** Provides context about the problem and how revnets are positioned to play a role in shaping the future.
