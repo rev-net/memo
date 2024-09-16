@@ -169,7 +169,7 @@ In this era of crypto and media networks that innovate on internet-native concep
 
 We've also seen the negligence and gross extractive tendencies that over-leveraged entrepreneurs, investors, and traders can succumb to when left unchecked.  Blockchains give us transactional freedoms – using them to progress positive-sum game-theoretic financial applications like revnets is non-trivial, while using them to manipulate the public with hyped-up zero-sum Ponzi schemes is easy and unfortunately all too common.
 
-Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects – many of our own – to hit the gas with confidence and without incumbent tradeoffs. 
+Revnets are the next step. They are an expression of the Juicebox language we know so well, and the tokenized standard we're sorely missing to encourage more projects – many of our own – hit the gas with confidence and without incumbent tradeoffs. 
 
 For those already familiar with Juicebox, note that revnets are Juicebox projects with two main restrictions:
 - **No Ownership:** They are owned by a special smart contract that enforces rules throughout the project's life, as opposed to being owned by an entity that can influence changes over time. This contract grants a few scoped permissions to the address initially specified as the revnet's split operator.
