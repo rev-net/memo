@@ -53,7 +53,7 @@ In so doing, it'll also lay out the strategy for the future of Juicebox DAO ($JB
 
 Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. 
 
-As the web rapidly tends towards being more open – with financial agreements expressed as crypto protocols on public blockchains, and AIs able to generate code and information of just about anything – we need a value capture system that resolves this tension and reorients us towards collaborative growth.
+As the web rapidly tends towards being more open – with agreements expressed through crypto protocols on public blockchains, and AIs able to generate code and information of just about anything – we need a value capture system that resolves this tension and reorients us towards collaborative growth.
 
 Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
 
@@ -93,7 +93,7 @@ We need a better place to put our entrepreneurial capital and use it effectively
 
 We think revnets might be it: A win-win-win growth engine for investors, builders, and retail customers of open source and beyond. Built by developers who've helped facilitate over $185 million in ETH payments over their past 4 years of experience designing, building, securing, and distributing Ethereum-based tokenization infrastructure.
 
-Revnets are easy to use, a bicycle for online economies. They resolve the three dilemmas above by creating openly accounted-for financial networks with bounded risks that benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
+Revnets are easy to use, a bicycle for online economies. They resolve the three dilemmas above by creating openly-accounted-for financial networks with bounded risks that benefit those who pay fees, invest, help the network grow and stick around. They are great for startups overcoming the cold start problem, and a great exit strategy for established organizations such as governance DAOs like UNI, ENS, ARB, JBX, and others who prefer tending towards autopilot growth benefiting all members.
 
 Importantly, revnets aren't just an esoteric tool for obscure internet subcultures. Blackrock CEO Larry Fink and prominent others say the necessary and inevitable tokenization of everything will enhance the landscape of finance. As Fink puts it, "the next generation for markets, the next generation for securities, will be tokenization of securities."[^2] We have understood this for years. We think revnets will participate in the mainstream's vision by being the most productive structure for both large organizations and small businesses who will need to have their revenues, fundraises, compensation, and global financial partnerships tokenized in order to better serve their customers. Revnets are the SAFE and C-Corp agreements of this economy, but 100x better.
 
@@ -116,9 +116,9 @@ These guarantees can be visualized as a digital vending machine:
 
 Revnets enforce three main customizable rules that can be preset to change over time, but whose sequence is fixed once set:
 
-- **$TOKEN price:** There is always a price at which the revnet is willing to issue new $TOKENs. If there exists an AMM offering a better rate than the $TOKEN issuance price, the revnet will instead forward inbound funds to the AMM. This price can be set to change over time at a customizable rate.
-- **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account. This split percent can be set to change over time at customizable intervals.
-- **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnet's revenues back to the holder. A customizable cash out tax rate means each cash out increases the value of the next cash out, rewarding those who stick around longer. 
+- **$TOKEN price:** There is always a price at which the revnet is willing to issue new $TOKENs. If there exists an AMM offering a better rate than the $TOKEN issuance price, the revnet will instead forward inbound funds to the AMM.
+- **$TOKEN split:** The purchase of $TOKENs can split some off to a privileged account.
+- **Cash out tax:** $TOKENs can be cashed out by returning them to the revnet, which distributes some of the revnet's revenues back to the holder. A non-zero tax rate means each cash out increases the value of the next cash out, rewarding those who stick around longer. 
 
 > For example:
 > 1. A revnet can be paid in ETH, and/or other tokens (shown below as green dollar bills).
