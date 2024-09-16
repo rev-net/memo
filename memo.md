@@ -179,7 +179,7 @@ You can see the specifics in the revnet smart contract https://github.com/rev-ne
 
 The time for revnets is now – revnets would be too fragile to exist if a rent-seeking fiduciary facilitating the handling of money (banks) or rules (courts) was required, and can only outcompete as an encoded contract between network participants enforced by the blockchain protocols of today. 
 
-Speculatively, if AI-agent networks continue to gain adoption, revnets will exist to enrich users of AI-produced goods and services who's marginal cost of labor tends toward zero, in contrast to incumbent models that extract from users to enrich AIs and their centralized creators.
+Speculatively, if AI-agent networks continue to gain adoption, revnets will exist to empower users of AI-produced goods and services who's marginal cost of labor tends toward zero, in contrast to incumbent models that extract from users to empower AIs and their centralized creators.
 
 We've been working on revnets conceptually since late 2023, they're now implemented and ready for showtime. Importantly, revnets are built using Juicebox V4, whose fee collecting project will itself be modeled as a revnet. Juicebox V4's main innovation is enabling omnichain projects, meanning each revnet can exist across any number of blockchains and extend to new ones as they emerge and prove legitimate. This also means all revnets will show up on juicebox.money and other Juicebox explorers by default. Part 2 further explains how these entities relate.
 
