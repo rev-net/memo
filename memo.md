@@ -388,10 +388,9 @@ RRG will use the $REV it earns to support the launch, security, and distribution
 
 1. staff jango (project/contract/tech lead).
 2. staff 0xBa5ed and Nowonder as dev tooling and contract security leads.
-2. staff JohnnyD and Wraeth as client-side leads for revnet.app (since aeolian will be handing off development once deployed).
-3. look to hire an operations lead (since filip will be handing off ops responsibilities once deployed).
-5. staff kmac (bizdev).
-4. retain rob (legal).
+3. staff JohnnyD and Wraeth as client-side leads for revnet.app (since aeolian will be handing off development once deployed).
+4. staff kmac (bizdev).
+5. retain rob (legal).
 
 [Aeolian](https://x.com/aeolianeth) has been working on Juicebox since November 2021, and leading the development of [juicebox.money](https://juicebox.money) since 2022. Aeolian also makes essential tools to support the Juicebox ecosystem: [juicescan.io](https://www.juicescan.io), the [Juicebox SDK](https://github.com/Bananapus/juice-sdk-v4), and the in-progress [revnet.app](https://revnet.app).
 
