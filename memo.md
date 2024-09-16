@@ -280,8 +280,7 @@ RRG is setting up $REV's revnet rules attempting to emphasize the following prin
 - **Simple:** Its rules play out in 3 stages that should be easy to think about, with occasional important shifts that feel ceremonial.
 - **Self-owned growth:** It should make sure all participants who will sustain its growth – investors, builders, storytellers, fans, donors, fee-paying retail consumers – feel like it benefits them.
 - **Clear incentives, from startup to scale:** It should make both elders and newcomers feel like it acknowledges risks and contributions over time.
-- **Inefficient rent seeking:** It should have a reliable immunity instinct that efficiently protects and rewards productivity.
-- **Flexible:** RRG will steward a meaningful token split affording it some operational flexibility, which is a responsibility it can minimize and revoke down the road. It will assume some trust from supporters.
+- **Just flexible enough:** RRG will steward a meaningful token split affording it some operational flexibility, which is a responsibility it can minimize and revoke down the road. It will assume some trust from supporters.
 
 #### $REV stage 1
 
