@@ -212,12 +212,12 @@ Out of these, $JBX and $REV are the only interesting investments for onchain all
 
 In summary, they all have the following relationships:
 - $REV's split is operated by RRG, described in upcoming sections.
+- $NANA's split is operated by Juicebox DAO.
 - RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
-- RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox V4 protocol with which all revnets are expressed.
-- Each revnet pays a 2.5% cash out fee to $NANA.  
-- $NANA operates as a revnet, meaning it pays a 2.5% cash out fee to $REV like all other revnets.
-- The above two points mean that each revnet's total cash out fee is 5%, with 2.5% going to $REV and 2.5% to $NANA.
+- $NANA operates as a revnet.
+- Each revnet pays a 2.5% cash out fee to $NANA (enforced by the Juicebox V4 protocol) and a 2.5% cash out fee to $REV (enforced by the revnet contract). 5% total. 
+- RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
 
 The upcoming section will go through the specifics in detail, with visual diagrams to show how these interactions work.
 
