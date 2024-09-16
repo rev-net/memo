@@ -483,11 +483,13 @@ An ongoing campaign could use a revnet to receive donations, with a large 99% sp
 
 #### $FILIPS_NAIL_SALON
 
-A nail shop could accept crypto payment to its revnet, with a fairly large 80% split to Filip used to run the shop. The 20% of $FILIPS_NAIL_SALON is the growth budget that rewards Filip's clients with incentives to keep coming back and spread the word and. Filip could also take cash and interact with the revnet on clients' behalf, keeping a spreadsheet of how many $FILIPS_NAIL_SALON each cash-paying customer has. Maybe some day they'll come to you with a wallet address to claim them from you.
+A nail shop could accept crypto payment to its revnet, with a fairly large 80% split to Filip used to run the shop. The 20% of $FILIPS_NAIL_SALON is the growth budget that rewards Filip's clients with incentives to keep coming back and spread the word. 
+
+Filip could also take cash and interact with the revnet on clients' behalf, keeping a spreadsheet of how many $FILIPS_NAIL_SALON each cash-paying customer has. Maybe some day they'll come to you with a wallet address to claim them from you.
 
 #### $KMACS_BIG_IDEA
 
-KMACs startup could use a revnet to fundraise, perhaps keeping a 50% split for operating costs. This lets investors measure their contributions maintain some liquidity with a clear path to growth. Anyone – KMAC, investors, community – can stand up new revenue sources routed to the revnet for everyone's benefit. If KMACs startup proves successful, he can opt to relinquish its role as split operator to an automated module that redistributes the split to stakers of $KMACS_BIG_IDEA. If the startup proves to be a failure, KMAC can burn any unused $TOKENs to make more funds available to investors, and investors can cash out as desired. KMAC could also hand the split operator role back to the investors.
+KMACs startup could use a revnet to fundraise, perhaps keeping a 50% split for operating costs. This lets investors maintain some liquidity with a clear path to growth. Anyone – KMAC, investors, community – can stand up new revenue sources routed to the revnet for everyone's benefit. If KMACs startup proves successful, he can opt to relinquish its role as split operator to an automated module that redistributes the split to stakers of $KMACS_BIG_IDEA. If the startup proves to be a failure, KMAC can burn any unused $TOKENs to make more funds available to investors, and investors can cash out as desired. KMAC could also hand the split operator role back to the investors.
 
 #### $JETFLIX
 
@@ -542,28 +544,32 @@ Below are some other revnets we're helping launch this next year within each of 
 | **Risks** | Maintaining an ENS proxy can be time consuming, expensive, and hard to automate. |
 
 
-### $CROPTOP
+### $CPN
+Croptop Publishing Network
+
 |      |        |
 |------|--------|
 | **Site** | [https://croptop.eth.sucks](https://croptop.eth.sucks) |
 | **Business model category**  |  Direct sales |
 | **Organizational category**  |  Onchain |
 | **Value prop**  |  Collects a 2.5% fee from mints made from Croptop templates, a simple IPFS-based peer-to-peer website template with content feeds and revenue streams baked in. |
-| **Big bet** | In order to be widely adopted, IPFS-based peer-to-peer websites need to be easy to deploy and easy to attach to ENS names. The croptop Mac app fulfills this ease. <br><br>As the template is increasingly used to onboard folks to the decentralized website stack and serve their content, $CROPTOP will benefit from a 2.5% fee taken on all mints originating from it. |
-| **Edge** | If content propegation benefits from being collectable, $CROPTOP and the community supporting it are uniquely positioned to remove barriers from publishing and minting across any number of blockchains. |
+| **Big bet** | In order to be widely adopted, IPFS-based peer-to-peer websites need to be easy to deploy and easy to attach to ENS names. The croptop Mac app fulfills this ease. <br><br>As the template is increasingly used to onboard folks to the decentralized website stack and serve their content, $CPN will benefit from a 2.5% fee taken on all mints originating from it. |
+| **Edge** | If content propegation benefits from being collectable, $CPN and the community supporting it are uniquely positioned to remove barriers from publishing and minting across any number of blockchains. |
 | **Risks** | Croptop templates can be adapted and served as folks wish, there is no way to enforce the fee at a programmatic level. |
 
 
-### $DEFIFA
+### $DGN
+Defifa Gaming Network
+
 |      |        |
 |------|--------|
 | **Site** | [https://defifa.net](https://defifa.net) |
 | **Business model category**  |  Direct sales |
 | **Organizational category**  |  Hybrid |
 | **Value prop**  |  Captures revenues from defifa prediction games. |
-| **$DEFIFA distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
-| **Big bet** | People enjoy playing games, making predictions, and being a part of cultural moments. Defifa allows prediction games to resolve based only on community engagement, no oracles necessary. The lack of a need for oracles means games can be created around any cultural moment at any time. Games can then be used as a fundraising or revenue component of other networks, adding dimension and interactivity to existing networks. <br><br>As more games are played, $DEFIFA will benefit from a 2.5% fee taken on all paid out funds originating from them.   |
-| **Edge** | If the need for oracles reduce the landscape of playable prediction games onchain, $DEFIFA and the Defifa Research Group are uniquely positioned to open up new niche prediction markets for communities to play that benefit players involved. |
+| **$DGN distribution** | Defifa Ballkids & JuiceboxDAO will each start out with some initial supply. Defifa Ballkids will retain a percentage of supply as its issued or bought back. |
+| **Big bet** | People enjoy playing games, making predictions, and being a part of cultural moments. Defifa allows prediction games to resolve based only on community engagement, no oracles necessary. The lack of a need for oracles means games can be created around any cultural moment at any time. Games can then be used as a fundraising or revenue component of other networks, adding dimension and interactivity to existing networks. <br><br>As more games are played, $DGN will benefit from a 2.5% fee taken on all paid out funds originating from them.   |
+| **Edge** | If the need for oracles reduce the landscape of playable prediction games onchain, $DGN and the Defifa Research Group are uniquely positioned to open up new niche prediction markets for communities to play that benefit players involved. |
 | **Risks** | Defifa games lean on social consensus to determine outcomes. Games resolve based on the outcome agreed on by players, not necessary the actual real world outcome. Incentives are designed to align these two outcomes, but there are no guarantees.   |
 
 ### $NANCE
