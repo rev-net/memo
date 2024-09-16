@@ -211,7 +211,7 @@ Juicebox V4's fee collecting token will also be a revnet with the ticker $NANA. 
 Out of these, $JBX and $REV are the only interesting investments for onchain allocators. RF1 is the only interesting investment for offchain allocators.
 
 In summary, they all have the following relationships:
-- $REV's split is operated by RRG, described below.
+- $REV's split is operated by RRG, described in upcoming sections.
 - RRG makes, secures, and markets tools that help make $REV and other revnets more successful.
 - RF1 takes in dollars from investors and limited partners, then converts to crypto for allocating to $REV and other revnet $TOKENs it believes in.
 - Juicebox DAO makes, secures, and markets the Juicebox V4 protocol with which all revnets are expressed.
