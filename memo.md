@@ -284,7 +284,7 @@ RRG is setting up $REV's revnet rules attempting to emphasize the following prin
 
 #### $REV stage 1
 
-_Price increases by 50% every 90 days. 40% of issuance and buybacks to Revnet Research Group. Automint an initial supply to acknowledge pre-net work. Cashing out leaves some money on the table._
+_Price increases by 50% every 90 days. 38% of issuance and buybacks to Revnet Research Group. Automint an initial supply to acknowledge pre-net work. Cashing out leaves some money on the table._
 
 | **Rule**      | **Value**                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -299,7 +299,7 @@ _Price increases by 50% every 90 days. 40% of issuance and buybacks to Revnet Re
 
 ##### $REV stage 2
 
-_Starts 2 years after the revnet is deployed. Price continues increase by 50% every 180 days. 40% of issuance and buybacks continue to Revnet Research Group. Automint a vested supply to acknowledge pre-net work. Cashing out still leaves some money on the table._
+_Starts 2 years after the revnet is deployed. Price continues increase by 50% every 180 days. 38% of issuance and buybacks continue to Revnet Research Group. Automint a vested supply to acknowledge pre-net work. Cashing out still leaves some money on the table._
 
 | **Rule**      | **Value**                                                                                                                                                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -334,7 +334,7 @@ Both token-comfortable people interacting directly from their favorite EVM block
 
 ### 2.4 Revnet Research Group (RRG)
 
-We'll use an LLC named Revnet Research Group to support the revnet ecosystem and help it interface with conventional tech and finance sectors.
+We'll use an LLC named Revnet Research Group to support the revnet ecosystem and help it interface with conventional tech and finance.
 
 We think it's important for RRG to set an example of how a corporate partnership can be successful as a scoped subcomponent of a public onchain revnet structure, in this case $REV. 
 
