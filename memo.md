@@ -51,15 +51,16 @@ In so doing, it'll also lay out the strategy for the future of Juicebox DAO ($JB
 
 ### 1.1 TLDR
 
-Today's crypto and media networks have a business model problem, rooted in the tensions between open source productivity and private value capture. 
+A revnet is a tokenized financial structure designed to align incentives among leaders, workers, investors, and customers. It operates like a digital vending machine that issues tokens in exchange for revenue, with predetermined rules governing token price, distribution, and cash-out mechanisms.
 
-As the web rapidly tends towards being more open – with agreements expressed through crypto protocols on public blockchains, and AIs able to generate code and information of just about anything – we need a value capture system that resolves this tension and reorients us towards collaborative growth.
+Today's crypto and media networks face a business model problem, stemming from tensions between open source productivity and private value capture. As the web rapidly becomes more open, we need a value capture system that resolves this tension and reorients us towards collaborative growth.
 
-Revnets offer a promising solution, as a hands-free all-in-one tokenized incentive machine, cap table, and growth engine for leaders, workers, investors, and yesterday's customers that helped make today possible, while removing common causes of disputes between them.
+Revnets offer a promising solution as an all-in-one incentive machine, cap table, and growth engine. They provide:
+* An openly-accounted-for standard for funding and distributing business offerings, open source projects, campaigns, indie media, and cultural movements.
+* A system that operates without governance risks, liquidity requirements, or management overhead.
+* A flexible structure simple enough for a group of friends, yet powerful enough for high net-worth, global communities, products, and brands.
 
-Revnets are an openly-accounted-for standard that can motivate the funding and distribution of business offerings, open source projects, campaigns, indie media, and cultural movements without governance risks, liquidity requirements, or management overhead. Simple enough for a group of friends, powerful enough for high net-worth, global communities, products, and brands.
-
-Join us – a group of Web3 builders who have helped facilitate over $180 million through the Juicebox protocol – in founding and growing the $REV network, which operates as revenue-generating revnet itself.
+Join us – a group of Web3 builders who have facilitated over $180 million through the Juicebox protocol – in founding and growing the $REV network, which operates as a revenue-generating revnet itself.
 
 ### 1.2 Overview
 
